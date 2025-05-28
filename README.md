@@ -1,5 +1,6 @@
 ![ENTrimmed Logo](https://github.com/user-attachments/assets/0dd37a29-14e9-4d21-80a9-22f035606dcf)
 
+### This project is very much a WIP. The dat format, headers and content are subject to change until the initial release is published. Use at your own risk.
 
 **ENTrimmed** is a curated DAT collection project focused on building clean, consistent, and practical ROM sets for retro game systems. It emphasizes English-speaking region preference, retail-only games, and a strict 1G1R (1 Game 1 ROM) format. The goal is to produce ROM libraries that are ready to play and free from clutter.
 
