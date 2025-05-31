@@ -30,7 +30,7 @@ Here are the systems I intend to include in the initial release of the dats.
 - NEC TurboGrafx-16: No-Intro & [T-En]
 - NEC TurboGrafx-CD: ReDump & [T-En]
 - Nintendo 64: No-Intro (BigEndian) & [T-En]
-- Nintendo 64DD: No-Intro & [T-En]
+- ~~Nintendo 64DD: No-Intro & [T-En]~~
 - Nintendo DS: Np-Intro (Decrypted) & [T-En]
 - Nintendo Entertainment System: No-Intro (Headered) & [T-En]
 - Nintendo Famicom Disk System: No-Intro (FDS)
