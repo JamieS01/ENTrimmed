@@ -26,11 +26,10 @@ Here are the systems I intend to include in the initial release of the dats. The
 - Atari Jaguar CD: ReDump
 - Atari Lynx: No-Intro (LYX)
 - Microsoft Xbox: ReDump ~~& [T-En]~~
-- ~~NEC PC-FX: ReDump & [T-En]~~
+- Microsfot Xbox 360: ReDump ~~& [T-En]~~
 - NEC TurboGrafx-16: No-Intro ~~& [T-En]~~
 - NEC TurboGrafx-CD: ReDump ~~& [T-En]~~
 - Nintendo 64: No-Intro (BigEndian) ~~& [T-En]~~
-- ~~Nintendo 64DD: No-Intro & [T-En]~~
 - Nintendo DS: Np-Intro (Decrypted) ~~& [T-En]~~
 - Nintendo Entertainment System: No-Intro (Headered) ~~& [T-En]~~
 - Nintendo Famicom Disk System: No-Intro (FDS)
@@ -38,6 +37,7 @@ Here are the systems I intend to include in the initial release of the dats. The
 - Nintendo Game Boy Advance: No-Intro ~~& [T-En]~~ 
 - Nintendo Game Boy Color: No-Intro ~~& [T-En]~~ 
 - Nintendo GameCube: RedumpCustom NKit RVZ ~~& [T-En]~~
+- Nintendo Wii: RedumpCustom NKit RVZ ~~& [T-En]~~
 - PC Engine SuperGrafx: No-Intro
 - Sega Dreamcast: ReDump ~~& [T-En]~~
 - Sega Game Gear: No-Intro ~~& [T-En]~~
@@ -50,6 +50,7 @@ Here are the systems I intend to include in the initial release of the dats. The
 - SNK Neo Geo Pocket Color: No-Intro ~~& [T-En]~~
 - Sony Playstation: ReDump ~~& [T-En]~~
 - Sony Playstation 2: ReDump ~~& [T-En]~~
+- Sony Playstation 3: ReDump ~~& [T-En]~~
 - Sony PSP: ReDump ~~& [T-En]~~
 - Super Nintendo Entertainment System: No-Intro ~~& [T-En]~~
 
@@ -70,7 +71,7 @@ ENTrimmed uses open-source, community-trusted tools for building and verifying s
 
 ENTrimmed DATs follow a consistent naming convention:
 
-[System] (1G1R, English) [ENTrimmed].dat
+System (1G1R, English) [ENTrimmed].dat
 
 ---
 
