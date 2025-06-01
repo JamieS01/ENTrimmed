@@ -1,7 +1,8 @@
 ![ENTrimmed Logo](https://github.com/user-attachments/assets/0dd37a29-14e9-4d21-80a9-22f035606dcf)
 
+### This project is a WIP. The dat format, headers and content are subject to change until the initial release is published. Use at your own risk.
 
-**ENTrimmed** is a curated DAT collection project focused on building clean, consistent, and practical ROM sets for retro game systems. It emphasizes English-speaking region preference, retail-only games, and a strict 1G1R (1 Game 1 ROM) format. The goal is to produce ROM libraries that are ready to play and free from clutter.
+**ENTrimmed** is a curated DAT collection project focused on building practical ROM sets for retro gamers. It emphasizes English-speaking region preference, retail-only games, and a strict 1G1R (1 Game 1 ROM) format. The goal is to produce ROM libraries that are ready to play and free from clutter.
 
 ---
 
@@ -15,6 +16,45 @@
 
 ---
 
+## Planned Releases
+
+Here are the systems I intend to include in the initial release of the dats. The initial release will not include entries from the T-En dats, as filtering these into a 1G1R set is a rather subjective process that requires careful consideration.
+
+- 3DO Interactive Multiplayer: ReDump ~~& [T-En]~~
+- Atari 7800: No-Intro (BIN)
+- Atari Jaguar: No-Intro (J64) ~~& No-Intro (ROM)~~
+- Atari Jaguar CD: ReDump
+- Atari Lynx: No-Intro (LYX)
+- Microsoft Xbox: ReDump ~~& [T-En]~~
+- ~~NEC PC-FX: ReDump & [T-En]~~
+- NEC TurboGrafx-16: No-Intro ~~& [T-En]~~
+- NEC TurboGrafx-CD: ReDump ~~& [T-En]~~
+- Nintendo 64: No-Intro (BigEndian) ~~& [T-En]~~
+- ~~Nintendo 64DD: No-Intro & [T-En]~~
+- Nintendo DS: Np-Intro (Decrypted) ~~& [T-En]~~
+- Nintendo Entertainment System: No-Intro (Headered) ~~& [T-En]~~
+- Nintendo Famicom Disk System: No-Intro (FDS)
+- Nintendo Game Boy: No-Intro ~~& [T-En]~~
+- Nintendo Game Boy Advance: No-Intro ~~& [T-En]~~ 
+- Nintendo Game Boy Color: No-Intro ~~& [T-En]~~ 
+- Nintendo GameCube: RedumpCustom NKit RVZ ~~& [T-En]~~
+- PC Engine SuperGrafx: No-Intro
+- Sega Dreamcast: ReDump ~~& [T-En]~~
+- Sega Game Gear: No-Intro ~~& [T-En]~~
+- Sega Genesis: No-Intro ~~& [T-En]~~
+- Sega Master System: No-Intro ~~& [T-En]~~
+- Sega Saturn: ReDump ~~& [T-En]~~
+- Sega SG-1000: No-Intro ~~& [T-En]~~
+- SNK Neo Geo CD: ReDump ~~& [T-En]~~
+- SNK Neo Geo Pocket: No-Intro
+- SNK Neo Geo Pocket Color: No-Intro ~~& [T-En]~~
+- Sony Playstation: ReDump ~~& [T-En]~~
+- Sony Playstation 2: ReDump ~~& [T-En]~~
+- Sony PSP: ReDump ~~& [T-En]~~
+- Super Nintendo Entertainment System: No-Intro ~~& [T-En]~~
+
+---
+
 ## Tools Used
 
 ENTrimmed uses open-source, community-trusted tools for building and verifying sets:
@@ -23,17 +63,6 @@ ENTrimmed uses open-source, community-trusted tools for building and verifying s
 - [**ROMVault**](https://www.romvault.com/) – For scanning, fixing, and validating
 - [**SabreTools**](https://github.com/SabreTools/SabreTools) – For DAT creation
 - [**DATVault**](https://www.datvault.com/) – For sourcing No-Intro, Redump and T-En DATs
-- Custom scripts (WIP)
-
----
-
-## How to Use
-
-1. Download the `.dat` file for your system of choice.
-2. Load it into your preferred ROM manager.
-3. Scan your ROM collection.
-4. Fix any mismatches or missing files.
-5. Enjoy a clean, verified set!
 
 ---
 
@@ -41,13 +70,7 @@ ENTrimmed uses open-source, community-trusted tools for building and verifying s
 
 ENTrimmed DATs follow a consistent naming convention:
 
-[System] (1G1R, English, Retail + T-en) [ENTrimmed vX.X].dat
-
-Each set includes:
-- 1G1R trimmed entries
-- English region preference
-- T-En patched games where applicable
-- Exclusions: hacks, betas, demos, homebrew, aftermarket
+[System] (1G1R, English) [ENTrimmed].dat
 
 ---
 
