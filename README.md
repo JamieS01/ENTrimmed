@@ -1,8 +1,8 @@
 ![ENTrimmed Logo](https://github.com/user-attachments/assets/0dd37a29-14e9-4d21-80a9-22f035606dcf)
 
-### This project is very much a WIP. The dat format, headers and content are subject to change until the initial release is published. Use at your own risk.
+### This project is a WIP. The dat format, headers and content are subject to change until the initial release is published. Use at your own risk.
 
-**ENTrimmed** is a curated DAT collection project focused on building clean, consistent, and practical ROM sets for retro game systems. It emphasizes English-speaking region preference, retail-only games, and a strict 1G1R (1 Game 1 ROM) format. The goal is to produce ROM libraries that are ready to play and free from clutter.
+**ENTrimmed** is a curated DAT collection project focused on building practical ROM sets for retro gamers. It emphasizes English-speaking region preference, retail-only games, and a strict 1G1R (1 Game 1 ROM) format. The goal is to produce ROM libraries that are ready to play and free from clutter.
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-## Planned Systems
+## Planned Releases
 
 Here are the systems I intend to include in the initial release of the dats. The initial release will not include entries from the T-En dats, as filtering these into a 1G1R set is a rather subjective process that requires careful consideration.
 
@@ -51,7 +51,7 @@ Here are the systems I intend to include in the initial release of the dats. The
 - Sony Playstation: ReDump ~~& [T-En]~~
 - Sony Playstation 2: ReDump ~~& [T-En]~~
 - Sony PSP: ReDump ~~& [T-En]~~
-- Super Nintendo Entertainment System: No-Intro ~~& [T-En]~~ 
+- Super Nintendo Entertainment System: No-Intro ~~& [T-En]~~
 
 ---
 
@@ -63,17 +63,6 @@ ENTrimmed uses open-source, community-trusted tools for building and verifying s
 - [**ROMVault**](https://www.romvault.com/) – For scanning, fixing, and validating
 - [**SabreTools**](https://github.com/SabreTools/SabreTools) – For DAT creation
 - [**DATVault**](https://www.datvault.com/) – For sourcing No-Intro, Redump and T-En DATs
-- Custom scripts (WIP)
-
----
-
-## How to Use
-
-1. Download the `.dat` file for your system of choice.
-2. Load it into your preferred ROM manager.
-3. Scan your ROM collection.
-4. Fix any mismatches or missing files.
-5. Enjoy a clean, verified set!
 
 ---
 
