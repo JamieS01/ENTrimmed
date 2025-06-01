@@ -26,7 +26,7 @@ Here are the systems I intend to include in the initial release of the dats. The
 - Atari Jaguar CD: ReDump
 - Atari Lynx: No-Intro (LYX)
 - Microsoft Xbox: ReDump ~~& [T-En]~~
-- NEC PC-FX: ReDump ~~& [T-En]~~
+- ~~NEC PC-FX: ReDump & [T-En]~~
 - NEC TurboGrafx-16: No-Intro ~~& [T-En]~~
 - NEC TurboGrafx-CD: ReDump ~~& [T-En]~~
 - Nintendo 64: No-Intro (BigEndian) ~~& [T-En]~~
