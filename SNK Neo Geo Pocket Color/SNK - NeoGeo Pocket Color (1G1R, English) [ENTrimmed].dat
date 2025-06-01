@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<name>SNK - NeoGeo Pocket Color</name>
+		<description>ENTrimmed (1G1R En)</description>
+		<category>Handheld</category>
+		<comment>SNK - NeoGeo Pocket Color (41) (-ny) [-AaBbcDdefkmMopPruv] (20240506-123728) (Retool)</comment>
+		<version>2025-06-01</version>
+		<author>Jamie S</author>
+		<homepage>https://github.com/JamieS01/ENTrimmed</homepage>
+		<url>https://github.com/JamieS01/ENTrimmed</url>
+		<retool>Created by Retool 2.3.9</retool>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<machine name="Baseball Stars Color - Pocket Sports Series (World) (En,Ja)">
+		<category>Games</category>
+		<description>Baseball Stars Color - Pocket Sports Series (World) (En,Ja)</description>
+		<rom name="Baseball Stars Color - Pocket Sports Series (World) (En,Ja).ngc" size="1048576" crc="d1434df5" md5="6f9f680b659369448f01508501c5a709" sha1="495199cd783e7cd962eece160dbc238a648c5e39" sha256="795a60b329dae73af701de42c941e1c9e63119c6ec332cd07a1d232df0f164be"/>
+	</machine>
+	<machine name="Big Bang Pro Wrestling (Japan) (En,Ja)">
+		<category>Games</category>
+		<description>Big Bang Pro Wrestling (Japan) (En,Ja)</description>
+		<rom name="Big Bang Pro Wrestling (Japan) (En,Ja).ngc" size="2097152" crc="f1716fdf" md5="184dc284995dc20ddce599426b9cac7d" sha1="5d0c956c2175d5af65c6e8595427fb1fea701ada" sha256="93a18ba454a1e15b5a8e3977e5e23c077c46dee5c03f55b23f75e12196feb5fe"/>
+	</machine>
+	<machine name="Biomotor Unitron (USA, Europe)">
+		<category>Games</category>
+		<description>Biomotor Unitron (USA, Europe)</description>
+		<rom name="Biomotor Unitron (USA, Europe).ngc" size="1048576" crc="3807df4f" md5="f4bbe8cf42074b75c8a911bf7b0562d5" sha1="ff74d5877bf58164419710888923e46b9cfb415e" sha256="30fa480670a2d3d703289b4857cf5a2afc85cbd7495dec01aacba379554054f9"/>
+	</machine>
+	<machine name="Bust-A-Move Pocket (USA)">
+		<category>Games</category>
+		<description>Bust-A-Move Pocket (USA)</description>
+		<rom name="Bust-A-Move Pocket (USA).ngc" size="1048576" crc="b073d601" md5="d91fd1c6c941bc2bde4ada3580fe408f" sha1="3b102e32fccf8ff389c508be55517368d56b144f" sha256="aae93b3d131c65963725d7ea6ce6a5b246a1a371d2bca6c66d7b00ea8f61fc23"/>
+	</machine>
+	<machine name="Cool Boarders Pocket (Japan, Europe) (En,Ja)">
+		<category>Games</category>
+		<description>Cool Boarders Pocket (Japan, Europe) (En,Ja)</description>
+		<rom name="Cool Boarders Pocket (Japan, Europe) (En,Ja).ngc" size="1048576" crc="2ed72635" md5="57b757bec66c0e53220593b78c63c6c0" sha1="86d30070b01e822fb042daeb41d6823d4ee6060a" sha256="cf5181576371e6fc394cb767a94f0f9dbd5eb93fcff395f7f7bfe9300d6ca814"/>
+	</machine>
+	<machine name="Crush Roller (World) (En,Ja)">
+		<category>Games</category>
+		<description>Crush Roller (World) (En,Ja)</description>
+		<rom name="Crush Roller (World) (En,Ja).ngc" size="1048576" crc="f20ff9f2" md5="100f6086bbcd6bccd2ac6f79242f5a87" sha1="b68e7f5f43d35feda39f0c46ebd6baadc942ac4f" sha256="d4c70b24a51923a60a715b77bbc205f6c06146bedb11d066e629f498af3392bd"/>
+	</machine>
+	<machine name="Dark Arms - Beast Buster 1999 (World) (En,Ja)">
+		<category>Games</category>
+		<description>Dark Arms - Beast Buster 1999 (World) (En,Ja)</description>
+		<rom name="Dark Arms - Beast Buster 1999 (World) (En,Ja).ngc" size="2097152" crc="77caa548" md5="4fb30b1b905ed1f975efb9a8fceb9a62" sha1="c32afc4348a1adbf9f6855b658b5eb5767e7ebcd" sha256="127eb5b597920f6f7aab2e0f92671b46c0d865cd5dec63581312af9b116cfd24"/>
+	</machine>
+	<machine name="Delta Warp (Japan) (En,Ja)">
+		<category>Games</category>
+		<description>Delta Warp (Japan) (En,Ja)</description>
+		<rom name="Delta Warp (Japan) (En,Ja).ngc" size="1048576" crc="1273b10e" md5="11d8b930b69b5305757d6aec331023a9" sha1="25d507f2aec336fcfcd8c8e6dfdb753e3abb351d" sha256="1c71bb8f07cecd60ece1374e1e41729f168ba4b1d41fe924de0b5dbaa5f9fc73"/>
+	</machine>
+	<machine name="Dive Alert - Becky's Version (USA, Europe)">
+		<category>Games</category>
+		<description>Dive Alert - Becky's Version (USA, Europe)</description>
+		<rom name="Dive Alert - Becky's Version (USA, Europe).ngc" size="2097152" crc="83db5772" md5="c148b30103de704eeed63dfe7a7d6100" sha1="64467acf90be6931f9aa532ed8e1fd4dc60946c6" sha256="977e4d520f4c885acc8b6ba815623d9b1ff8f3924ccab4db02a24b7bff0f80c7"/>
+	</machine>
+	<machine name="Dive Alert - Matt's Version (USA, Europe)">
+		<category>Games</category>
+		<description>Dive Alert - Matt's Version (USA, Europe)</description>
+		<rom name="Dive Alert - Matt's Version (USA, Europe).ngc" size="2097152" crc="ef75081b" md5="0c38b2d5d1a2be15d6c15c6b16b7bc98" sha1="0abdf64dd402a8192b0af8127a6ee214173dfe3c" sha256="7a16dda1c503e272544e25b336cd0e67c5c8e36ef57c4dedf72d590604893704"/>
+	</machine>
+	<machine name="Dynamite Slugger (Japan, Europe) (En,Ja)">
+		<category>Games</category>
+		<description>Dynamite Slugger (Japan, Europe) (En,Ja)</description>
+		<rom name="Dynamite Slugger (Japan, Europe) (En,Ja).ngc" size="1048576" crc="7f1779cd" md5="c84f675a617df14b1a1bf06f02be773d" sha1="90104d5917db4cacfd1d0ef8b2b01fea09679a93" sha256="c8a31bb171d8991fd8b78b6b4a229b4c7f5d97a33353e85358062a35440a74f3"/>
+	</machine>
+	<machine name="Evolution - Eternal Dungeons (Europe) (v03)">
+		<category>Games</category>
+		<description>Evolution - Eternal Dungeons (Europe) (v03)</description>
+		<rom name="Evolution - Eternal Dungeons (Europe) (v03).ngc" size="2097152" crc="a60582f8" md5="277ce8138fbf2d493c0478bfdb30e21f" sha1="b054fffae64f3c97c6d9fb68dd68ef7c8a92053c" sha256="0c6e90a7c4031c418b402485c18bea3b8e91c11c9f8bbe8bfbdb6ed24b85e8c0"/>
+	</machine>
+	<machine name="Fantastic Night Dreams - Cotton (Europe)">
+		<category>Games</category>
+		<description>Fantastic Night Dreams - Cotton (Europe)</description>
+		<rom name="Fantastic Night Dreams - Cotton (Europe).ngc" size="1048576" crc="1bf412f5" md5="5a2a155706a201a1c0227c7fe671256f" sha1="a9d8be97ab7bab1aaa1bedd2ce6914ec7fb8cb85" sha256="5ec665bc713eec4b591b153504be7657a0f45acc7412b3e1899beeacd92b05bd"/>
+	</machine>
+	<machine name="Faselei! (USA, Europe)">
+		<category>Games</category>
+		<description>Faselei! (USA, Europe)</description>
+		<rom name="Faselei! (USA, Europe).ngc" size="2097152" crc="e705e30e" md5="f580078164dc2b8dffb9f38eeec1035d" sha1="48c04c8a261b25a942a9fe68abace8aad9deae23" sha256="80bc61b6e63f53292a20f88277f2b3b706982779f79d4c383ee2b82ee035d279"/>
+	</machine>
+	<machine name="Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)">
+		<category>Games</category>
+		<description>Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)</description>
+		<rom name="Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).ngc" size="2097152" crc="e7e5d6e8" md5="8f3175df433b78dfa1a0663f493e1fea" sha1="d33da5587a27344221a4f925867047addaafa97c" sha256="6f088209f5000f52a68f70e64bf1def9146d9dbbbd0bbaa2c457634f45143f88"/>
+	</machine>
+	<machine name="King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja)">
+		<category>Games</category>
+		<description>King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja)</description>
+		<rom name="King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).ngc" size="2097152" crc="9bc63f27" md5="269ee4a53a63ec36f996fd9d205513ae" sha1="72d2b8f19f51b7cd5da18ebe7f3e2c90263c0a0c" sha256="1355e58b88a255b0f6a56338f840df13aea7b4af7ae70ecc4a5873aa513fd3b8"/>
+	</machine>
+	<machine name="Last Blade, The - Beyond the Destiny (USA, Europe)">
+		<category>Games</category>
+		<description>Last Blade, The - Beyond the Destiny (USA, Europe)</description>
+		<rom name="Last Blade, The - Beyond the Destiny (USA, Europe).ngc" size="2097152" crc="4238a840" md5="7dc5073a7a3de1c87a69be5941dff1f9" sha1="a553876c7e04498474f193508effa52c3d59614b" sha256="dbbf0b6c0cc6e979f020acb184fa453acab1f2aa554f9810688d341e94946710"/>
+	</machine>
+	<machine name="Magical Drop Pocket (USA, Europe)">
+		<category>Games</category>
+		<description>Magical Drop Pocket (USA, Europe)</description>
+		<rom name="Magical Drop Pocket (USA, Europe).ngc" size="1048576" crc="7712f82d" md5="6acfef5fe57d592ea7321e0e440c4ecf" sha1="42717bda4f505083d51108fecd5aa37b08e904cb" sha256="fb3fc89575af69b2b14de942d5e54adb94584fcd5b8bc9c342fd275c4b0b7646"/>
+	</machine>
+	<machine name="Metal Slug - 1st Mission (World) (En,Ja)">
+		<category>Games</category>
+		<description>Metal Slug - 1st Mission (World) (En,Ja)</description>
+		<rom name="Metal Slug - 1st Mission (World) (En,Ja).ngc" size="2097152" crc="d29ec1ba" md5="054d066ca6ebcf0b0020dbeea2e80762" sha1="df0ccb349c71d2032b02512a645a4fc760bb8834" sha256="511454c73cca97eb8b726d0b632eeab16d3b91d7e83e184694cc96fdcc717bd1"/>
+	</machine>
+	<machine name="Metal Slug - 2nd Mission (World) (En,Ja)">
+		<category>Games</category>
+		<description>Metal Slug - 2nd Mission (World) (En,Ja)</description>
+		<rom name="Metal Slug - 2nd Mission (World) (En,Ja).ngc" size="4194304" crc="18e692a5" md5="816b37b41aebe5055d5ef2c079997e7d" sha1="71e1f9bf01680e1566583dc10fc7a5556d6b82f2" sha256="2be1987d6418f61964cdac3f5840f29496fe5a62fbcd0833cd9e825e27dd7645"/>
+	</machine>
+	<machine name="Neo 21 - Pocket Casino Series (World)">
+		<category>Games</category>
+		<description>Neo 21 - Pocket Casino Series (World)</description>
+		<rom name="Neo 21 - Pocket Casino Series (World).ngc" size="1048576" crc="95c38985" md5="a60719b4839dd94bb3a8aa93ce91983d" sha1="98463a834e3f42dc02662b620e8e66f3856b1d4f" sha256="7586a27a800b1f2b45eff8a0aa9b268f380fdbdef66330abcdf2d2b82bc09dd2"/>
+	</machine>
+	<machine name="Neo Baccarat - Pocket Casino Series (Japan, Europe) (En) (v16)">
+		<category>Games</category>
+		<description>Neo Baccarat - Pocket Casino Series (Japan, Europe) (En) (v16)</description>
+		<rom name="Neo Baccarat - Pocket Casino Series (Japan, Europe) (En) (v16).ngc" size="1048576" crc="22aab454" md5="1018f765f460588d975c9b4e9385a547" sha1="80218804eb591e50831d098b5bd213a3586849a5" sha256="4056a358ea804d61f53dc876c3ce9da6dc3dd1a24a3916cdd8cb14c45839d6ce"/>
+	</machine>
+	<machine name="Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja)">
+		<category>Games</category>
+		<description>Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja)</description>
+		<rom name="Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja).ngc" size="1048576" crc="2f6eb991" md5="279b9bf6ec9b7c473d310cfd6e3cee4d" sha1="745ced46bb5b7c911dd808a66d3b4fcfeffefa6c" sha256="71e6310d5bf0f0e1d724af795120f42b47fac831ad45eab693a9a0ebdae602e6"/>
+	</machine>
+	<machine name="Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v13)">
+		<category>Games</category>
+		<description>Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v13)</description>
+		<rom name="Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v13).ngc" size="1048576" crc="5d028c99" md5="f0fdd57f4d1a1470b826082586ead479" sha1="b83f713370169e146a1687424ae8ce56b35a23da" sha256="40a006d32d1b0cbc249903100accb9a90c975a460e0d11d4ff460e2002ccd333"/>
+	</machine>
+	<machine name="Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja)">
+		<category>Games</category>
+		<description>Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja)</description>
+		<rom name="Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja).ngc" size="1048576" crc="e79dc5b3" md5="cef050e2591435a5c41ff851afa55a82" sha1="0d137a2cac0a03ab55dfeb4dbaf3929477cfb5d0" sha256="421914d275e780ef6dd2d23a47a92156df9130dcb1928f2c771249336bdc9631"/>
+	</machine>
+	<machine name="Neo Turf Masters (World) (En,Ja)">
+		<category>Games</category>
+		<description>Neo Turf Masters (World) (En,Ja)</description>
+		<rom name="Neo Turf Masters (World) (En,Ja).ngc" size="2097152" crc="e0e853dd" md5="1222a2eca8db9b54f044fa2fe2f50a61" sha1="308361297bd28ebb8fb60713ae5e00cee514415c" sha256="92c7b5a3d6d28f8918c030afb95f9e4c13038326b8391d7fb05feac26917051a"/>
+	</machine>
+	<machine name="NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja)">
+		<category>Games</category>
+		<description>NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja)</description>
+		<rom name="NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja).ngc" size="1048576" crc="c0da4fe9" md5="a6c3369f28558e4a9719dc54d50be713" sha1="a8bb64f093b418a88e674d9fab62a34fc220ea9f" sha256="ab897e8bfa112a0056b75926ce771009cbcb2b05b4b256c2f1fc8f98350c1cb4"/>
+	</machine>
+	<machine name="Pac-Man (World) (En,Ja)">
+		<category>Games</category>
+		<description>Pac-Man (World) (En,Ja)</description>
+		<rom name="Pac-Man (World) (En,Ja).ngc" size="524288" crc="21e8cc15" md5="ac5ad76d5e6614ae576c2c837f0fab1d" sha1="ec64ab4be669f9860c216151094b9eea898c64b9" sha256="8c5485e736b6061729e5028f97d03e46c7db911059cd01df8490d6860e46f843"/>
+	</machine>
+	<machine name="Picture Puzzle (Europe)">
+		<category>Games</category>
+		<description>Picture Puzzle (Europe)</description>
+		<rom name="Picture Puzzle (Europe).ngc" size="524288" crc="6f2d35e6" md5="9a58387d2110138dbcb7199e208174da" sha1="f6f4a7e412eca2235dfdd575cd0df64adaa2f476"/>
+	</machine>
+	<machine name="Pocket Reversi (Europe) (v03)">
+		<category>Games</category>
+		<description>Pocket Reversi (Europe) (v03)</description>
+		<rom name="Pocket Reversi (Europe) (v03).ngc" size="524288" crc="9589f2f2" md5="48b11e8772b752db938685639b667e2f" sha1="e1698b96dd37aca3d0b977235234550292baaa74" sha256="fde70f1e88bdcbca7d5f4d4b32d5d504c55f15a491ac734acb2a1b7b85aa2cad"/>
+	</machine>
+	<machine name="Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)">
+		<category>Games</category>
+		<description>Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)</description>
+		<rom name="Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).ngc" size="524288" crc="e0b9aa22" md5="8b7105aee46be795f1ee0a0f9efdb445" sha1="680a1631120ae3418db9f60b16206e65e4ec9b33" sha256="7001531c3e19b348efe5c68607c8c061c501dfc17221761d473d19e83ab95b37"/>
+	</machine>
+	<machine name="Puyo Pop (USA) (En,Ja) (v06)">
+		<category>Games</category>
+		<description>Puyo Pop (USA) (En,Ja) (v06)</description>
+		<rom name="Puyo Pop (USA) (En,Ja) (v06).ngc" size="1048576" crc="5ea9559e" md5="c9c71e905dd74c9b58467c3fa78b3be1" sha1="cdc044d75b38b1e6574f6757723b9899a18dc989" sha256="603acf2fefb5f38abf8160e844676d01a96aa1d1d80b9caa64a3c37eb4aa4670"/>
+	</machine>
+	<machine name="Puzzle Link (USA, Europe)">
+		<category>Games</category>
+		<description>Puzzle Link (USA, Europe)</description>
+		<rom name="Puzzle Link (USA, Europe).ngc" size="524288" crc="8d0610ac" md5="df694e1f69ded1df68a4ac52a13fb44a" sha1="2507d1bdeb67bdb6379424817707693549efb487" sha256="a75ad5d83994d09f9acc7f8e1c538a0f58e0593d4fe362f2b03b9154ff118ad5"/>
+	</machine>
+	<machine name="Puzzle Link 2 (USA, Europe)">
+		<category>Games</category>
+		<description>Puzzle Link 2 (USA, Europe)</description>
+		<rom name="Puzzle Link 2 (USA, Europe).ngc" size="1048576" crc="ba9ca21c" md5="9b30216da76c9de87caea93f13977396" sha1="57e44ee5168b69fd3b0ede0fe0dda44070e0aad1" sha256="7fb201f71eb4dac08fb351ab6c6bdc1dd3fde5681f0cc460a800696953a70d6e"/>
+	</machine>
+	<machine name="SNK Gals' Fighters (USA, Europe)">
+		<category>Games</category>
+		<description>SNK Gals' Fighters (USA, Europe)</description>
+		<rom name="SNK Gals' Fighters (USA, Europe).ngc" size="2097152" crc="b02c2be7" md5="08922d2bdc6c80d56ddf50836ccad77c" sha1="09a74b42ef9b63aca675aead5854512ad0b585a1" sha256="b002ff9568107834c170a4da03912e3a4b54d6cb767967fc6dae7fcaaa89c782"/>
+	</machine>
+	<machine name="SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)">
+		<category>Games</category>
+		<description>SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)</description>
+		<rom name="SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).ngc" size="2097152" crc="80ce137b" md5="3bcc1c9ef59a75e3c2e6b49be6b84bab" sha1="2a95ab1fe62b6a9dc30a05131ad212ba2de5c3cd" sha256="e59e0ebf810200a634c6063fcbdf3489635d7d3521b43e569f7251236a4548f6"/>
+	</machine>
+	<machine name="SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)">
+		<category>Games</category>
+		<description>SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)</description>
+		<rom name="SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).ngc" size="2097152" crc="94b63a97" md5="74e8381e94565e21a3197449bb4423bf" sha1="dfb232a527647337d6274ddf9d8b3d94281fd86d" sha256="3c0e17694c9476fa8995b56b74a9f92966451025a5712ab8f9a7e08cffd86baf"/>
+	</machine>
+	<machine name="SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)">
+		<category>Games</category>
+		<description>SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)</description>
+		<rom name="SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).ngc" size="4194304" crc="682a7a7b" md5="dd285dbdb0e46a1b0e8ea9a5d840e070" sha1="0806e4a0cff55180e158c9af0060fac17ee9243a" sha256="a95d23259d855375d71f0a09a3ec09a4f1433c721d8c58b6f85ea83f66e2c716"/>
+	</machine>
+	<machine name="Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)">
+		<category>Games</category>
+		<description>Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)</description>
+		<rom name="Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).ngc" size="2097152" crc="58a62fb2" md5="9b11b2632f926301096a40491042a089" sha1="5c87a9109bb2c7c99f7dd1b9b9a7b807776862b1" sha256="a6b9e772fd9034bfc55922e691afa7a9e01e4facb6788cdb8a60aadb93c4b1b8"/>
+	</machine>
+	<machine name="Shanghai Mini (World) (En,Ja)">
+		<category>Games</category>
+		<description>Shanghai Mini (World) (En,Ja)</description>
+		<rom name="Shanghai Mini (World) (En,Ja).ngc" size="1048576" crc="90732d53" md5="7c262a2c6390445170d0bf83290c939c" sha1="3e3e625852ac4997d3e3739e59c16e9a74f40f19" sha256="df62c25ab53620263cc7478708e982bf81e3a3fcdd1ef6c8b36a82f9226312a5"/>
+	</machine>
+	<machine name="Sonic The Hedgehog - Pocket Adventure (World) (En,Ja)">
+		<category>Games</category>
+		<description>Sonic The Hedgehog - Pocket Adventure (World) (En,Ja)</description>
+		<rom name="Sonic The Hedgehog - Pocket Adventure (World) (En,Ja).ngc" size="2097152" crc="8bd22145" md5="6123e8a783b146bdcdc6a9fa95abb0bd" sha1="5a881d8124d902b4a98d76362ad62566a86f0aba" sha256="ead73b11039667fe0dab8a4619605bacc5c5d7c708f083c29f5090fe96c6a091"/>
+	</machine>
+</datafile>

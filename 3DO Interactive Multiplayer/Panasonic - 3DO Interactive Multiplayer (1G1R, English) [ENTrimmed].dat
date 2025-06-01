@@ -1,0 +1,945 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>Panasonic - 3DO Interactive Multiplayer</name>
+		<description>ENTrimmed (1G1R En)</description>
+		<category>Console</category>
+		<comment>Panasonic - 3DO Interactive Multiplayer (155) (-ny) [-AaBbcDdefkmMopPruv] (2025-05-28 16-51-25) (Retool)</comment>
+		<version>2025-06-01</version>
+		<author>Jamie S</author>
+		<homepage>https://github.com/JamieS01/ENTrimmed</homepage>
+		<url>https://github.com/JamieS01/ENTrimmed</url>
+		<retool>Created by Retool 2.3.9</retool>
+	</header>
+	<machine name="Alone in the Dark (USA)">
+		<category>Games</category>
+		<description>Alone in the Dark (USA)</description>
+		<rom name="Alone in the Dark (USA).cue" size="112" crc="f0cc6002" md5="f049e609a84075e17edb3c3d671f21cd" sha1="71fe34a6f5c2a6e20d98f479c34fc99268a20bf9"/>
+		<rom name="Alone in the Dark (USA).bin" size="422184000" crc="2c03e3af" md5="192de93ff970cc04caa49d4a723a390f" sha1="d643c74677b283ec01431c6457d21f888747c77b"/>
+	</machine>
+	<machine name="Alone in the Dark 2 (USA)">
+		<category>Games</category>
+		<description>Alone in the Dark 2 (USA)</description>
+		<rom name="Alone in the Dark 2 (USA).cue" size="114" crc="fb1fe530" md5="46902a501402ca94fb5cb7158dcbb138" sha1="ee6867e30372f07be18d8e01bb561691f4127d48"/>
+		<rom name="Alone in the Dark 2 (USA).bin" size="674906400" crc="c4351a5e" md5="0cbb06c9daa8239837624111c8ae1132" sha1="feef790130d05ca5446be4550e4f8799e5f983aa"/>
+	</machine>
+	<machine name="AutoBahn Tokio (Japan)">
+		<category>Games</category>
+		<description>AutoBahn Tokio (Japan)</description>
+		<rom name="AutoBahn Tokio (Japan).cue" size="111" crc="55922825" md5="ce8677d017849ab6cf68560a93b61310" sha1="87116df4aa13b5447b725c2908d9a76863f7cd53"/>
+		<rom name="AutoBahn Tokio (Japan).bin" size="145212480" crc="63027c6e" md5="62cc170684dfb1b79635829fe74e7786" sha1="e48581ec4501b93d684a423df32f9530040fdcf8"/>
+	</machine>
+	<machine name="BC Racers (USA, Europe)">
+		<category>Games</category>
+		<description>BC Racers (USA, Europe)</description>
+		<rom name="BC Racers (USA, Europe).cue" size="112" crc="c00d3099" md5="3a8d57e1f1dd64637293551998e863fb" sha1="560c679ce4aa459aac4ea41f2f542ea2ab7c55bf"/>
+		<rom name="BC Racers (USA, Europe).bin" size="376776288" crc="1bd862ef" md5="ccf17b45d0c9fa6e37f9eca73b6b9ef8" sha1="9b0d708ada37a514003060155afbfe15b61905d6"/>
+	</machine>
+	<machine name="Ballz - The Director's Cut (World) (En,Ja)">
+		<category>Games</category>
+		<description>Ballz - The Director's Cut (World) (En,Ja)</description>
+		<rom name="Ballz - The Director's Cut (World) (En,Ja).cue" size="131" crc="e1c32ee8" md5="4078d78d7a82f76012642cc288fac3f3" sha1="0151ac3e6a68e6ac797e8f9301395c3c80cb53da"/>
+		<rom name="Ballz - The Director's Cut (World) (En,Ja).bin" size="361972800" crc="02bf47f5" md5="6fd4db5ab01fc7972d5c0ef52880e672" sha1="daff1378200564794ca6561abfe66056f2709698"/>
+	</machine>
+	<machine name="Battle Chess (USA)">
+		<category>Games</category>
+		<description>Battle Chess (USA)</description>
+		<rom name="Battle Chess (USA).cue" size="107" crc="29138d99" md5="577eec6b013cb43c23a7a81a17eced3b" sha1="afc0dfaab7b2084eb8055c4033b4c0bedd63ef4f"/>
+		<rom name="Battle Chess (USA).bin" size="313455744" crc="bd83962a" md5="f6ab794a70e89c52070bcff375f56603" sha1="409a7c1fc6fec813dfd5c80158bcc718d8b8a9bc"/>
+	</machine>
+	<machine name="BattleSport (USA)">
+		<category>Games</category>
+		<description>BattleSport (USA)</description>
+		<rom name="BattleSport (USA).cue" size="106" crc="13ae5974" md5="6e4ed2f7b20ebd262dfa6f2b46e164d6" sha1="d33e52db2c1bcdba87584087c2246fe3537353c0"/>
+		<rom name="BattleSport (USA).bin" size="506832480" crc="7f859040" md5="8391a919bed3aad969f77c0fc7a86a7a" sha1="377ce73e71b1cced842f777ea00b37be5696193e"/>
+	</machine>
+	<machine name="Blade Force (USA)">
+		<category>Games</category>
+		<description>Blade Force (USA)</description>
+		<rom name="Blade Force (USA).cue" size="106" crc="d7cf47c5" md5="091eb61ed69bdbcb8f998fe2943bb9d4" sha1="3a6ef6c9524f0893fcd15a6fa2289d037ced131e"/>
+		<rom name="Blade Force (USA).bin" size="362325600" crc="283420be" md5="1b228c656c235be9fe4b1d4409870c3c" sha1="a2d85cf80afef24a53cd8e9f04d9d6ff85bae5ce"/>
+	</machine>
+	<machine name="BrainDead 13 (USA) (Disc 1) (RE-1)">
+		<category>Games</category>
+		<description>BrainDead 13 (USA) (Disc 1) (RE-1)</description>
+		<rom name="BrainDead 13 (USA) (Disc 1) (RE-1).cue" size="123" crc="5d07c00f" md5="c91551d54b25d50dad00e2130acfa68e" sha1="67472443c0297b1ad042a962fe897a72c10b1eb9"/>
+		<rom name="BrainDead 13 (USA) (Disc 1) (RE-1).bin" size="771413664" crc="8d0d6228" md5="8ea2ab2dbf52642a9cca5958d5ed67c8" sha1="995534c88c8df0a6ab16a7a1775d4bf061287c8d"/>
+	</machine>
+	<machine name="BrainDead 13 (USA) (Disc 2)">
+		<category>Games</category>
+		<description>BrainDead 13 (USA) (Disc 2)</description>
+		<rom name="BrainDead 13 (USA) (Disc 2).cue" size="116" crc="7916c8a4" md5="313226f3dc6e0a0e7cae97714dc00823" sha1="6404c805029c587d24c7593c8f850822866ac01f"/>
+		<rom name="BrainDead 13 (USA) (Disc 2).bin" size="506832480" crc="747f1ca8" md5="204d700defbc5f65cc078ac89d1a6794" sha1="981dbcc139e7cc275c213cd027797fb9a15fcad4"/>
+	</machine>
+	<machine name="Burning Soldier (USA, Korea)">
+		<category>Games</category>
+		<description>Burning Soldier (USA, Korea)</description>
+		<rom name="Burning Soldier (USA, Korea).cue" size="117" crc="6621e930" md5="d0e83f4bf6fca5c36b9e3431fc2e36b2" sha1="1612f8ae7b46672dd2d94bf8adf0f31bc0f8bc31"/>
+		<rom name="Burning Soldier (USA, Korea).bin" size="603170400" crc="3e2a4686" md5="fabd44f90ed65be8f89022b0b856e750" sha1="92b6a8529f3daa5a9b6ef421017000558c88ef3f"/>
+	</machine>
+	<machine name="Bust-A-Move (USA)">
+		<category>Games</category>
+		<description>Bust-A-Move (USA)</description>
+		<rom name="Bust-A-Move (USA).cue" size="106" crc="cc51598d" md5="454238c1b21c1133fc01d587e8b9503d" sha1="60e519d48cca358930514450eb3fd93875401f92"/>
+		<rom name="Bust-A-Move (USA).bin" size="165684288" crc="474438e5" md5="1aead593f596da44b517280b3815abbb" sha1="c4952ecc028cf2140770b1fb0806312d7adde7d6"/>
+	</machine>
+	<machine name="Cannon Fodder (USA)">
+		<category>Games</category>
+		<description>Cannon Fodder (USA)</description>
+		<rom name="Cannon Fodder (USA).cue" size="108" crc="a0ee3128" md5="bd57b28ab68f6a09a8ff27088074866d" sha1="774ad314be69002e98199b4f1ad1f8426e3e1295"/>
+		<rom name="Cannon Fodder (USA).bin" size="337888320" crc="8a92426e" md5="c236f4464795636d55a40a17f6752aa4" sha1="a566a1183f037ea22e54eb5ca298f6250b4233b4"/>
+	</machine>
+	<machine name="Captain Quazar (USA)">
+		<category>Games</category>
+		<description>Captain Quazar (USA)</description>
+		<rom name="Captain Quazar (USA).cue" size="109" crc="32bbf8c2" md5="73cdeb4766e244152cf6de79f211a43f" sha1="164aab8e370b814494f9ad7f3232b88130830500"/>
+		<rom name="Captain Quazar (USA).bin" size="776870304" crc="6d632812" md5="1c305cad878ab049d632f734bab833f3" sha1="9c2a3c94a205fa0e24c1a5446bac0e7048ff7aff"/>
+	</machine>
+	<machine name="Casper (USA)">
+		<category>Games</category>
+		<description>Casper (USA)</description>
+		<rom name="Casper (USA).cue" size="101" crc="f93f086e" md5="0ed50ec1dcbb72f7ffd2aced02e1c33e" sha1="252fe20d8b2d050b676583178f5eee525d616996"/>
+		<rom name="Casper (USA).bin" size="241202304" crc="44e35ce2" md5="1e10eb74db0bc8628276ff258e0ee444" sha1="43dd88d2695f222b23b435b008df8ce166861fe8"/>
+	</machine>
+	<machine name="Corpse Killer (USA)">
+		<category>Games</category>
+		<description>Corpse Killer (USA)</description>
+		<rom name="Corpse Killer (USA).cue" size="108" crc="f97a9cce" md5="68da62809562a7a8822bce59b12045f4" sha1="7349663974ac03afb0df30981862a14482a3d1be"/>
+		<rom name="Corpse Killer (USA).bin" size="753350304" crc="e535d9d5" md5="cd0f44e19e28930a8144c6b514f24dc6" sha1="0d544ca6aa60e6d8f8135fe0fc2204f6ad03d7be"/>
+	</machine>
+	<machine name="Cowboy Casino (USA)">
+		<category>Games</category>
+		<description>Cowboy Casino (USA)</description>
+		<rom name="Cowboy Casino (USA).cue" size="108" crc="b1407ef3" md5="fcac417ce0932124d782d1908b93b13d" sha1="06e5e23262094db0f75dec6f84db6bb39ab551fa"/>
+		<rom name="Cowboy Casino (USA).bin" size="313455744" crc="1d48b747" md5="a43f3d41da82b3e19e033946610ff99f" sha1="667a8a67ae4ae5415641cbe85fe554e63fcbcd03"/>
+	</machine>
+	<machine name="Crash 'n Burn (USA) (Not for Resale)">
+		<category>Games</category>
+		<description>Crash 'n Burn (USA) (Not for Resale)</description>
+		<rom name="Crash 'n Burn (USA) (Not for Resale).cue" size="102" crc="5a0acc33" md5="fed5c22cccd45b4af56281bdb664c9b8" sha1="f7c7c2c24be7ef14981c046ae3448aeeea72228b"/>
+		<rom name="Crash 'n Burn (USA) (Not for Resale).bin" size="722887200" crc="198c0efa" md5="b62ff1e051a5ed2acc76ad647ee37b50" sha1="e59c9673e9d79def5cbe42cc494cac2d5b11eb5f"/>
+	</machine>
+	<machine name="Creature Shock (USA) (Disc 1)">
+		<category>Games</category>
+		<description>Creature Shock (USA) (Disc 1)</description>
+		<rom name="Creature Shock (USA) (Disc 1).cue" size="118" crc="b674d0db" md5="0e3deeb8514a9f307ea3e60fbe3ecece" sha1="4c41f2796e8cc36374385d08fecb64011ef9c191"/>
+		<rom name="Creature Shock (USA) (Disc 1).bin" size="771060864" crc="cec0eacd" md5="ebfef6259b38b3d8455a7a0cae38b687" sha1="8e8c376a2613778ae8db0b8e5d548c84d0f02938"/>
+	</machine>
+	<machine name="Creature Shock (USA) (Disc 2)">
+		<category>Games</category>
+		<description>Creature Shock (USA) (Disc 2)</description>
+		<rom name="Creature Shock (USA) (Disc 2).cue" size="118" crc="b729f60a" md5="6f3ff9f9c4b428b744cfcc08768a7e34" sha1="6716ecc5ba9629c138fd56638b12b10d7e65e895"/>
+		<rom name="Creature Shock (USA) (Disc 2).bin" size="771060864" crc="79a4bc57" md5="08446d1e3ba49264e553cde8854e8983" sha1="7975be4a1cda3fe52534557a3193c8704fe4c83b"/>
+	</machine>
+	<machine name="Crime Patrol (USA)">
+		<category>Games</category>
+		<description>Crime Patrol (USA)</description>
+		<rom name="Crime Patrol (USA).cue" size="107" crc="94bd6b76" md5="8b8eddd10e32fc38c2d0d02de39d13cf" sha1="d3d159b6a5ff1a0f0f8bb4b3a77ee812407717e1"/>
+		<rom name="Crime Patrol (USA).bin" size="657360480" crc="f2463ea7" md5="b07e21611b9cc65cb36a251db8263851" sha1="dfd7c7bb23c65e466e76ccf1902a4581f5f16e22"/>
+	</machine>
+	<machine name="Crime Patrol (USA) (Arcade CD-ROM)">
+		<category>Games</category>
+		<description>Crime Patrol (USA) (Arcade CD-ROM)</description>
+		<rom name="Crime Patrol (USA) (Arcade CD-ROM).cue" size="123" crc="12171ca5" md5="27474d385d8b9009de2821bb741511c9" sha1="bcdcb8c7135f3e1a86ad5fbcfb01c25d873823b9"/>
+		<rom name="Crime Patrol (USA) (Arcade CD-ROM).bin" size="657360480" crc="c56c89f0" md5="ce4b8ca7e1407d2859e7db452e87ca20" sha1="dccba406624db2d24a0ab5a973d173f12015a8bd"/>
+	</machine>
+	<machine name="CyberDillo (USA)">
+		<category>Games</category>
+		<description>CyberDillo (USA)</description>
+		<rom name="CyberDillo (USA).cue" size="105" crc="161b6b2a" md5="0f257026d29b7039648c3c2e60faf28c" sha1="991ab8444a15c6c8a6fcf28dc17abb8766e50c92"/>
+		<rom name="CyberDillo (USA).bin" size="205075584" crc="8d451fac" md5="c5d4d7403e9b0f6e4a5e2080543e67fc" sha1="80cc192992d8618bfc05dfce83acab63c83ea925"/>
+	</machine>
+	<machine name="Cyberia (USA)">
+		<category>Games</category>
+		<description>Cyberia (USA)</description>
+		<rom name="Cyberia (USA).cue" size="102" crc="e063bc28" md5="5ecf8d034ceb171bcb56731bd27981f3" sha1="2f48858f91493b0903f78131b922e4d4e7ab957c"/>
+		<rom name="Cyberia (USA).bin" size="759371424" crc="79bbe416" md5="9d87759b59963b16302ba3e9d8263abf" sha1="5f90b870870510845a5234a881e6903b99b3847b"/>
+	</machine>
+	<machine name="D (USA, Europe) (Disc 1)">
+		<category>Games</category>
+		<description>D (USA, Europe) (Disc 1)</description>
+		<rom name="D (USA, Europe) (Disc 1).cue" size="113" crc="fa285057" md5="ca367a236810c46bbdaac03e66cbbc2c" sha1="687a82d3f0e1cf276d5264a93df97aadcbb696c9"/>
+		<rom name="D (USA, Europe) (Disc 1).bin" size="620532864" crc="b88f7b01" md5="0588ca558232ecc7d1dc4c80a934582d" sha1="ad9ceac2555d9346668136c3fd627575f703fca4"/>
+	</machine>
+	<machine name="D (USA, Europe) (Disc 2)">
+		<category>Games</category>
+		<description>D (USA, Europe) (Disc 2)</description>
+		<rom name="D (USA, Europe) (Disc 2).cue" size="113" crc="fb757686" md5="c76820b0fa8dbfe0d7bf9748536d9616" sha1="29bdec6dd7f2b29df0366dcc6b8a07524d7fca41"/>
+		<rom name="D (USA, Europe) (Disc 2).bin" size="560321664" crc="41710003" md5="d597065ac2f1c097fcede29ad1dfd4b7" sha1="92a655a118a261ffa074537d6dd94eb891bee301"/>
+	</machine>
+	<machine name="Daedalus Encounter, The (USA) (Disc 1)">
+		<category>Games</category>
+		<description>Daedalus Encounter, The (USA) (Disc 1)</description>
+		<rom name="Daedalus Encounter, The (USA) (Disc 1).cue" size="127" crc="88cbf174" md5="37f6aeb0da570b2859a984c759b21362" sha1="064104c2c797b56f8d3d6c5953f54d602bd5ec31"/>
+		<rom name="Daedalus Encounter, The (USA) (Disc 1).bin" size="771060864" crc="9474f05c" md5="374eafbd0524dabaa3a326180260f57f" sha1="a332d9236498c225bf42704343fd31d50f66b9e4"/>
+	</machine>
+	<machine name="Daedalus Encounter, The (USA) (Disc 2)">
+		<category>Games</category>
+		<description>Daedalus Encounter, The (USA) (Disc 2)</description>
+		<rom name="Daedalus Encounter, The (USA) (Disc 2).cue" size="127" crc="8996d7a5" md5="b3bd7b9e1234447df39f7f8e2c4c30aa" sha1="229a56cf9b8271cbca0b9707529dbd3528420bd1"/>
+		<rom name="Daedalus Encounter, The (USA) (Disc 2).bin" size="771060864" crc="1dcbc404" md5="adbdaa8483eca2af76288c0ea1973e21" sha1="b8ba5719e09ed98a893bb9ab6b31b535ce30c012"/>
+	</machine>
+	<machine name="Daedalus Encounter, The (USA) (Disc 3)">
+		<category>Games</category>
+		<description>Daedalus Encounter, The (USA) (Disc 3)</description>
+		<rom name="Daedalus Encounter, The (USA) (Disc 3).cue" size="127" crc="3f8d37d5" md5="d4eb0e6e68027b695f7d14e239a760d9" sha1="c657484e85ae6976b5f0faee9ebe99c88b77a748"/>
+		<rom name="Daedalus Encounter, The (USA) (Disc 3).bin" size="771060864" crc="fdc4aa42" md5="cb55d8980412484e83fe50d0e6be877b" sha1="57d018cb88a4182720de85a2ee1fa0b7b00f76ca"/>
+	</machine>
+	<machine name="Daedalus Encounter, The (USA) (Disc 4)">
+		<category>Games</category>
+		<description>Daedalus Encounter, The (USA) (Disc 4)</description>
+		<rom name="Daedalus Encounter, The (USA) (Disc 4).cue" size="127" crc="8b2c9a07" md5="57921ff1b01413b3a4155e10e336d2b4" sha1="c0bd8b780f43b4408ab35b6334d2e6afcfaa78aa"/>
+		<rom name="Daedalus Encounter, The (USA) (Disc 4).bin" size="771060864" crc="c43f91d2" md5="0c5bf88b3532e9446138d8f7836a6f5b" sha1="d9f6076fd37e8aa508e62a1b41dc8f207b940a30"/>
+	</machine>
+	<machine name="DeathKeep (USA)">
+		<category>Games</category>
+		<description>DeathKeep (USA)</description>
+		<rom name="DeathKeep (USA).cue" size="104" crc="fd942bb5" md5="b4ad4dae200c655ffef8de5bc263274b" sha1="d7d34a622caec4cd2e724691304ad8a015180637"/>
+		<rom name="DeathKeep (USA).bin" size="622085184" crc="e5ba69c8" md5="1dd5f6f4cf20e9a7e76ddf2ad9fda317" sha1="757a7094b65dbed3697fe26fb8cc20f2e25be043"/>
+	</machine>
+	<machine name="Defcon 5 (Europe)">
+		<category>Games</category>
+		<description>Defcon 5 (Europe)</description>
+		<rom name="Defcon 5 (Europe).cue" size="106" crc="8a59ad7e" md5="85b89f6e8714bdde44682b8f0cc7b965" sha1="8e14ebd2a821a488ff34fd2856aaae77263b315d"/>
+		<rom name="Defcon 5 (Europe).bin" size="542606400" crc="f54a7c77" md5="f2139cc97c76eae2f09fdac6888c6ea1" sha1="3cc020fc6111588664c3162f742cc3a3cee623a1"/>
+	</machine>
+	<machine name="Demolition Man (USA, Europe)">
+		<category>Games</category>
+		<description>Demolition Man (USA, Europe)</description>
+		<rom name="Demolition Man (USA, Europe).cue" size="117" crc="af023005" md5="d0618b9351f7af6bf25b89c10580e478" sha1="4067c6d3a4bfb3585f368a5c4441aeb21fbe9b8e"/>
+		<rom name="Demolition Man (USA, Europe).bin" size="529359936" crc="14e1cc80" md5="63031679656a4df000a727f9013582fc" sha1="865eb9c9b224daa8fa13c5b1ccffb3680ffa4c5e"/>
+	</machine>
+	<machine name="DinoPark Tycoon (USA)">
+		<category>Games</category>
+		<description>DinoPark Tycoon (USA)</description>
+		<rom name="DinoPark Tycoon (USA).cue" size="87" crc="b28f9099" md5="31461146ce92b9b3957d9d19d04673f3" sha1="08a1be1308773d5fac74b86c5124f0946b81e5e0"/>
+		<rom name="DinoPark Tycoon (USA).bin" size="632923200" crc="2b23fb99" md5="108d2f25ca9a8b09541e30352d59696f" sha1="a8ea584619a052050c9120b87d04eafeaa59ba32"/>
+	</machine>
+	<machine name="Doom (USA, Japan)">
+		<category>Games</category>
+		<description>Doom (USA, Japan)</description>
+		<rom name="Doom (USA, Japan).cue" size="106" crc="d8b6893f" md5="f922d7c1f2485f6c9ddf8660d87f58a7" sha1="e683240f607808542a4b2f28900bcbe348d5e251"/>
+		<rom name="Doom (USA, Japan).bin" size="241903200" crc="c238cd13" md5="58bd8257d9c1a759923195439245e01e" sha1="e46733bb1401671ed76ca64894cd55b2098a57fa"/>
+	</machine>
+	<machine name="Dragon Lore - The Legend Begins (USA, Europe) (Disc 1)">
+		<category>Games</category>
+		<description>Dragon Lore - The Legend Begins (USA, Europe) (Disc 1)</description>
+		<rom name="Dragon Lore - The Legend Begins (USA, Europe) (Disc 1).cue" size="143" crc="94002f22" md5="811e17141047f22a308d110bce829854" sha1="ed504f027908ea227ebdc1acd5524fe1daba3fe1"/>
+		<rom name="Dragon Lore - The Legend Begins (USA, Europe) (Disc 1).bin" size="776870304" crc="fc158b2d" md5="659d7d63df13efbac2de1a25b477bd4b" sha1="45838ba41ee784f9e6b6869e831f046d5f6e01f3"/>
+	</machine>
+	<machine name="Dragon Lore - The Legend Begins (USA, Europe) (Disc 2)">
+		<category>Games</category>
+		<description>Dragon Lore - The Legend Begins (USA, Europe) (Disc 2)</description>
+		<rom name="Dragon Lore - The Legend Begins (USA, Europe) (Disc 2).cue" size="143" crc="955d09f3" md5="45663475b3dc0bf24e7d2e5303cb4aa9" sha1="f176b418c32a1dd086771cb736f62229d29a0224"/>
+		<rom name="Dragon Lore - The Legend Begins (USA, Europe) (Disc 2).bin" size="776870304" crc="b7940cfd" md5="26593b2ba42a82aad9a9dd3151637bd2" sha1="b772c73dfb6b6b942f6b8a324512374abe2b3b76"/>
+	</machine>
+	<machine name="Dragon Lore - The Legend Begins (USA, Europe) (Disc 3)">
+		<category>Games</category>
+		<description>Dragon Lore - The Legend Begins (USA, Europe) (Disc 3)</description>
+		<rom name="Dragon Lore - The Legend Begins (USA, Europe) (Disc 3).cue" size="143" crc="2346e983" md5="6ee556f8ceff500123131de5720086c2" sha1="d4e5240bfabb6f2edfc3c3ceebca57c33b8fa2ae"/>
+		<rom name="Dragon Lore - The Legend Begins (USA, Europe) (Disc 3).bin" size="776870304" crc="8e7a534c" md5="bb6caab9676389cd6b17375403c854cc" sha1="c309ec7d0d54c54537f47c6e4bd50f0fc51e25f0"/>
+	</machine>
+	<machine name="Dragon's Lair (USA) (RE1)">
+		<category>Games</category>
+		<description>Dragon's Lair (USA) (RE1)</description>
+		<rom name="Dragon's Lair (USA) (RE1).cue" size="114" crc="fb11f2ab" md5="bfef98979cfa90d4172fafac0ccd74f2" sha1="27e8859a8bc7c269863d6902103d765efdff0420"/>
+		<rom name="Dragon's Lair (USA) (RE1).bin" size="241903200" crc="86df003f" md5="b594b1139f792200068bb9a7a78686bb" sha1="e442268056949583abe1d02222facafbe6f1e41d"/>
+	</machine>
+	<machine name="Drug Wars (USA)">
+		<category>Games</category>
+		<description>Drug Wars (USA)</description>
+		<rom name="Drug Wars (USA).cue" size="104" crc="98d65fd0" md5="78c0033f269e6c0cce422ffcae95d953" sha1="e551dbae7f8e21163c339454e4b4c9689adf2b5d"/>
+		<rom name="Drug Wars (USA).bin" size="688322208" crc="96436a20" md5="d5186ccef16cde0779a3be0b15659574" sha1="9bfa677541194f76923f11d240dc312844614dde"/>
+	</machine>
+	<machine name="Escape from Monster Manor (USA)">
+		<category>Games</category>
+		<description>Escape from Monster Manor (USA)</description>
+		<rom name="Escape from Monster Manor (USA).cue" size="120" crc="8106662e" md5="b9c29252e14c791687c855a16aa14b6b" sha1="e2257e93cc8ba5edac3017f83983ad5835317f18"/>
+		<rom name="Escape from Monster Manor (USA).bin" size="542611104" crc="3bafd40d" md5="7387f48a956d43028444ef7259041107" sha1="5663315cfe066af79a03a9d5cc7a1cf52dd4e068"/>
+	</machine>
+	<machine name="Eye of Typhoon, The (Korea)">
+		<category>Games</category>
+		<description>Eye of Typhoon, The (Korea)</description>
+		<rom name="Eye of Typhoon, The (Korea).cue" size="116" crc="582fce83" md5="52c03f368bcabf46447a7c8f25ab6013" sha1="c7332bf50f75e8c1b5afded0718e3adb9746b793"/>
+		<rom name="Eye of Typhoon, The (Korea).bin" size="157254720" crc="8e3e3f13" md5="84c1f1689581a8ec4a8fee68c7a45bd0" sha1="46c72d1939b3acc3f1bfd7e86f6d3e0b4219fee2"/>
+	</machine>
+	<machine name="FIFA International Soccer (USA, Korea)">
+		<category>Games</category>
+		<description>FIFA International Soccer (USA, Korea)</description>
+		<rom name="FIFA International Soccer (USA, Korea).cue" size="127" crc="8c5184db" md5="36119ee61a3a4305800746c02da404cb" sha1="52cad2bdebf5dc55d60625e030d2d65c9d1aabd8"/>
+		<rom name="FIFA International Soccer (USA, Korea).bin" size="711550560" crc="9bd2a7e9" md5="2f61e24a3999ef4b2f144d89d9db8225" sha1="96317ed4b8ca331a8372a394bc87c766542dc769"/>
+	</machine>
+	<machine name="Family Feud (USA)">
+		<category>Games</category>
+		<description>Family Feud (USA)</description>
+		<rom name="Family Feud (USA).cue" size="106" crc="8e1eda8c" md5="ef2ee58dd40e3c09c2469368edf6fad5" sha1="dbad465ea12ee819b36d3b7c6d7ca2018c500df1"/>
+		<rom name="Family Feud (USA).bin" size="506479680" crc="84301052" md5="4e8388326b343f1f86bbcf43229e7796" sha1="8a833c82b048566f26d33146b44db6254e8d08f2"/>
+	</machine>
+	<machine name="Fire Ball!! (Japan) (Rev 1)">
+		<category>Games</category>
+		<description>Fire Ball!! (Japan) (Rev 1)</description>
+		<rom name="Fire Ball!! (Japan) (Rev 1).cue" size="93" crc="5c07d5b2" md5="5ccef3bddbc3393da7561610a5b343de" sha1="aad6a62ccca742cdc28caab7b761df7b9d580869"/>
+		<rom name="Fire Ball!! (Japan) (Rev 1).bin" size="58858800" crc="898ebecd" md5="3817209b021273a5b9a63c9d0c1d964c" sha1="6dfd62a439abfcd06f6c4ee4a10567d2fb7f064e"/>
+	</machine>
+	<machine name="Flashback - The Quest for Identity (USA) (En,Fr)">
+		<category>Games</category>
+		<description>Flashback - The Quest for Identity (USA) (En,Fr)</description>
+		<rom name="Flashback - The Quest for Identity (USA) (En,Fr).cue" size="137" crc="65b1b409" md5="3e255f7f95b5ed8b29f5daf8459c3820" sha1="17276f9e17164849d75bd93e242c03439e37e26f"/>
+		<rom name="Flashback - The Quest for Identity (USA) (En,Fr).bin" size="301761600" crc="7fc8dfd3" md5="42f37cf86fd06e948d8a4213e4223839" sha1="404dda1922b96844d1be9fc6f5af1c101feed006"/>
+	</machine>
+	<machine name="Flying Nightmares (USA)">
+		<category>Games</category>
+		<description>Flying Nightmares (USA)</description>
+		<rom name="Flying Nightmares (USA).cue" size="112" crc="1333c44b" md5="7ce3a39d89de45aabde70bb02f10e58f" sha1="bd2f6c1ba10aab4121cc968bc6572d76429d7bcd"/>
+		<rom name="Flying Nightmares (USA).bin" size="723244704" crc="f0cf81b6" md5="1b4c9b4f850cfb737dc1c94eb4e1f444" sha1="09e263fc5f1f810d3334d1cca35916953ee78a00"/>
+	</machine>
+	<machine name="Foes of Ali (USA)">
+		<category>Games</category>
+		<description>Foes of Ali (USA)</description>
+		<rom name="Foes of Ali (USA).cue" size="106" crc="e40d7880" md5="6d97b97103c8c613ecfde79418d08005" sha1="ca2eeadc8ed5885d3a09ad86df97b9aefb744bc5"/>
+		<rom name="Foes of Ali (USA).bin" size="229860960" crc="b686f5bf" md5="4eff9235de32de7f059d71755db5b300" sha1="ad3d04799cd06131fd9fcda5fd50546467f39d62"/>
+	</machine>
+	<machine name="Fun 'n Games (USA)">
+		<category>Games</category>
+		<description>Fun 'n Games (USA)</description>
+		<rom name="Fun 'n Games (USA).cue" size="107" crc="8d3bcb8a" md5="93ddd68c86a41ff0a282f243b732c1c0" sha1="a9059e9aa8f85d29948adbf16360ca0b48abf2a7"/>
+		<rom name="Fun 'n Games (USA).bin" size="667845696" crc="3c56df9b" md5="b6281291bd2a934e541d4a9f14358582" sha1="b7997be27cf186b97f4b5c98b5c2c835334af938"/>
+	</machine>
+	<machine name="Gex (USA, Europe)">
+		<category>Games</category>
+		<description>Gex (USA, Europe)</description>
+		<rom name="Gex (USA, Europe).cue" size="106" crc="05448800" md5="334ce9c6500a752c32a645e5a7bd0f24" sha1="c353bfdab7eeaa0680ca5db44afcd0609b9bb787"/>
+		<rom name="Gex (USA, Europe).bin" size="464331840" crc="97c7a820" md5="d37e7929c6302b116352d0db85b5a982" sha1="586626a1d35bda93208b9801424c74353860e065"/>
+	</machine>
+	<machine name="Gridders (USA, Korea)">
+		<category>Games</category>
+		<description>Gridders (USA, Korea)</description>
+		<rom name="Gridders (USA, Korea).cue" size="110" crc="2fc62364" md5="1dd94f758f249eb7fb1c0c91d0568bd8" sha1="09749f0fe68c143741b7f92f607aed1b94182b93"/>
+		<rom name="Gridders (USA, Korea).bin" size="579085920" crc="8d8bc24c" md5="bc6d8993c016605b92873674d5e4843e" sha1="a5a715398e0cd6fa858456512c953cf7538ee431"/>
+	</machine>
+	<machine name="Guardian War (USA, Korea)">
+		<category>Games</category>
+		<description>Guardian War (USA, Korea)</description>
+		<rom name="Guardian War (USA, Korea).cue" size="114" crc="ca2b8c91" md5="70217010f67494b691d94d1671848f60" sha1="2fccd8451ce2073415ebe4410529fde0353b1898"/>
+		<rom name="Guardian War (USA, Korea).bin" size="265987680" crc="68b82924" md5="33366f764097a4008a2797b5771b8484" sha1="6a08657f15541035e1986357fc1757454c8b4d4f"/>
+	</machine>
+	<machine name="Hell - A Cyberpunk Thriller (USA)">
+		<category>Games</category>
+		<description>Hell - A Cyberpunk Thriller (USA)</description>
+		<rom name="Hell - A Cyberpunk Thriller (USA).cue" size="122" crc="99d5d44b" md5="bc2100ad9bba35896f9e694c81e98d05" sha1="78feafda7e763b17157c1d34f7cecdae4528eee0"/>
+		<rom name="Hell - A Cyberpunk Thriller (USA).bin" size="771060864" crc="037387b4" md5="6da38c637a0b4ca88b1320107a091fab" sha1="988ac0978d0701719095304089d6abd5b0575e81"/>
+	</machine>
+	<machine name="Horde, The (USA)">
+		<category>Games</category>
+		<description>Horde, The (USA)</description>
+		<rom name="Horde, The (USA).cue" size="105" crc="1374e34d" md5="f9add03061e70375e8dff4c5ae90fa07" sha1="945dba27cd1136a3f388742fbd8ffb38402bd190"/>
+		<rom name="Horde, The (USA).bin" size="771408960" crc="8bbcafb9" md5="b8554cc0dde4fedf02e02d2d880d5764" sha1="8db2055a48792b7c06e8c6d6af0882f6b8bf9de5"/>
+	</machine>
+	<machine name="Icebreaker (USA)">
+		<category>Games</category>
+		<description>Icebreaker (USA)</description>
+		<rom name="Icebreaker (USA).cue" size="105" crc="39ddfb95" md5="fc21e8e4b95f9af8484646c246313d12" sha1="97983c2d2f6950b48c958890d7c167ddf842b905"/>
+		<rom name="Icebreaker (USA).bin" size="121128000" crc="9076fb2e" md5="cd5d7200a54c004af804cbc5bfad0a38" sha1="dcf035edc3e479cb36a23631df46081a784a8f03"/>
+	</machine>
+	<machine name="Immercenary - Combat in a Digital World (USA)">
+		<category>Games</category>
+		<description>Immercenary - Combat in a Digital World (USA)</description>
+		<rom name="Immercenary - Combat in a Digital World (USA).cue" size="134" crc="05c6f314" md5="cb1c0f57e2ea49ad7ddbf6e2eee9213b" sha1="b8131e9a11fee1431f46839e16e7c323ba5fbf8d"/>
+		<rom name="Immercenary - Combat in a Digital World (USA).bin" size="777218400" crc="fb8a5223" md5="e0b5aa81e143fcb8a32c3312a97a252d" sha1="9a79d8ff6fbc05b2d9d661c7b59e9a207e271b93"/>
+	</machine>
+	<machine name="Incredible Machine, The (USA)">
+		<category>Games</category>
+		<description>Incredible Machine, The (USA)</description>
+		<rom name="Incredible Machine, The (USA).cue" size="118" crc="1a57a2b6" md5="b2a729eb236e5c39f263c30f203d4ff9" sha1="2a4b96a83f0a251347dd4353158f17afb337be1d"/>
+		<rom name="Incredible Machine, The (USA).bin" size="467944512" crc="66c929a2" md5="e428eeb0074c0a39fbf53450324b7912" sha1="a88a79a2706090e3e49cc65f730cc9667ada7407"/>
+	</machine>
+	<machine name="Iron Angel of the Apocalypse - Tetsujin (USA)">
+		<category>Games</category>
+		<description>Iron Angel of the Apocalypse - Tetsujin (USA)</description>
+		<rom name="Iron Angel of the Apocalypse - Tetsujin (USA).cue" size="134" crc="8b8256da" md5="1b36e07e3bd83ec5ab6c65a60dc67271" sha1="a70aa4f3271e14adaa84ce01e45e5818b0281eba"/>
+		<rom name="Iron Angel of the Apocalypse - Tetsujin (USA).bin" size="434226240" crc="b9269ec8" md5="40dd5dd8bc8fe0da355f3c96fbed817c" sha1="f4ad32131919b580e7d5f53fa7363d353d2792e3"/>
+	</machine>
+	<machine name="Iron Angel of the Apocalypse - The Return (USA)">
+		<category>Games</category>
+		<description>Iron Angel of the Apocalypse - The Return (USA)</description>
+		<rom name="Iron Angel of the Apocalypse - The Return (USA).cue" size="136" crc="fbc07ace" md5="564ecf4307bd2a7f0041648480f4dc2a" sha1="d03a2cdbea11933e2cd02dad6ea985a73075475a"/>
+		<rom name="Iron Angel of the Apocalypse - The Return (USA).bin" size="771060864" crc="3324c065" md5="46149a7db1d66790e1b0f2db3017f5c0" sha1="8876b02fe4f0e9b554d91a1279bb0e8f076a593b"/>
+	</machine>
+	<machine name="Jammit (USA)">
+		<category>Games</category>
+		<description>Jammit (USA)</description>
+		<rom name="Jammit (USA).cue" size="101" crc="463465a2" md5="fe9e6c0829237b09bd7ac4b0432086c6" sha1="cca9fa6e8cc942a947d91d38b02f20000c3a0562"/>
+		<rom name="Jammit (USA).bin" size="355951680" crc="3e8cab06" md5="a5a90adf184fbd3b6f538457ff67c118" sha1="b83423f88ee7533398661b1dd8183aa11b3fab41"/>
+	</machine>
+	<machine name="John Madden Football (USA)">
+		<category>Games</category>
+		<description>John Madden Football (USA)</description>
+		<rom name="John Madden Football (USA).cue" size="115" crc="e7b1b82c" md5="ed2f91aa439700b8ad5dd1149c454866" sha1="7c91ca02490f24e2de44dc3779dfd1c325d0a96f"/>
+		<rom name="John Madden Football (USA).bin" size="482748000" crc="62dc7ac0" md5="ff6a9a14de587d1e5ec6026d6273dc4b" sha1="c72bd0fa2d852ecb87bb09085168ccf381522268"/>
+	</machine>
+	<machine name="Johnny Bazookatone (USA)">
+		<category>Games</category>
+		<description>Johnny Bazookatone (USA)</description>
+		<rom name="Johnny Bazookatone (USA).cue" size="113" crc="2e05edb4" md5="41186fc246ab1f9295015f157f85c4aa" sha1="8ad331265fcb61df38b1995c1973b9e7ad91dbae"/>
+		<rom name="Johnny Bazookatone (USA).bin" size="494089344" crc="36eafc34" md5="9af61fca4bb849eb433372e9b8db076a" sha1="135ee990e786f3729e491f6ab139e658c6697398"/>
+	</machine>
+	<machine name="Jurassic Park Interactive (USA)">
+		<category>Games</category>
+		<description>Jurassic Park Interactive (USA)</description>
+		<rom name="Jurassic Park Interactive (USA).cue" size="120" crc="aa476fc4" md5="33a9553751abcb94b40dedc040a165fa" sha1="b8682fae550d2fd317d9c6a571a19e900174de43"/>
+		<rom name="Jurassic Park Interactive (USA).bin" size="457962624" crc="39f8dc1e" md5="41980ac5e4d0ca09244a031ee4cf3965" sha1="09dfdf1129673a8bfc50de80bf5b94a17f68ca19"/>
+	</machine>
+	<machine name="Killing Time (USA) (RE2)">
+		<category>Games</category>
+		<description>Killing Time (USA) (RE2)</description>
+		<rom name="Killing Time (USA) (RE2).cue" size="113" crc="e3d35392" md5="1158eda9f56502a1939fcedf07c77c57" sha1="dee61ba66e9530a99eb25a510fdef584737617b5"/>
+		<rom name="Killing Time (USA) (RE2).bin" size="776230560" crc="151a4343" md5="ca621d558d07b2433956d966898acd5d" sha1="773240e7f88070759ccbd2a0cff57b0a7f88289a"/>
+	</machine>
+	<machine name="Kingdom - The Far Reaches (USA, Europe)">
+		<category>Games</category>
+		<description>Kingdom - The Far Reaches (USA, Europe)</description>
+		<rom name="Kingdom - The Far Reaches (USA, Europe).cue" size="128" crc="dcfa5fca" md5="fc6463b08e291c56860fa78ac27528d4" sha1="5064851c8743a81a0db4362aca548bb30c47102d"/>
+		<rom name="Kingdom - The Far Reaches (USA, Europe).bin" size="775877760" crc="760b7d3c" md5="5ace589136862b21e5f42963fabd3cf8" sha1="97b74dfcc25b4e315d9327cfc518ceec5f522a49"/>
+	</machine>
+	<machine name="Last Bounty Hunter, The (USA)">
+		<category>Games</category>
+		<description>Last Bounty Hunter, The (USA)</description>
+		<rom name="Last Bounty Hunter, The (USA).cue" size="118" crc="0ed0eab2" md5="63501013c6f022ac72a9ca011b26d82d" sha1="164e900db823565d234b6eab9667ec80e78c6515"/>
+		<rom name="Last Bounty Hunter, The (USA).bin" size="677484192" crc="1cd6331c" md5="23e565151d9df9f4fc88d3a6b1268b0f" sha1="4a56f0b923d217cd7cddff3a87b86c056cdea7b4"/>
+	</machine>
+	<machine name="Lemmings (USA)">
+		<category>Games</category>
+		<description>Lemmings (USA)</description>
+		<rom name="Lemmings (USA).cue" size="103" crc="e7842b4d" md5="6075590d05d833f247314e34e185c5b1" sha1="09d8d327b3a63dd918c992e2a9f6437d54032c4c"/>
+		<rom name="Lemmings (USA).bin" size="484808352" crc="da328ef8" md5="4e4259f0878671f4efef32bbf62b496e" sha1="8d067afefee5bae1750ac629cb6e74aca3648439"/>
+	</machine>
+	<machine name="Lost Eden (USA, Korea)">
+		<category>Games</category>
+		<description>Lost Eden (USA, Korea)</description>
+		<rom name="Lost Eden (USA, Korea).cue" size="111" crc="408e3e91" md5="6cf62e2fb7bc45d8b644b37a269c0276" sha1="63f30889b81ceedfe26118882b5d086231af0302"/>
+		<rom name="Lost Eden (USA, Korea).bin" size="768652416" crc="ab70cf63" md5="739afb552c0ef04606c29777ee1a570a" sha1="4391fc2cc5fb2ff678a6c11a0051748c5110ab9f"/>
+	</machine>
+	<machine name="Lost Files of Sherlock Holmes, The (USA)">
+		<category>Games</category>
+		<description>Lost Files of Sherlock Holmes, The (USA)</description>
+		<rom name="Lost Files of Sherlock Holmes, The (USA).cue" size="129" crc="6b536442" md5="7209986b0357f28fe575e55f92636eaf" sha1="9b5c38fb82d3e81b6299866921085111de7b7fd6"/>
+		<rom name="Lost Files of Sherlock Holmes, The (USA).bin" size="771413664" crc="b829eea0" md5="b31c41700b0eafc69f780c576d658d41" sha1="f6ecd5d6a0fcb5a25fbdb8bb370bb2af98ee1d58"/>
+	</machine>
+	<machine name="Lucienne's Quest (USA)">
+		<category>Games</category>
+		<description>Lucienne's Quest (USA)</description>
+		<rom name="Lucienne's Quest (USA).cue" size="111" crc="3c9e30cf" md5="94dd9c60506d5bb68935594b74cc78d8" sha1="b472ce7363bdc36617210ae99268745f414fdae8"/>
+		<rom name="Lucienne's Quest (USA).bin" size="229508160" crc="37fb22fb" md5="76d38e2d996f78ba488280af4d784c67" sha1="95b75e0e636f235fe3c49b68d56787029ca53909"/>
+	</machine>
+	<machine name="Mad Dog II - The Lost Gold (USA)">
+		<category>Games</category>
+		<description>Mad Dog II - The Lost Gold (USA)</description>
+		<rom name="Mad Dog II - The Lost Gold (USA).cue" size="121" crc="8913c0b0" md5="b10fd151ab753c398260bd25a3f435a5" sha1="a044bf068b523933789531c5ae8ff61f3997e235"/>
+		<rom name="Mad Dog II - The Lost Gold (USA).bin" size="650135136" crc="03a7ab44" md5="631916d5cbbfb71821ed444b2ac38ad2" sha1="35a30a7f8c55562410ed57782bc6d2e7829f4544"/>
+	</machine>
+	<machine name="Mad Dog McCree (USA)">
+		<category>Games</category>
+		<description>Mad Dog McCree (USA)</description>
+		<rom name="Mad Dog McCree (USA).cue" size="109" crc="92df47b0" md5="13d546490da6cfdd3426a2fb79433ebd" sha1="f5724d4b4bab377fae91beec759b7f9872eb3a8b"/>
+		<rom name="Mad Dog McCree (USA).bin" size="422188704" crc="affbf1e2" md5="37d3745e9c379cf30cc372066072ec0b" sha1="80775a618808a1b6f1a8239ef5f7964507a85ee9"/>
+	</machine>
+	<machine name="Mazer (USA)">
+		<category>Games</category>
+		<description>Mazer (USA)</description>
+		<rom name="Mazer (USA).cue" size="100" crc="040bd936" md5="2a04624de6e33dd46e70cccee5e65d5c" sha1="0ffb38ea19fdcb493d66738fe2d06e34d5df3a62"/>
+		<rom name="Mazer (USA).bin" size="272008800" crc="374d144d" md5="bd45219b5294253beeaca3baa256f4d3" sha1="e3dbf364a68cc3af90aed7f9a16c45b342170724"/>
+	</machine>
+	<machine name="MegaRace (USA, Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>MegaRace (USA, Europe) (En,Fr,De,Es,It)</description>
+		<rom name="MegaRace (USA, Europe) (En,Fr,De,Es,It).cue" size="128" crc="a50d7799" md5="0af860c77812d98b7a6b5bce3a4e878a" sha1="328f4a0356d5ae26e8a7e39b77a791302f46378a"/>
+		<rom name="MegaRace (USA, Europe) (En,Fr,De,Es,It).bin" size="771408960" crc="a5baa497" md5="0dcbe251a83fdff54ee72674cdefe608" sha1="c1c5486722ce26568c293c145712d549670297d2"/>
+	</machine>
+	<machine name="Microcosm (USA)">
+		<category>Games</category>
+		<description>Microcosm (USA)</description>
+		<rom name="Microcosm (USA).cue" size="104" crc="7c8016ba" md5="cda7bb85da6a07482c34e2c48a6d449c" sha1="db3f7767ff617c7d00916640bd36ddf9efed1718"/>
+		<rom name="Microcosm (USA).bin" size="413759136" crc="58e0c1b9" md5="f680353429def4d3c1e95120fd9c503f" sha1="09b36526660e189933e76fc362438e9c85f0ca81"/>
+	</machine>
+	<machine name="Mind Teazzer (USA)">
+		<category>Games</category>
+		<description>Mind Teazzer (USA)</description>
+		<rom name="Mind Teazzer (USA).cue" size="107" crc="b83ea3b3" md5="8e37f2998752f3e6d45b972009b470ac" sha1="f673e03e27ed25235b88c413348da4308d2c4b53"/>
+		<rom name="Mind Teazzer (USA).bin" size="722891904" crc="1864670f" md5="8b747957dfb35f1467e225a51e43b56d" sha1="a954b2d0c908f6d903bebb78ec4f336b531c02b1"/>
+	</machine>
+	<machine name="Murphy da yo Zen'in Shuugou!! (Japan) (En,Ja)">
+		<category>Games</category>
+		<description>Murphy da yo Zen'in Shuugou!! (Japan) (En,Ja)</description>
+		<rom name="Murphy da yo Zen'in Shuugou!! (Japan) (En,Ja).cue" size="157" crc="0b638b43" md5="da2a374944990ea03ffb7887967970d2" sha1="4e18aa6c5afea89834d9a3d9ebbdeb6f38968fd6"/>
+		<rom name="Murphy da yo Zen'in Shuugou!! (Japan) (En,Ja).bin" size="759366720" crc="49fef5b4" md5="7e328f28ef9daae813b97951f539842a" sha1="e6cc861440bbfdefbcdc4da413045e8eaacc60fa"/>
+	</machine>
+	<machine name="Myst (USA)">
+		<category>Games</category>
+		<description>Myst (USA)</description>
+		<rom name="Myst (USA).cue" size="99" crc="c0e439c0" md5="64a7f32db8182cf144820caba6474792" sha1="ea1e6d0790162d9dd83d125f9f9de489f0e56b9e"/>
+		<rom name="Myst (USA).bin" size="746976384" crc="1bbd2184" md5="2f65dedc136ca2ea0869c46e30b5b535" sha1="a8f0b8640dd12058e97072b83412a2074bbd3020"/>
+	</machine>
+	<machine name="NeuroDancer - Journey into the Neuronet! (USA)">
+		<category>Games</category>
+		<description>NeuroDancer - Journey into the Neuronet! (USA)</description>
+		<rom name="NeuroDancer - Journey into the Neuronet! (USA).cue" size="135" crc="9bdd1420" md5="f74c8777c830f960edf6b3c678e9bd6c" sha1="c80bfcbc6988338d1a7b7b8032998751ea15c171"/>
+		<rom name="NeuroDancer - Journey into the Neuronet! (USA).bin" size="722891904" crc="3b796b89" md5="a079944b14cb5624b3feed9a06cf9f64" sha1="1ec9c49b80f230194dd1ecc7e7bf5654a9b0be8f"/>
+	</machine>
+	<machine name="Night Trap (USA, Europe) (Disc 1)">
+		<category>Games</category>
+		<description>Night Trap (USA, Europe) (Disc 1)</description>
+		<rom name="Night Trap (USA, Europe) (Disc 1).cue" size="122" crc="dad41bdf" md5="1922ec77701602dc6192c454186eddc7" sha1="358ebf3a73891e475bfea5226417207b8aaa9878"/>
+		<rom name="Night Trap (USA, Europe) (Disc 1).bin" size="776870304" crc="fc54f01d" md5="e767867345aeac8945cd535b35fa48fc" sha1="dcc03e5e0315b3c2998d6f96683d08b0cb7770fe"/>
+	</machine>
+	<machine name="Night Trap (USA, Europe) (Disc 2)">
+		<category>Games</category>
+		<description>Night Trap (USA, Europe) (Disc 2)</description>
+		<rom name="Night Trap (USA, Europe) (Disc 2).cue" size="122" crc="db893d0e" md5="1d10b6ea8e26391aed16f2de90dbd52b" sha1="5b2f183ecb788d1fd727e9f9c1ad9fee2d96dd3e"/>
+		<rom name="Night Trap (USA, Europe) (Disc 2).bin" size="631723680" crc="01e1daac" md5="97d9eff74133df1f38a69f95168ba378" sha1="1843c6997542f7e6e4ce69202ef3defa55a3cf6f"/>
+	</machine>
+	<machine name="Novastorm (USA)">
+		<category>Games</category>
+		<description>Novastorm (USA)</description>
+		<rom name="Novastorm (USA).cue" size="104" crc="67b6c043" md5="3841310d98f621b23fcbce06a611eef5" sha1="c09765a395abba2b5a3e799723f66b09137e91af"/>
+		<rom name="Novastorm (USA).bin" size="734929440" crc="ef347f74" md5="96428fb860254000e766287ecbbc0c40" sha1="731b19f2eab1dcfc101951e05a98e41d55df45dd"/>
+	</machine>
+	<machine name="Off-World Interceptor (USA, Europe)">
+		<category>Games</category>
+		<description>Off-World Interceptor (USA, Europe)</description>
+		<rom name="Off-World Interceptor (USA, Europe).cue" size="101" crc="bd277446" md5="4269c55c1ab04f570a7442df4317a6b7" sha1="345b60bd3fbed2921570df1b3abe9ad2bf86a255"/>
+		<rom name="Off-World Interceptor (USA, Europe).bin" size="602464800" crc="8f32a192" md5="a50d9fb8abb5d5331c8da8bbd4a08fd5" sha1="60ecc0863165470285aff01e892c513ceb682b0c"/>
+	</machine>
+	<machine name="Olympic Soccer (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Olympic Soccer (USA) (En,Fr,De,Es,It)</description>
+		<rom name="Olympic Soccer (USA) (En,Fr,De,Es,It).cue" size="126" crc="ba30c042" md5="d80a31f7417e6ceac95aba0bf1c67c17" sha1="e27a5e9e01b336c1adede8a1639a48d259637738"/>
+		<rom name="Olympic Soccer (USA) (En,Fr,De,Es,It).bin" size="655455360" crc="d33fc5cd" md5="cdcaded09855dbf68f386badd17907d7" sha1="a865f4c18dc23180e9713a48ad25c0edea60617b"/>
+	</machine>
+	<machine name="Olympic Summer Games (USA)">
+		<category>Games</category>
+		<description>Olympic Summer Games (USA)</description>
+		<rom name="Olympic Summer Games (USA).cue" size="115" crc="64dee893" md5="3129fc4eef5ba6e9a8efba86b1a2c056" sha1="3246da815462d18926a9f82eddb5a866a04962ed"/>
+		<rom name="Olympic Summer Games (USA).bin" size="626553984" crc="6502ddc1" md5="86ebd5002d0ff7f5d654dc5b8dbfd1bc" sha1="2398837988f8a713171e9a31f514bd0e75846732"/>
+	</machine>
+	<machine name="Orbatak (USA) (Arcade CD-ROM)">
+		<category>Games</category>
+		<description>Orbatak (USA) (Arcade CD-ROM)</description>
+		<rom name="Orbatak (USA) (Arcade CD-ROM).cue" size="118" crc="ffc2164d" md5="6dd2d7bc05be394be7b94507ec96fd10" sha1="e249125456ec9f4c77920c5f3f1eb9e16bd1ca0e"/>
+		<rom name="Orbatak (USA) (Arcade CD-ROM).bin" size="139544160" crc="9dc08632" md5="a95d16e5965d85364d17636f27442a68" sha1="fd0debe9743791d28cd426724b72f1fba3b4090d"/>
+	</machine>
+	<machine name="Out of This World (USA) (3DO Maniac Pack) (RE)">
+		<category>Games</category>
+		<description>Out of This World (USA) (3DO Maniac Pack) (RE)</description>
+		<rom name="Out of This World (USA) (3DO Maniac Pack) (RE).cue" size="135" crc="7772bcab" md5="2185e6bb86bd885582736a9602f717b4" sha1="68483f9e2727cfc73f6cd7b6fedf792245c83097"/>
+		<rom name="Out of This World (USA) (3DO Maniac Pack) (RE).bin" size="385709184" crc="6cae9e8c" md5="be58061c58e84029271f4a2888a24189" sha1="a4f3d91b7e889e7866ef6f2afe41c64fe71e6b41"/>
+	</machine>
+	<machine name="PGA Tour 96 (USA) (RE-1)">
+		<category>Games</category>
+		<description>PGA Tour 96 (USA) (RE-1)</description>
+		<rom name="PGA Tour 96 (USA) (RE-1).cue" size="113" crc="e27ad0b4" md5="ae96a2e1491dc026609ec342754a730b" sha1="fa1758adc334fefa43267c65a61f50b3cf7430bf"/>
+		<rom name="PGA Tour 96 (USA) (RE-1).bin" size="723244704" crc="89884e4d" md5="ff33636bc0f7a8617aa017feeb36aa3a" sha1="d26e959b0ef6388c3ef2a5c935785aba7eea4cab"/>
+	</machine>
+	<machine name="PO'ed (USA, Europe)">
+		<category>Games</category>
+		<description>PO'ed (USA, Europe)</description>
+		<rom name="PO'ed (USA, Europe).cue" size="108" crc="1b6b8db7" md5="0dabd831becf300a288eed5c3d4fcb79" sha1="b63a1015be8d1eb5572629f932deb329bce34426"/>
+		<rom name="PO'ed (USA, Europe).bin" size="482748000" crc="953ff819" md5="9a63c0142a03d00f18419513304474ad" sha1="00e821255eb6db38e181205ecaa7b05f53274440"/>
+	</machine>
+	<machine name="PaTaank (USA, Europe)">
+		<category>Games</category>
+		<description>PaTaank (USA, Europe)</description>
+		<rom name="PaTaank (USA, Europe).cue" size="110" crc="d145aa83" md5="46ae425e7f2bf42a7fb2ad7a1abadfc8" sha1="25f13b70afe240abba33696bce57396da6dac5ca"/>
+		<rom name="PaTaank (USA, Europe).bin" size="590775360" crc="6a59e62f" md5="14052debdfca73589c2f4021563912eb" sha1="72099d1e98b97c899fefc4219d4d456338dacc58"/>
+	</machine>
+	<machine name="Panzer General (USA, Germany)">
+		<category>Games</category>
+		<description>Panzer General (USA, Germany)</description>
+		<rom name="Panzer General (USA, Germany).cue" size="118" crc="4b9cf55c" md5="3d0e3c9f49b8fd5c1ea37f87a6106b73" sha1="2e63a4962dc8aac1b3f57fd72d7d95e38fc72976"/>
+		<rom name="Panzer General (USA, Germany).bin" size="723240000" crc="9bf7b932" md5="17a227ee61e3f8f6ecda34a9a1689fd6" sha1="8c1b1814b63acf47cfc636c86993f8c563152a85"/>
+	</machine>
+	<machine name="Pebble Beach Golf Links (USA, Canada) (Rev 1)">
+		<category>Games</category>
+		<description>Pebble Beach Golf Links (USA, Canada) (Rev 1)</description>
+		<rom name="Pebble Beach Golf Links (USA, Canada) (Rev 1).cue" size="111" crc="b2e442bf" md5="43b8c08346de7805b03619213906140a" sha1="c22dd8fc4131d1ebfa08bfe19d704e3b66b03bde"/>
+		<rom name="Pebble Beach Golf Links (USA, Canada) (Rev 1).bin" size="434226240" crc="f892e8bf" md5="243083379c3166fe147381ce37779beb" sha1="0b494529089c020817554bb4000c2eb03b71c3c3"/>
+	</machine>
+	<machine name="Perfect General, The (USA)">
+		<category>Games</category>
+		<description>Perfect General, The (USA)</description>
+		<rom name="Perfect General, The (USA).cue" size="115" crc="cf59faf1" md5="1bc85e4c8c664873ac99a237d3b75fc8" sha1="f445f1ee384455f9e6d90c177b8a4222bee81e7c"/>
+		<rom name="Perfect General, The (USA).bin" size="422184000" crc="5d7dce04" md5="353102105dc87597564261f7e080c6ce" sha1="ca8bf97b9fb60341bbc8763aa3c4537f0feba3ff"/>
+	</machine>
+	<machine name="Phoenix 3 (USA)">
+		<category>Games</category>
+		<description>Phoenix 3 (USA)</description>
+		<rom name="Phoenix 3 (USA).cue" size="104" crc="087869f2" md5="52739dce436d57c3cf9ec23e62969558" sha1="6cc3df1d36592d82f2f7c93f5653cab1dcb9fe47"/>
+		<rom name="Phoenix 3 (USA).bin" size="722891904" crc="65060082" md5="09267ef9940687e182a206802e3ca5cf" sha1="0640009042b54ff534a0158217955625b913e457"/>
+	</machine>
+	<machine name="Plumbers Don't Wear Ties (USA)">
+		<category>Games</category>
+		<description>Plumbers Don't Wear Ties (USA)</description>
+		<rom name="Plumbers Don't Wear Ties (USA).cue" size="119" crc="d9089182" md5="a900a352731b6f171663b35a0a20aef4" sha1="fc1b3588410be08f4e3126df4c58cbb3ef84500a"/>
+		<rom name="Plumbers Don't Wear Ties (USA).bin" size="708789312" crc="8b8cfd44" md5="6bb8b63a6d1c1c187d1c2e882f378a4f" sha1="b446f85c7237c0c765d407788fa4e999ff896e95"/>
+	</machine>
+	<machine name="Primal Rage (USA, Europe)">
+		<category>Games</category>
+		<description>Primal Rage (USA, Europe)</description>
+		<rom name="Primal Rage (USA, Europe).cue" size="114" crc="dca4f6a2" md5="e806bc19646ab1d618fb0abc90e86c3d" sha1="9fbcaa3fd8ca0bbe10ba798d1dfad57061b6468d"/>
+		<rom name="Primal Rage (USA, Europe).bin" size="391226976" crc="7e971f73" md5="84248d0388a3f676e5ec42545d439a9c" sha1="6ffdcb274dc72eb199661b3fc1e7165dfe387f3d"/>
+	</machine>
+	<machine name="Psychic Detective (USA) (Disc 1)">
+		<category>Games</category>
+		<description>Psychic Detective (USA) (Disc 1)</description>
+		<rom name="Psychic Detective (USA) (Disc 1).cue" size="121" crc="27f3079e" md5="a728a05b364b4252dd2ae6abad19a3f5" sha1="4a4b216f582c0cb17e2cdef315407862d37ca6cd"/>
+		<rom name="Psychic Detective (USA) (Disc 1).bin" size="753350304" crc="0be9d21e" md5="7709c9d1c907fb23860edc57761f0801" sha1="a28be28f2105921430ac177861034d0c512eef21"/>
+	</machine>
+	<machine name="Psychic Detective (USA) (Disc 2)">
+		<category>Games</category>
+		<description>Psychic Detective (USA) (Disc 2)</description>
+		<rom name="Psychic Detective (USA) (Disc 2).cue" size="121" crc="26ae214f" md5="9a2f15fc130a5fa5d633848a2a347b88" sha1="f4a9aff37e01faf84a464057554ddd753d35a27b"/>
+		<rom name="Psychic Detective (USA) (Disc 2).bin" size="723244704" crc="a55ff54e" md5="59c83c03551f6afcbbfcf3e71c80bfa5" sha1="a724efde2d17d97d7f54439527568c40f1b1f520"/>
+	</machine>
+	<machine name="Psychic Detective (USA) (Disc 3)">
+		<category>Games</category>
+		<description>Psychic Detective (USA) (Disc 3)</description>
+		<rom name="Psychic Detective (USA) (Disc 3).cue" size="121" crc="90b5c13f" md5="d96c4373ff26000f2af4d0984528afad" sha1="0e3775d56d5d8074ddff1f54a97c6c115cfc4d27"/>
+		<rom name="Psychic Detective (USA) (Disc 3).bin" size="747329184" crc="e90e7370" md5="3b55767f03ad5f5663d33304bd33dca0" sha1="a611f0c45bf5df5735031226538b7c74f973cb23"/>
+	</machine>
+	<machine name="Quarantine (USA) (En,Ja,Fr,De,Es) (RE2)">
+		<category>Games</category>
+		<description>Quarantine (USA) (En,Ja,Fr,De,Es) (RE2)</description>
+		<rom name="Quarantine (USA) (En,Ja,Fr,De,Es) (RE2).cue" size="128" crc="9865409e" md5="ae93bedb0efbd11c58179325aafbed9f" sha1="959e7b148be0304613d0b60d5997b2f2e15edafa"/>
+		<rom name="Quarantine (USA) (En,Ja,Fr,De,Es) (RE2).bin" size="156906624" crc="855a5368" md5="957f51c4b52a3ea2e5966569e5407329" sha1="28ea5c317f74dff2aafee58d1555e3fed09c21ec"/>
+	</machine>
+	<machine name="Quarterback Attack (USA)">
+		<category>Games</category>
+		<description>Quarterback Attack (USA)</description>
+		<rom name="Quarterback Attack (USA).cue" size="113" crc="59190909" md5="dc226c3c4c8d24e1f3be68687895afd0" sha1="54d5e7386fe109208e644dfa0f979338d8f93e89"/>
+		<rom name="Quarterback Attack (USA).bin" size="775877760" crc="194d9a6f" md5="2bd31ced191857968092d49752e8b450" sha1="d55996c60be94248b4cca912c7aa2d00e29f8d8d"/>
+	</machine>
+	<machine name="Real Pinball (USA)">
+		<category>Games</category>
+		<description>Real Pinball (USA)</description>
+		<rom name="Real Pinball (USA).cue" size="84" crc="ddeddb80" md5="947d995acae3976ac927adcd33d7e9f5" sha1="f0118361f1ac8ea9103ad18b4e4b39e8680d24ad"/>
+		<rom name="Real Pinball (USA).bin" size="58858800" crc="a6c3a6ed" md5="13e529bd04349e4a82f4382e039a187a" sha1="224b0f767d9c5900c08f3ee3e238dad7c837f861"/>
+	</machine>
+	<machine name="Return Fire (USA, Europe)">
+		<category>Games</category>
+		<description>Return Fire (USA, Europe)</description>
+		<rom name="Return Fire (USA, Europe).cue" size="114" crc="348d9ba3" md5="fb95069a6466842af49996f5074d5db5" sha1="d7ebb4450dee4f67cebb139bc25a6b15834c7804"/>
+		<rom name="Return Fire (USA, Europe).bin" size="542258304" crc="b4d1faff" md5="e1ff7f1d642d4928fa37c929aabe6ae5" sha1="30e6d60dbc9a28d6b900cf332fcdbdbdf7e9a7a2"/>
+	</machine>
+	<machine name="Rise of the Robots (USA)">
+		<category>Games</category>
+		<description>Rise of the Robots (USA)</description>
+		<rom name="Rise of the Robots (USA).cue" size="113" crc="2275d931" md5="a885f28c7d0cfa46fbeb0e245b03c8e7" sha1="606466b6f7bcaf8cad3a1ace121d2c7bd0a13f7c"/>
+		<rom name="Rise of the Robots (USA).bin" size="669049920" crc="47aca7cf" md5="d84c00efaac8dd30c968df811edf1352" sha1="76a3891af45f95b9f9030b840235e4642d0d0c42"/>
+	</machine>
+	<machine name="Road &amp; Track Presents - The Need for Speed (USA, Europe)">
+		<category>Games</category>
+		<description>Road &amp; Track Presents - The Need for Speed (USA, Europe)</description>
+		<rom name="Road &amp; Track Presents - The Need for Speed (USA, Europe).cue" size="145" crc="f3045c66" md5="70dd87b5ffcd2f7f4a85d6f315233dc2" sha1="34a43bb9e2c06c770211eb0de3f9cd66245b8476"/>
+		<rom name="Road &amp; Track Presents - The Need for Speed (USA, Europe).bin" size="771408960" crc="d7afff02" md5="b213789b67a3368207a2ebf2c222847a" sha1="d0e83eabd8347fa9ad693017167e4639bbf624ad"/>
+	</machine>
+	<machine name="Road Rash (USA)">
+		<category>Games</category>
+		<description>Road Rash (USA)</description>
+		<rom name="Road Rash (USA).cue" size="104" crc="f7419d7d" md5="9d4210e6784f6e41f08dc5008b479ce7" sha1="bcbe79299294c587435c83994a8de77cd39a12cd"/>
+		<rom name="Road Rash (USA).bin" size="771761760" crc="94f43206" md5="9eb8826af01d4f8d3b735c8bf1fd01ea" sha1="42aa44eb256a10433219b75bed59d5c97ea50e88"/>
+	</machine>
+	<machine name="Robinson's Requiem (USA)">
+		<category>Games</category>
+		<description>Robinson's Requiem (USA)</description>
+		<rom name="Robinson's Requiem (USA).cue" size="113" crc="23bb2c76" md5="69ac100188fa34899890e237953bbb3a" sha1="2a33f317ed971362f70e694eb69def3008a8292c"/>
+		<rom name="Robinson's Requiem (USA).bin" size="361624704" crc="da69800a" md5="3d16a3a34106118d00d5acbe24eee211" sha1="5d3b1e11e2b31debf363c731d562ba130a3f75ff"/>
+	</machine>
+	<machine name="SHADOW - War of Succession (USA)">
+		<category>Games</category>
+		<description>SHADOW - War of Succession (USA)</description>
+		<rom name="SHADOW - War of Succession (USA).cue" size="121" crc="27954e7f" md5="6be9dd340173b8a9dbc9c62aa65240e4" sha1="70f971eda69ab6750e9859933c67301cb03c0d91"/>
+		<rom name="SHADOW - War of Succession (USA).bin" size="277681824" crc="8a8d6590" md5="56a239e5c654c7d69ca4f38ffc39f110" sha1="5972f0f5bdb30cafbaf1ade682dc74ceb1634719"/>
+	</machine>
+	<machine name="Samurai Shodown (USA, Europe)">
+		<category>Games</category>
+		<description>Samurai Shodown (USA, Europe)</description>
+		<rom name="Samurai Shodown (USA, Europe).cue" size="118" crc="43f849a6" md5="127cfe5baf11855c749de8c46b55d875" sha1="79219d07169ccfa99e5f239a8c6e967302e43293"/>
+		<rom name="Samurai Shodown (USA, Europe).bin" size="572712000" crc="44a871b5" md5="b0a0bf31f20b8a1fc45d2ea552c94540" sha1="74d1c853b76f82b90c391738aac0879e90146507"/>
+	</machine>
+	<machine name="Scramble Cobra (USA)">
+		<category>Games</category>
+		<description>Scramble Cobra (USA)</description>
+		<rom name="Scramble Cobra (USA).cue" size="109" crc="2578c3f9" md5="8eddaabf46c869a81df18fb86d92f6f7" sha1="291ece81a2b0920794d64f814698b944f760c943"/>
+		<rom name="Scramble Cobra (USA).bin" size="765039744" crc="4146cb3f" md5="6fa5997cbe25629370e629518bb80e2f" sha1="31d1747848fdf9f26e45f9086dd14188dbe8e658"/>
+	</machine>
+	<machine name="Seal of the Pharaoh (USA)">
+		<category>Games</category>
+		<description>Seal of the Pharaoh (USA)</description>
+		<rom name="Seal of the Pharaoh (USA).cue" size="114" crc="b36d257d" md5="99e83624320efe6584b886846b8288b9" sha1="1cca44e9b9efbc988eeae1e4bbcf1bf11dd2e21a"/>
+		<rom name="Seal of the Pharaoh (USA).bin" size="602817600" crc="a5e340bd" md5="f58f7135990c761154b5341088f89ab6" sha1="122a5707539a00a584b028a52d3fb2b516b045e5"/>
+	</machine>
+	<machine name="Sewer Shark (USA, Europe)">
+		<category>Games</category>
+		<description>Sewer Shark (USA, Europe)</description>
+		<rom name="Sewer Shark (USA, Europe).cue" size="114" crc="3ce603cf" md5="abb31b01b5e8edf20b3efdb682e50729" sha1="0f081672015dfd090af38ccf6214243042d8b724"/>
+		<rom name="Sewer Shark (USA, Europe).bin" size="777218400" crc="dcd0586f" md5="9d4effda9392fc94a9e8d76b95aa7745" sha1="02886b4b34fded3b768df0a7a6d5bdd793c8ca6d"/>
+	</machine>
+	<machine name="Shanghai - Triple-Threat (USA)">
+		<category>Games</category>
+		<description>Shanghai - Triple-Threat (USA)</description>
+		<rom name="Shanghai - Triple-Threat (USA).cue" size="119" crc="328f3693" md5="0e25b10007d9d9f1c3942f11d1fe86a9" sha1="2753a552c9d992cee586d4ec92ae62d70ef8f462"/>
+		<rom name="Shanghai - Triple-Threat (USA).bin" size="121128000" crc="6f52c892" md5="6cdc0627b30858420d9cdff1fceacb98" sha1="23334e04329637dfec2151aa1f2dd077fba69677"/>
+	</machine>
+	<machine name="Shock Wave (USA) (RE2)">
+		<category>Games</category>
+		<description>Shock Wave (USA) (RE2)</description>
+		<rom name="Shock Wave (USA) (RE2).cue" size="111" crc="dbd88421" md5="e70c2daaa8e2aea6f50e29e86d8d0a62" sha1="7fc6a58cb82242a165c55adab186138b47e72746"/>
+		<rom name="Shock Wave (USA) (RE2).bin" size="747329184" crc="5d77f078" md5="1fa86975f226a7db24fe513368b62e69" sha1="403da6c5c27c9785f255b0cbe9adfb55c122a6d3"/>
+	</machine>
+	<machine name="Shockwave 2 - Beyond the Gate (USA) (Disc 1)">
+		<category>Games</category>
+		<description>Shockwave 2 - Beyond the Gate (USA) (Disc 1)</description>
+		<rom name="Shockwave 2 - Beyond the Gate (USA) (Disc 1).cue" size="133" crc="1544ccaf" md5="b72c510951202ac927d53725e39529e8" sha1="397f1d6255617b2023e84740df507ac6f22b4a77"/>
+		<rom name="Shockwave 2 - Beyond the Gate (USA) (Disc 1).bin" size="753350304" crc="4bc2fc9e" md5="f92f2384ab97b6408a767ec42ca943e5" sha1="6c721692986f2bdfd2a36dab946c50e4c74a153f"/>
+	</machine>
+	<machine name="Shockwave 2 - Beyond the Gate (USA) (Disc 2)">
+		<category>Games</category>
+		<description>Shockwave 2 - Beyond the Gate (USA) (Disc 2)</description>
+		<rom name="Shockwave 2 - Beyond the Gate (USA) (Disc 2).cue" size="133" crc="1419ea7e" md5="d740f12fb3943dbc1fcf25e06f73f800" sha1="781b5fff8f2f1c42add8e53659295c934630564f"/>
+		<rom name="Shockwave 2 - Beyond the Gate (USA) (Disc 2).bin" size="753350304" crc="d07deadd" md5="d7e35dc0024bbb5009ad3311c26d650b" sha1="f0a88faa9fac54dffec659a8535b469a6ba8681d"/>
+	</machine>
+	<machine name="Shootout at Old Tucson (USA) (RE3) (Arcade CD-ROM)">
+		<category>Games</category>
+		<description>Shootout at Old Tucson (USA) (RE3) (Arcade CD-ROM)</description>
+		<rom name="Shootout at Old Tucson (USA) (RE3) (Arcade CD-ROM).cue" size="139" crc="080fff67" md5="b20268ecfa052166ee49bffc74774437" sha1="d53f803f2929735d318af7d835da44afffed2d55"/>
+		<rom name="Shootout at Old Tucson (USA) (RE3) (Arcade CD-ROM).bin" size="145565280" crc="bc59f97d" md5="18dcdbb18f2fa99bc0c5ec6a887f8021" sha1="32c161a8819ac7145fbe815588daef71d5505847"/>
+	</machine>
+	<machine name="Slam 'n Jam '95 (USA, Europe)">
+		<category>Games</category>
+		<description>Slam 'n Jam '95 (USA, Europe)</description>
+		<rom name="Slam 'n Jam '95 (USA, Europe).cue" size="95" crc="db881455" md5="788d7b708d3b0b695c0ada1d1a0e2f3a" sha1="d5fb26ab468add6e89bd70917fbdc457007d203e"/>
+		<rom name="Slam 'n Jam '95 (USA, Europe).bin" size="120775200" crc="7b398ee6" md5="ca9f39df56ff4438657458923cf20646" sha1="3e0d64f04e51def8659f0317e5d5b077ac8449d4"/>
+	</machine>
+	<machine name="Slayer (USA)">
+		<category>Games</category>
+		<description>Slayer (USA)</description>
+		<rom name="Slayer (USA).cue" size="101" crc="95003217" md5="c2f63426c52f1a8a0e76167045acd1bd" sha1="5e585a71cf0385aad8f031acac8261ef980b11a4"/>
+		<rom name="Slayer (USA).bin" size="355951680" crc="68613693" md5="36b80760efe39e9cecb23c0aa25d4771" sha1="2a48d357aebf283eb5a0ec061d8d0daa50c42727"/>
+	</machine>
+	<machine name="SnowJob Starring Tracy Scoggins (USA) (Disc 1)">
+		<category>Games</category>
+		<description>SnowJob Starring Tracy Scoggins (USA) (Disc 1)</description>
+		<rom name="SnowJob Starring Tracy Scoggins (USA) (Disc 1).cue" size="135" crc="2b52ec45" md5="ca0d2e54f1ff676e6a38850ec6f5496a" sha1="cecc9c6bdf528ccc9009997bd6dc2dd0ab85026a"/>
+		<rom name="SnowJob Starring Tracy Scoggins (USA) (Disc 1).bin" size="758167200" crc="c8cdb69b" md5="0b299927a1284de9a58f05d6e20ab36a" sha1="247dd157fb6b5b2e08c1061330b838ee67559f8f"/>
+	</machine>
+	<machine name="SnowJob Starring Tracy Scoggins (USA) (Disc 2)">
+		<category>Games</category>
+		<description>SnowJob Starring Tracy Scoggins (USA) (Disc 2)</description>
+		<rom name="SnowJob Starring Tracy Scoggins (USA) (Disc 2).cue" size="135" crc="2a0fca94" md5="57367632234eef29ed34ffa1db31f81d" sha1="e6a0dfd1a376f7afae4fb2a41cfc8740f592f752"/>
+		<rom name="SnowJob Starring Tracy Scoggins (USA) (Disc 2).bin" size="758167200" crc="098f3e3e" md5="f4e07c38d9855c1b75ec8a7d00c118c9" sha1="baae6f4baa1419535b3eaa06a9d1c01d4c951082"/>
+	</machine>
+	<machine name="Soccer Kid (USA)">
+		<category>Games</category>
+		<description>Soccer Kid (USA)</description>
+		<rom name="Soccer Kid (USA).cue" size="105" crc="80c872ab" md5="9431b0d29a335dbe16b8ca12ddca2ee6" sha1="6f75113804ebfe816083d59fe3a2484eb76f22a2"/>
+		<rom name="Soccer Kid (USA).bin" size="639297120" crc="f4a86e6b" md5="d34622a71188b615ed6223b8cdcef61f" sha1="0699f55b96d2a10b518af6dec4f285287ec6537f"/>
+	</machine>
+	<machine name="Space Ace (USA) (RE-1)">
+		<category>Games</category>
+		<description>Space Ace (USA) (RE-1)</description>
+		<rom name="Space Ace (USA) (RE-1).cue" size="111" crc="b44ba3ae" md5="fd6e4f0f77b2636890acdf403c8f32f8" sha1="0b132d928615f6c353f658d06b7d5a929bbebe42"/>
+		<rom name="Space Ace (USA) (RE-1).bin" size="494790240" crc="2946d2ce" md5="c10d0465afc9531c4eea4683dafb024f" sha1="5128ae797c2d293176ecbbe5bfc6e34104b7a88b"/>
+	</machine>
+	<machine name="Space Hulk - Vengeance of the Blood Angels (USA)">
+		<category>Games</category>
+		<description>Space Hulk - Vengeance of the Blood Angels (USA)</description>
+		<rom name="Space Hulk - Vengeance of the Blood Angels (USA).cue" size="137" crc="7f633c2c" md5="e460119f3df009408a08616de259b290" sha1="bb9cf76004506d4869dea9f7f2f1b036f2a07440"/>
+		<rom name="Space Hulk - Vengeance of the Blood Angels (USA).bin" size="482399904" crc="643e0945" md5="b8b2d3f641b33cac9f0d5e713b377c4f" sha1="ecfc8444938e5af4c63d56abcd373e229748a98f"/>
+	</machine>
+	<machine name="Space Pirates (USA)">
+		<category>Games</category>
+		<description>Space Pirates (USA)</description>
+		<rom name="Space Pirates (USA).cue" size="108" crc="d62d7c0b" md5="9f2300624fe1e963ae3f399e674da357" sha1="7f05bae03f146f1dd5ac5442a2c3c8b4ff897ae0"/>
+		<rom name="Space Pirates (USA).bin" size="715593648" crc="2c4b31d1" md5="421df4da29692a31be15c6965482e27a" sha1="8532ae19f3bd243211dc346034ab194701ff3c36"/>
+	</machine>
+	<machine name="Star Control II (USA, Europe)">
+		<category>Games</category>
+		<description>Star Control II (USA, Europe)</description>
+		<rom name="Star Control II (USA, Europe).cue" size="118" crc="363e33c2" md5="5f2275f98bebfabc16c620f73e1c8c85" sha1="637a47b189b463a119e466e11b4db2045e137658"/>
+		<rom name="Star Control II (USA, Europe).bin" size="771060864" crc="bfa0c923" md5="6efb7962cc131296429fc3512fcec724" sha1="47cf22aff089adc72534b853f8337dc294f0b74c"/>
+	</machine>
+	<machine name="Star Fighter (USA, Europe)">
+		<category>Games</category>
+		<description>Star Fighter (USA, Europe)</description>
+		<rom name="Star Fighter (USA, Europe).cue" size="115" crc="e0501f63" md5="7ac95c7c535952c4e90fa2eed595386d" sha1="7e3081c5f52cf04caee9151c307b73d1b59c3cbe"/>
+		<rom name="Star Fighter (USA, Europe).bin" size="530916960" crc="722f6c48" md5="c30cc5f54ade46c70bcc5301e7c85b27" sha1="c69a766dc8c46ada66d181812b417351bea515fc"/>
+	</machine>
+	<machine name="Star Wars - Rebel Assault (USA, Europe)">
+		<category>Games</category>
+		<description>Star Wars - Rebel Assault (USA, Europe)</description>
+		<rom name="Star Wars - Rebel Assault (USA, Europe).cue" size="128" crc="a6bc47e0" md5="c410adf4a5e54e6714277a3a7b371a45" sha1="738aa079d51db9a7d8068bb0a3a3b2cc78c94105"/>
+		<rom name="Star Wars - Rebel Assault (USA, Europe).bin" size="530564160" crc="2e8261ac" md5="1a17726f1abcdac56c1a45abcfba0488" sha1="6d1469166770cc751c5d33e7bdd77273e48ecbbc"/>
+	</machine>
+	<machine name="Starblade (USA, Korea)">
+		<category>Games</category>
+		<description>Starblade (USA, Korea)</description>
+		<rom name="Starblade (USA, Korea).cue" size="111" crc="44468f04" md5="d50ac63455380e573b5fc10e332b2855" sha1="59fbf804538f0ef6c435d78f4bddcce8102f83f9"/>
+		<rom name="Starblade (USA, Korea).bin" size="663381600" crc="8e7378dc" md5="6fcd54647f86a058543c4f77799a9082" sha1="9fd3be7994781db557b9a33cee5f2cd50299f695"/>
+	</machine>
+	<machine name="Stellar 7 - Draxon's Revenge (USA)">
+		<category>Games</category>
+		<description>Stellar 7 - Draxon's Revenge (USA)</description>
+		<rom name="Stellar 7 - Draxon's Revenge (USA).cue" size="123" crc="8453f858" md5="6c37ec7ee3833b7429ca12c8688469a6" sha1="b3c9a333276d35eae47e9cd9479c7ae51c6ad746"/>
+		<rom name="Stellar 7 - Draxon's Revenge (USA).bin" size="349935264" crc="cb360c0c" md5="7754cdbea6817c58f6791de8d80d6833" sha1="07bd366ca91fdcd91db8bc9721088dc1f8120c44"/>
+	</machine>
+	<machine name="Strahl (USA)">
+		<category>Games</category>
+		<description>Strahl (USA)</description>
+		<rom name="Strahl (USA).cue" size="101" crc="4669eb9d" md5="ba0916f2d1e3497e8019efb58f00e1ff" sha1="dc93508a3943dbd28ecc8d1837a6db5da2027449"/>
+		<rom name="Strahl (USA).bin" size="759018624" crc="b2d9fdaf" md5="f91b47c6786a3fc1f5415c5cc55a043b" sha1="646bc6b359af5f1f1329e856eb6bd6de56938678"/>
+	</machine>
+	<machine name="Striker - World Cup Special (Europe)">
+		<category>Games</category>
+		<description>Striker - World Cup Special (Europe)</description>
+		<rom name="Striker - World Cup Special (Europe).cue" size="125" crc="aef15ba4" md5="1c568c11c24f83d2eef645fa5bf7d8cb" sha1="0ef062ac111921e8119427ce43de78edbd9c37e5"/>
+		<rom name="Striker - World Cup Special (Europe).bin" size="482047104" crc="9b25745f" md5="e27af8a08f938793c81e20083de78ac7" sha1="5b9c29097d3db9d7d5073769292457c1fc867684"/>
+	</machine>
+	<machine name="Super Street Fighter II Turbo (USA) (RE2)">
+		<category>Games</category>
+		<description>Super Street Fighter II Turbo (USA) (RE2)</description>
+		<rom name="Super Street Fighter II Turbo (USA) (RE2).cue" size="130" crc="45c1f927" md5="cbeedb3c2ef412ddaa703b05dcbb40c0" sha1="da8d5705f5504c11a83c943d0b343751f87e9b88"/>
+		<rom name="Super Street Fighter II Turbo (USA) (RE2).bin" size="357160608" crc="a872e811" md5="2d87230ea274b7e80cd7ce599e412a4b" sha1="1a61540f71aa15df914615200c4b46d2105a25c7"/>
+	</machine>
+	<machine name="Super Wing Commander (USA)">
+		<category>Games</category>
+		<description>Super Wing Commander (USA)</description>
+		<rom name="Super Wing Commander (USA).cue" size="115" crc="6ce7d2d8" md5="cdf2e2e2956894c71a4d976138327469" sha1="dd48db5b3e01a91478998c7b146961398b3601e5"/>
+		<rom name="Super Wing Commander (USA).bin" size="650986560" crc="cf5fc3e2" md5="7118ceb5a1c82721775c2d14ac418588" sha1="678ab452ba9b676e3d6b7effbbd57b96f18f4561"/>
+	</machine>
+	<machine name="Supreme Warrior (USA) (Disc 1) (Fire &amp; Earth)">
+		<category>Games</category>
+		<description>Supreme Warrior (USA) (Disc 1) (Fire &amp; Earth)</description>
+		<rom name="Supreme Warrior (USA) (Disc 1) (Fire &amp; Earth).cue" size="134" crc="ab66c4ce" md5="b9a0dec724a5bf0770a60eaccef0c9aa" sha1="640cb5670ea4561729cae6dbd75d80e999e66caf"/>
+		<rom name="Supreme Warrior (USA) (Disc 1) (Fire &amp; Earth).bin" size="771761760" crc="19af2f51" md5="52fa9002244383ea36942943c854dc7d" sha1="67b6a18eaef5f07860eeb258d7c301bf9bc8507d"/>
+	</machine>
+	<machine name="Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu)">
+		<category>Games</category>
+		<description>Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu)</description>
+		<rom name="Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu).cue" size="136" crc="7402882c" md5="e50e90ab15bc7967e461fc7bad50dffd" sha1="72149597bbf66706451b722f3fdd0dd59f3682ec"/>
+		<rom name="Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu).bin" size="771761760" crc="59a521fd" md5="2736c9e49189fcd3201544330595ae60" sha1="47a63c0714f7b6a858abd02070d963fbd24493ce"/>
+	</machine>
+	<machine name="Syndicate (USA)">
+		<category>Games</category>
+		<description>Syndicate (USA)</description>
+		<rom name="Syndicate (USA).cue" size="104" crc="6f022a3a" md5="8dc063aca1d43154e3ac8e3377bec126" sha1="9b9af8b4b38318d2ca479b75771614b227ba902c"/>
+		<rom name="Syndicate (USA).bin" size="129910368" crc="47abd70b" md5="3425da849ec442586bc1cf454b28c196" sha1="3a70c09b10454c87822a982a18a5129265e382b5"/>
+	</machine>
+	<machine name="Theme Park (USA)">
+		<category>Games</category>
+		<description>Theme Park (USA)</description>
+		<rom name="Theme Park (USA).cue" size="105" crc="a8520caa" md5="74f3c282e63b2313a113fd3a6164537e" sha1="df0be65dce4f59911b282e289e99b10857841228"/>
+		<rom name="Theme Park (USA).bin" size="227452512" crc="3f6ada61" md5="a9c43e48da9cb6d0b6d7ad5f98421e75" sha1="1933f50021d8148b476ccb4f50b3ac02b3e4e49b"/>
+	</machine>
+	<machine name="Total Eclipse (USA, Europe)">
+		<category>Games</category>
+		<description>Total Eclipse (USA, Europe)</description>
+		<rom name="Total Eclipse (USA, Europe).cue" size="93" crc="62e542ea" md5="95a0a130890e67d056ef54746fd4060d" sha1="d1ef2dea147b85b749ac89fb6cb53e59900963dd"/>
+		<rom name="Total Eclipse (USA, Europe).bin" size="422184000" crc="9119e43d" md5="ade1df39023c1f5fe0a3f65481740568" sha1="715869e4eecdc202983d0b688b78a76648182f00"/>
+	</machine>
+	<machine name="Trip'd (USA, Europe)">
+		<category>Games</category>
+		<description>Trip'd (USA, Europe)</description>
+		<rom name="Trip'd (USA, Europe).cue" size="132" crc="6e7de1eb" md5="7df5765c4766cc75ba446150e6ece0ee" sha1="3afecac91b52f5add1cae3704fbefb384b6f6b90"/>
+		<rom name="Trip'd (USA, Europe).bin" size="99451968" crc="65bdc9f0" md5="18ed2d933d1317f222fe9a1ee4bfd740" sha1="fb2ffb1f423f6ee934cdf2b2407d2077e100a37e"/>
+	</machine>
+	<machine name="Twisted - The Game Show (USA)">
+		<category>Games</category>
+		<description>Twisted - The Game Show (USA)</description>
+		<rom name="Twisted - The Game Show (USA).cue" size="118" crc="472893ea" md5="31d8dddf69c508472c1c8eda7911b40a" sha1="0bed2f54a1528796caffac40368ad626ad5bf951"/>
+		<rom name="Twisted - The Game Show (USA).bin" size="747329184" crc="8cca67e0" md5="32c36fe49baa96eaaa2c866abe9e77f9" sha1="1a58fec60d528501139e985edf136626cd0e1bb2"/>
+	</machine>
+	<machine name="VR Stalker (Europe) (Improved Version)">
+		<category>Games</category>
+		<description>VR Stalker (Europe) (Improved Version)</description>
+		<rom name="VR Stalker (Europe) (Improved Version).cue" size="104" crc="0b9e20b8" md5="0094115bee1d0eea7a195ac27c83219d" sha1="ffa8a6cca58dcfc760eda2b8722e304cac011366"/>
+		<rom name="VR Stalker (Europe) (Improved Version).bin" size="175318080" crc="56de4120" md5="7a722e31b6958ab73c424eeccbf06716" sha1="563d4c3259f2b4e5f58921351cd92fd4c2f1bb64"/>
+	</machine>
+	<machine name="Virtuoso (USA)">
+		<category>Games</category>
+		<description>Virtuoso (USA)</description>
+		<rom name="Virtuoso (USA).cue" size="103" crc="0eac67c9" md5="8cc9e4faae64ba74ad7bdcdfda72901d" sha1="dc43e7c88d56f70110016622bf1e2645b936deb1"/>
+		<rom name="Virtuoso (USA).bin" size="422184000" crc="8d170e35" md5="41c09026409a368d682eb842f600471a" sha1="6b622fcb3863395ccb0ba10c45097cba6004ccf8"/>
+	</machine>
+	<machine name="Waialae Country Club (USA, Canada)">
+		<category>Games</category>
+		<description>Waialae Country Club (USA, Canada)</description>
+		<rom name="Waialae Country Club (USA, Canada).cue" size="123" crc="2f5c6def" md5="65aff896f5a5b3f72042da84576ffe6c" sha1="f32a43bf75f3b48dbbf569507c598b1ab50dffb6"/>
+		<rom name="Waialae Country Club (USA, Canada).bin" size="458310720" crc="2a6d27e4" md5="fe36e6f686e82caad3e75eae4876653e" sha1="72b460207b6f96f05ed0a6ca2c45d09b773d008c"/>
+	</machine>
+	<machine name="Way of the Warrior (USA)">
+		<category>Games</category>
+		<description>Way of the Warrior (USA)</description>
+		<rom name="Way of the Warrior (USA).cue" size="113" crc="852b716e" md5="25abcbb0bca9b41c333e85719e7f9660" sha1="092015d1d8db2567af54b88fb973561a646d8245"/>
+		<rom name="Way of the Warrior (USA).bin" size="371606592" crc="799492da" md5="85f2187469da41b2845484acc04bf413" sha1="062150c5f89b3e83a3856b67cd733d0b7f566103"/>
+	</machine>
+	<machine name="Who Shot Johnny Rock (USA)">
+		<category>Games</category>
+		<description>Who Shot Johnny Rock (USA)</description>
+		<rom name="Who Shot Johnny Rock (USA).cue" size="115" crc="b51cf745" md5="8f3cd3a6c5630e26365531a313636588" sha1="c325209e0171bc14e9d28596eb3fd74bcf0f975b"/>
+		<rom name="Who Shot Johnny Rock (USA).bin" size="500811360" crc="3cd0a61d" md5="9c957911fa1223d6eeed8ffd64559bc3" sha1="403312297eb278b8bfb3643b586450ab70363af3"/>
+	</machine>
+	<machine name="Wicked 18 (USA)">
+		<category>Games</category>
+		<description>Wicked 18 (USA)</description>
+		<rom name="Wicked 18 (USA).cue" size="104" crc="d66f58e4" md5="b60ec63fb14fe630c98355a5dfa9d08e" sha1="80533a9b15ff573ac3dc2b4b18200f661e565c3b"/>
+		<rom name="Wicked 18 (USA).bin" size="467944512" crc="8d9c309c" md5="08c0df0a316ebab587cb43f7f2f66e40" sha1="2344a666f4854beda291eb11f7bc0338321d4a0e"/>
+	</machine>
+	<machine name="Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 1)">
+		<category>Games</category>
+		<description>Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 1)</description>
+		<rom name="Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 1).cue" size="151" crc="1ae794ed" md5="6884acbe45f91c6e47c58b70b8d708a9" sha1="500986c3e07d71786079c0a3b970b4381f011bc8"/>
+		<rom name="Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 1).bin" size="771060864" crc="8f9d3bc9" md5="41b3ad46d21ae7f13a481fe5a9644627" sha1="c4d8f8cbb11c659d052fedc953476a5f0c16a15b"/>
+	</machine>
+	<machine name="Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 2)">
+		<category>Games</category>
+		<description>Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 2)</description>
+		<rom name="Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 2).cue" size="151" crc="1bbab23c" md5="3b3441f4ee7340bf578df62d7ae513b4" sha1="fcfab3e765e5d3c463c2322a917a67aa11f842f7"/>
+		<rom name="Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 2).bin" size="771060864" crc="92bdf6bd" md5="8e0e89a6f986e9bd5a2cd73a0154be2d" sha1="8fb5d8ddc8be389c5b04d6714a56341e9bccb58a"/>
+	</machine>
+	<machine name="Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 3)">
+		<category>Games</category>
+		<description>Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 3)</description>
+		<rom name="Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 3).cue" size="151" crc="ada1524c" md5="93819cc8906aad6790385fd758cf3b6a" sha1="86923bee683823e624d866f4538ea8a3ed96162a"/>
+		<rom name="Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 3).bin" size="771060864" crc="406ff629" md5="ca461cec83df80a1135a4c13e13f5a49" sha1="95f2d6a6e4348c1e21a6bf98ec30b37b8565d59f"/>
+	</machine>
+	<machine name="Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 4)">
+		<category>Games</category>
+		<description>Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 4)</description>
+		<rom name="Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 4).cue" size="151" crc="1900ff9e" md5="4fcfeb53af1a9004f911dbf28937d1c7" sha1="8767c4f91d19ed54a03590b84c8e06b99dc4082f"/>
+		<rom name="Wing Commander III - Heart of the Tiger (USA, Europe) (Disc 4).bin" size="771060864" crc="2979176b" md5="95a1a031aae6b92bc536d88d640e7ae9" sha1="d4af53cb6b8d6e16b152b7692fba2e9a85119681"/>
+	</machine>
+	<machine name="Wolfenstein 3D (USA)">
+		<category>Games</category>
+		<description>Wolfenstein 3D (USA)</description>
+		<rom name="Wolfenstein 3D (USA).cue" size="109" crc="af18bb31" md5="88e037916bc3e03e2c4d13536b1e61f0" sha1="197a18c4468cb079fb204a69a758c15c5f424c47"/>
+		<rom name="Wolfenstein 3D (USA).bin" size="133363104" crc="cd23091e" md5="b635fb5f28f8c0a058bd40a2fb79337c" sha1="fee290ef7293b5facdc75bcdc332968836cef738"/>
+	</machine>
+	<machine name="World Cup Golf - Hyatt Dorado Beach (USA, Europe)">
+		<category>Games</category>
+		<description>World Cup Golf - Hyatt Dorado Beach (USA, Europe)</description>
+		<rom name="World Cup Golf - Hyatt Dorado Beach (USA, Europe).cue" size="138" crc="1017c139" md5="ac0066adfaba2d153931195cc6b7e8be" sha1="1e771d635b5e71f51073436c76d79b707a0d4e58"/>
+		<rom name="World Cup Golf - Hyatt Dorado Beach (USA, Europe).bin" size="771060864" crc="a596bf93" md5="47ebb4188396ec06254881f413a9fea7" sha1="88d8ff6aa790bd19e68867557665f8e2bee9b2b7"/>
+	</machine>
+	<machine name="World Cup Special (Japan)">
+		<category>Games</category>
+		<description>World Cup Special (Japan)</description>
+		<rom name="World Cup Special (Japan).cue" size="91" crc="8d0a7479" md5="5f1cc080630f99312582566b6574bc8c" sha1="3c98aeb0f9409afb1fa4a233338addb8a8dd1045"/>
+		<rom name="World Cup Special (Japan).bin" size="482047104" crc="af10b917" md5="a4c89151ba8eceb6a04b99c82d0e5411" sha1="df98e672e70d4d212b9b8e84b1893d50b8be4cf2"/>
+	</machine>
+	<machine name="Zhadnost - The People's Party (USA, Europe)">
+		<category>Games</category>
+		<description>Zhadnost - The People's Party (USA, Europe)</description>
+		<rom name="Zhadnost - The People's Party (USA, Europe).cue" size="132" crc="9885aed7" md5="85c3d5ff5c49a953271ab4a8480c559a" sha1="cca5a60b40641e7316ba65ca26a8488b0b7e63a4"/>
+		<rom name="Zhadnost - The People's Party (USA, Europe).bin" size="746976384" crc="7dec8785" md5="a5730c26cf746b5adbc7d0728ee07a69" sha1="53c35837c612d7d25a6e8da05e9710d61cf83018"/>
+	</machine>
+</datafile>

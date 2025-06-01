@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<name>NEC - PC Engine SuperGrafx</name>
+		<description>ENTrimmed (1G1R En)</description>
+		<category>Console</category>
+		<comment>NEC - PC Engine SuperGrafx (4) (-ny) [-AaBbcDdefkmMopPruv] (20250121-134304) (Retool)</comment>
+		<version>2025-06-01</version>
+		<author>Jamie S</author>
+		<homepage>https://github.com/JamieS01/ENTrimmed</homepage>
+		<url>https://github.com/JamieS01/ENTrimmed</url>
+		<retool>Created by Retool 2.3.9</retool>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<machine name="Aldynes - The Misson Code for Rage Crisis (Japan) (En)">
+		<category>Games</category>
+		<description>Aldynes - The Misson Code for Rage Crisis (Japan) (En)</description>
+		<rom name="Aldynes - The Misson Code for Rage Crisis (Japan) (En).sgx" size="1048576" crc="4c2126b0" md5="8ce21667658ef9c025ad007f65147c6d" sha1="d876248ee1b80ad11633fd4be8aa21a187b52193" sha256="5f3b430e34c79218a9f89a403a286037b2fb172b528373df5ba70aedbecd36d7"/>
+	</machine>
+	<machine name="Battle Ace (Japan) (En)">
+		<category>Games</category>
+		<description>Battle Ace (Japan) (En)</description>
+		<rom name="Battle Ace (Japan) (En).sgx" size="524288" crc="3b13af61" md5="fc0053c0c050353b87886b1b89349168" sha1="edc8f7d2233c92ebd309ac804527c461851a4b63" sha256="41e06beeacfd05c837c9bb76da73c28d14dc2f66250a245b6931712f36c4e457"/>
+	</machine>
+	<machine name="Daimakaimura (Japan) (En)">
+		<category>Games</category>
+		<description>Daimakaimura (Japan) (En)</description>
+		<rom name="Daimakaimura (Japan) (En).sgx" size="1048576" crc="b486a8ed" md5="6d9ff6f70608166c88fd2553d44ca17a" sha1="cab9e4a1a8b6da07cc2c5cc35949928199a417ee" sha256="482fff401f8a0f4248af16224c31bc166a583b491413559a89c425165420a9dd"/>
+	</machine>
+	<machine name="Madou King Granzort (Japan) (En)">
+		<category>Games</category>
+		<description>Madou King Granzort (Japan) (En)</description>
+		<rom name="Madou King Granzort (Japan) (En).sgx" size="524288" crc="1f041166" md5="7e1e489c50fc6213196e6dbb704f6671" sha1="5ed16565753c902e14da9a0c5361ef01fa74463b" sha256="9b57cdf0d0b110f4128b863419d5be99a3708bfb11cfbe1696f25449b991026d"/>
+	</machine>
+</datafile>

@@ -1,0 +1,2980 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Nintendo - GameCube (NKit RVZ)</name>
+		<description>ENTrimmed (1G1R En)</description>
+		<category>Console</category>
+		<comment>Nintendo - GameCube - NKit RVZ [zstd-19-128k] (593) (-ny) [-AaBbcDdefkmMopPruv] (2025-05-21 01-22-52) (Retool)</comment>
+		<version>2025-06-01</version>
+		<author>Jamie S</author>
+		<homepage>https://github.com/JamieS01/ENTrimmed</homepage>
+		<url>https://github.com/JamieS01/ENTrimmed</url>
+		<retool>Created by Retool 2.3.9</retool>
+		<clrmamepro forcepacking="unzip"/>
+	</header>
+	<machine name="007 - Agent Under Fire (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GW7E69, CRC: E9A1E1B2</description>
+		<rom name="007 - Agent Under Fire (USA) (Rev 1).rvz" size="1189132168" crc="dfb6a725" md5="29ce03cfce2f203b25ba3a6f7f26fdb5" sha1="fe4bdad5cd2596ad46f926c70565b7531ba13c9a"/>
+	</machine>
+	<machine name="007 - Everything or Nothing (USA)">
+		<category>Games</category>
+		<description>GameID: GENE69, CRC: 6C5E9AC5</description>
+		<rom name="007 - Everything or Nothing (USA).rvz" size="1224385084" crc="54a9bb40" md5="26e5ef3e8afdb5dd6420093c82a0a7ac" sha1="853cc11b65a0ed5a9684c74a0a50fd3a3bf65bc4"/>
+	</machine>
+	<machine name="007 - From Russia with Love (USA)">
+		<category>Games</category>
+		<description>GameID: GLZE69, CRC: D2FD9A69</description>
+		<rom name="007 - From Russia with Love (USA).rvz" size="1244960320" crc="cf0c1ab3" md5="e14ff46f9c3f51825e3dc86c83b9b89f" sha1="7598fe163755e98be7bde7a588c583b58cda4d7d"/>
+	</machine>
+	<machine name="007 - Nightfire (USA)">
+		<category>Games</category>
+		<description>GameID: GO7E69, CRC: 737977CF</description>
+		<rom name="007 - Nightfire (USA).rvz" size="1253329676" crc="0c702336" md5="9fa391e006b4103160f7eb9059d641cf" sha1="0392e171846171b654b3156961a4498b24e43aeb"/>
+	</machine>
+	<machine name="1080 Avalanche (USA)">
+		<category>Games</category>
+		<description>GameID: GTEE01, CRC: 2C37CF08</description>
+		<rom name="1080 Avalanche (USA).rvz" size="894825548" crc="56dea935" md5="078ed141a685e4c3066707d8098e5cfa" sha1="6c66069e2701b16925a08ce2cd1db1ec6b7d71c2"/>
+	</machine>
+	<machine name="18 Wheeler - American Pro Trucker (USA)">
+		<category>Games</category>
+		<description>GameID: GWEE51, CRC: F827AB43</description>
+		<rom name="18 Wheeler - American Pro Trucker (USA).rvz" size="156754232" crc="58f1c445" md5="82278c3a8fb3cd5c2e94f25500876841" sha1="e75027d69bc4753c1d64c26079327b0a82f23976"/>
+	</machine>
+	<machine name="2002 FIFA World Cup (USA)">
+		<category>Games</category>
+		<description>GameID: GFIE69, CRC: 0F793A29</description>
+		<rom name="2002 FIFA World Cup (USA).rvz" size="1036465224" crc="76feaf7b" md5="ba76e95876973c6de345ccf61da5b30f" sha1="c041af61345571406268ffe936e1d68d08c7c14e"/>
+	</machine>
+	<machine name="4x4 Evo 2 (USA)">
+		<category>Games</category>
+		<description>GameID: GE4E7D, CRC: 9D473312</description>
+		<rom name="4x4 Evo 2 (USA).rvz" size="250177720" crc="4a3c2f4e" md5="89dce168ae15f07fffccef37c307a7ad" sha1="7cc67d0f236ce917fb4f388ebf7d07b7f1839c05"/>
+	</machine>
+	<machine name="ATV - Quad Power Racing 2 (USA)">
+		<category>Games</category>
+		<description>GameID: GATE51, CRC: 8AF3EED7</description>
+		<rom name="ATV - Quad Power Racing 2 (USA).rvz" size="427719640" crc="8246ae63" md5="cdf34de71bf6a4ffabc3ab283075026e" sha1="3ade846e044d724258e640024024b6c1f571f378"/>
+	</machine>
+	<machine name="Aggressive Inline (USA)">
+		<category>Games</category>
+		<description>GameID: GILE51, CRC: 5D9F46F1</description>
+		<rom name="Aggressive Inline (USA).rvz" size="700699800" crc="a429bd53" md5="35e2127780a9a66e013689d4e7d6b249" sha1="cdf5f3c91df603dd84d15feed9170a57793b1931"/>
+	</machine>
+	<machine name="Alien Hominid (USA)">
+		<category>Games</category>
+		<description>GameID: GAHEGG, CRC: D5371E2D</description>
+		<rom name="Alien Hominid (USA).rvz" size="199959476" crc="df797c98" md5="ee5982fcc7467098b4ac7e25758a6920" sha1="cb1cfbd7b23261c12343bf90f10e9591f9859296"/>
+	</machine>
+	<machine name="All-Star Baseball 2002 (USA)">
+		<category>Games</category>
+		<description>GameID: GA2E51, CRC: B7A4726C</description>
+		<rom name="All-Star Baseball 2002 (USA).rvz" size="461811120" crc="55fc27ad" md5="65395ba776820b11bf332661a7b33e9d" sha1="37ce4c48139c3cba1c50d2bac4e384ffae22ae58"/>
+	</machine>
+	<machine name="All-Star Baseball 2003 featuring Derek Jeter (USA)">
+		<category>Games</category>
+		<description>GameID: GA3E51, CRC: 3FA2CD5E</description>
+		<rom name="All-Star Baseball 2003 featuring Derek Jeter (USA).rvz" size="895715092" crc="e1f0683b" md5="3f528ebc411f9b14c87e3847850839ef" sha1="aa436b9e17de231cd20667451d51f476ce042638"/>
+	</machine>
+	<machine name="All-Star Baseball 2004 featuring Derek Jeter (USA)">
+		<category>Games</category>
+		<description>GameID: GA4E51, CRC: 5DD1CBE5</description>
+		<rom name="All-Star Baseball 2004 featuring Derek Jeter (USA).rvz" size="1336349028" crc="8f0fe88f" md5="8ea1f5ed5f1aeec744677523e0592f75" sha1="466fe116d8e640c76cc2a0a9c7ef617c828dee69"/>
+	</machine>
+	<machine name="Amazing Island (USA)">
+		<category>Games</category>
+		<description>GameID: GKAE8P, CRC: 200F5305</description>
+		<rom name="Amazing Island (USA).rvz" size="817459320" crc="f7fc95e4" md5="c8c76dff25f1e50bd761131061aafde5" sha1="3bc1e38a7a41712c1b106d2c1ffbc2e7b135b570"/>
+	</machine>
+	<machine name="American Chopper 2 - Full Throttle (USA)">
+		<category>Games</category>
+		<description>GameID: GAPE52, CRC: 569086D0</description>
+		<rom name="American Chopper 2 - Full Throttle (USA).rvz" size="909153760" crc="71264a0c" md5="69b0866192ab29494d4df5264b822da0" sha1="0eac67b3d0dc29e677788f9578185a804fb9fd4c"/>
+	</machine>
+	<machine name="Animal Crossing (USA, Canada)">
+		<category>Games</category>
+		<description>GameID: GAFE01, CRC: 7BE72542</description>
+		<rom name="Animal Crossing (USA, Canada).rvz" size="19459780" crc="3d2c015c" md5="973e1c4382477447b25236f29dd7520b" sha1="afbecd0e64a64afa7b36eda5a0208325c469504d"/>
+	</machine>
+	<machine name="Animaniacs - The Great Edgar Hunt (USA)">
+		<category>Games</category>
+		<description>GameID: GANE7U, CRC: EFA60854</description>
+		<rom name="Animaniacs - The Great Edgar Hunt (USA).rvz" size="1018534292" crc="45fc6156" md5="3764aaedae4854d9af81fd945f8c822a" sha1="34f058aba936cbec7ba3dfe83ccb9463aa6fcf9f"/>
+	</machine>
+	<machine name="Ant Bully, The (USA) (En,Fr)">
+		<category>Games</category>
+		<description>GameID: GAXE5D, CRC: 82E88BC9</description>
+		<rom name="Ant Bully, The (USA) (En,Fr).rvz" size="397763832" crc="8335130f" md5="3f8e966fca8e512c3b8d320325ce523a" sha1="135e0627c3d5d914d3998add9bd6d9925216299c"/>
+	</machine>
+	<machine name="Aquaman - Battle for Atlantis (USA)">
+		<category>Games</category>
+		<description>GameID: GAQE6S, CRC: E3D04CB9</description>
+		<rom name="Aquaman - Battle for Atlantis (USA).rvz" size="390427740" crc="65edbd75" md5="f4d6d57ed10d26234074013f5211f276" sha1="caedfde27706d267c47e171a528eb734c6552412"/>
+	</machine>
+	<machine name="Army Men - Air Combat - The Elite Missions (USA)">
+		<category>Games</category>
+		<description>GameID: GACE5H, CRC: C7BDBCBA</description>
+		<rom name="Army Men - Air Combat - The Elite Missions (USA).rvz" size="799495188" crc="24936237" md5="f77637b10d0d5ed79c7f0af564f4dc93" sha1="70c4d03eab7cfea26ad0f64ece4bb27e19a8df65"/>
+	</machine>
+	<machine name="Army Men - RTS (USA)">
+		<category>Games</category>
+		<description>GameID: GARE5H, CRC: 98867BA8</description>
+		<rom name="Army Men - RTS (USA).rvz" size="394571148" crc="20588ad2" md5="284cb6765121b3553cba0eca5e3f60be" sha1="9999f3f88dafc35df2378a7823bc4c56d8571fe2"/>
+	</machine>
+	<machine name="Army Men - Sarge's War (USA)">
+		<category>Games</category>
+		<description>GameID: GAME5H, CRC: 378153A0</description>
+		<rom name="Army Men - Sarge's War (USA).rvz" size="1236741416" crc="dff56d28" md5="c21ffd1a2bba693c048571d55e559a90" sha1="6e10fce3cdc28f91ded3d052944ea8440e85332a"/>
+	</machine>
+	<machine name="Asterix &amp; Obelix XXL (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>GameID: GAGP70, CRC: E1BBDE8F</description>
+		<rom name="Asterix &amp; Obelix XXL (Europe) (En,Fr,De,Es,It).rvz" size="604623096" crc="aa7591a1" md5="ddcbeac53607ed8f579e05586e9a8ee3" sha1="57e925b48766818d2e6a76c391ad5ffbbfae88a1"/>
+	</machine>
+	<machine name="Auto Modellista (USA)">
+		<category>Games</category>
+		<description>GameID: GAUE08, CRC: AB80ECFB</description>
+		<rom name="Auto Modellista (USA).rvz" size="743620524" crc="f368cef3" md5="d63e0f9440fe44e0acff291a28578f4b" sha1="c5d974b1f2c48bee865522c7000ff2a803bc9620"/>
+	</machine>
+	<machine name="BMX XXX (USA)">
+		<category>Games</category>
+		<description>GameID: GB3E51, CRC: E84D9BD6</description>
+		<rom name="BMX XXX (USA).rvz" size="1048711920" crc="3250704e" md5="31b77e7aa2a8364f110b1a93d6991e2c" sha1="c88e243ae67e6b50da78a1138a7aa22b33cb81af"/>
+	</machine>
+	<machine name="Backyard Baseball (USA)">
+		<category>Games</category>
+		<description>GameID: GBKE70, CRC: 252D25EA</description>
+		<rom name="Backyard Baseball (USA).rvz" size="513962656" crc="02264dc0" md5="219e495ca3c5c8e84f8d932f8b252dcc" sha1="21701d523cf62651aedec41a20184b8267d4fe38"/>
+	</machine>
+	<machine name="Backyard Football (USA)">
+		<category>Games</category>
+		<description>GameID: GBFE70, CRC: A00EB5C8</description>
+		<rom name="Backyard Football (USA).rvz" size="820859420" crc="235b9db7" md5="19a7ca34e8804793c8a0bccd80dd93e7" sha1="16d5b6601aa26aeafdcfcafff65d04c8ecfdc51d"/>
+	</machine>
+	<machine name="Backyard Sports - Baseball 2007 (USA)">
+		<category>Games</category>
+		<description>GameID: GA7E70, CRC: 81D63AA4</description>
+		<rom name="Backyard Sports - Baseball 2007 (USA).rvz" size="437196972" crc="c6e3f01b" md5="567734e6709028e58ddf1bcb8084d06a" sha1="6f2a40b5a4f7e8eb9acba8b3b624b10352f4463c"/>
+	</machine>
+	<machine name="Bad Boys - Miami Takedown (USA)">
+		<category>Games</category>
+		<description>GameID: GOBE4Z, CRC: 1A5ADDAF</description>
+		<rom name="Bad Boys - Miami Takedown (USA).rvz" size="1082966452" crc="0bc69ba8" md5="45268f2b4aecb97870593f7fe316ccf7" sha1="08f18570d03c999daef55d480eeb8263851d64c4"/>
+	</machine>
+	<machine name="Baldur's Gate - Dark Alliance (USA)">
+		<category>Games</category>
+		<description>GameID: GDEE71, CRC: D942D22A</description>
+		<rom name="Baldur's Gate - Dark Alliance (USA).rvz" size="840297780" crc="f6d9c11c" md5="dd28bdf7a2374768ca45edfcb1421fbe" sha1="7c0a2f25629c65f4064b43dc77aea82e0ab1938e"/>
+	</machine>
+	<machine name="Baten Kaitos - Eternal Wings and the Lost Ocean (USA) (Disc 1)">
+		<category>Games</category>
+		<description>GameID: GKBEAF, CRC: 045B4A8D</description>
+		<rom name="Baten Kaitos - Eternal Wings and the Lost Ocean (USA) (Disc 1).rvz" size="1367415548" crc="b54d2dad" md5="bfda60dbd082ea8262a2237c6a464699" sha1="3148a6000762afcd9b90af51bf3ef796b4913992"/>
+	</machine>
+	<machine name="Baten Kaitos - Eternal Wings and the Lost Ocean (USA) (Disc 2)">
+		<category>Games</category>
+		<description>GameID: GKBEAF, CRC: C5CF7B30</description>
+		<rom name="Baten Kaitos - Eternal Wings and the Lost Ocean (USA) (Disc 2).rvz" size="1259853172" crc="3bbd3793" md5="f999543b349ad0e06f661d151f644a04" sha1="d0ae3231720246b20251dc20902992504dd95f0d"/>
+	</machine>
+	<machine name="Baten Kaitos Origins (USA, Canada) (Disc 1)">
+		<category>Games</category>
+		<description>GameID: GK4E01, CRC: ADF9FCB3</description>
+		<rom name="Baten Kaitos Origins (USA, Canada) (Disc 1).rvz" size="1376482280" crc="f4d93d58" md5="51a0716018229ff418dc2d09c6ca73e4" sha1="dffc356776bf4317f65f724d33d76c00a0f30cf9"/>
+	</machine>
+	<machine name="Baten Kaitos Origins (USA, Canada) (Disc 2)">
+		<category>Games</category>
+		<description>GameID: GK4E01, CRC: B835FE56</description>
+		<rom name="Baten Kaitos Origins (USA, Canada) (Disc 2).rvz" size="1320463048" crc="7c9dab17" md5="52b41964d00473a8829342287baaa7a8" sha1="91940e64910346c0a4507c729d4a6ca75a86d711"/>
+	</machine>
+	<machine name="Batman - Dark Tomorrow (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GBME7F, CRC: C30991FA</description>
+		<rom name="Batman - Dark Tomorrow (USA) (Rev 1).rvz" size="1079790344" crc="b7ab2ce6" md5="fba9c2a85a9e99df8a42c3d700c58164" sha1="48e8416e126c298761af590dfe4fa12eb5e9b3bf"/>
+	</machine>
+	<machine name="Batman - Rise of Sin Tzu (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>GameID: GUZE41, CRC: E9A1B02C</description>
+		<rom name="Batman - Rise of Sin Tzu (USA) (En,Fr,Es).rvz" size="1285115152" crc="4024aec9" md5="c8bc37fad23dbc534c068683b121116a" sha1="81f3574f434c47490498770dad01e5cc4d0f028b"/>
+	</machine>
+	<machine name="Batman - Vengeance (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>GameID: GBVE41, CRC: E566702E</description>
+		<rom name="Batman - Vengeance (USA) (En,Fr,Es).rvz" size="659903456" crc="3fa7e384" md5="95be72daaef0cf8c5ed42e5d782b50cc" sha1="ae2fc85c63a9aa7876d713c0d447cd1635135459"/>
+	</machine>
+	<machine name="Batman Begins (USA)">
+		<category>Games</category>
+		<description>GameID: GINE69, CRC: 1201B031</description>
+		<rom name="Batman Begins (USA).rvz" size="893124760" crc="fcb63403" md5="70c7172f1c64be183feb4d6b15d83579" sha1="8d7a426c59e3c54382bc712bb9dedb47ac12afb9"/>
+	</machine>
+	<machine name="Battalion Wars (USA, Canada)">
+		<category>Games</category>
+		<description>GameID: G8WE01, CRC: F697E65A</description>
+		<rom name="Battalion Wars (USA, Canada).rvz" size="710988576" crc="943718d3" md5="a2d849012c889dedc08bb08328aa5da6" sha1="24213a97d700a9dd0e2b47cfa7d2322a7a3dd452"/>
+	</machine>
+	<machine name="Beach Spikers - Virtua Beach Volleyball (USA)">
+		<category>Games</category>
+		<description>GameID: GBSE8P, CRC: 7BD812C3</description>
+		<rom name="Beach Spikers - Virtua Beach Volleyball (USA).rvz" size="137630716" crc="7918232c" md5="0d90c7cfe11d15b37275196e1f5d72b2" sha1="c0b8fff5e299ab55a74edb3b4bbd91b3985e2311"/>
+	</machine>
+	<machine name="Beyblade VForce - Super Tournament Battle (USA)">
+		<category>Games</category>
+		<description>GameID: GBTE70, CRC: 1474062C</description>
+		<rom name="Beyblade VForce - Super Tournament Battle (USA).rvz" size="130741668" crc="66889768" md5="8c29ff859376600275689387226c0348" sha1="4618ab7b6a564dc5160c1cd38863c175940f9008"/>
+	</machine>
+	<machine name="Beyond Good &amp; Evil (USA) (En,Es)">
+		<category>Games</category>
+		<description>GameID: GGEE41, CRC: 0D246034</description>
+		<rom name="Beyond Good &amp; Evil (USA) (En,Es).rvz" size="1158165368" crc="eb120ec6" md5="c46ae17da25d24f6114564ba19b10b01" sha1="0f4c1a2d14cf776e01df5e30f3b1c319a78a1d49"/>
+	</machine>
+	<machine name="Big Air Freestyle (USA)">
+		<category>Games</category>
+		<description>GameID: GMRE70, CRC: 3FBEFC7C</description>
+		<rom name="Big Air Freestyle (USA).rvz" size="875392212" crc="3645ca0f" md5="a587865e856474c7de34ae00e4066a8f" sha1="3ff11b3959b376ad2e24f575fb4c05900edb957d"/>
+	</machine>
+	<machine name="Big Mutha Truckers (USA)">
+		<category>Games</category>
+		<description>GameID: GT8E78, CRC: 5A141367</description>
+		<rom name="Big Mutha Truckers (USA).rvz" size="513878980" crc="34c343ad" md5="0a0759fd76bd042d9ae80fa456f17a01" sha1="60d3fe56ce1dee1d59450530d279acb8dea96e7a"/>
+	</machine>
+	<machine name="Billy Hatcher and the Giant Egg (USA)">
+		<category>Games</category>
+		<description>GameID: GEZE8P, CRC: 894DDFF0</description>
+		<rom name="Billy Hatcher and the Giant Egg (USA).rvz" size="798757652" crc="ee357ff3" md5="e68862282c2cb9ae2433ae6439151df7" sha1="c7bb226af2d4d7bbb237bf7fed00b8a434e006f2"/>
+	</machine>
+	<machine name="Bionicle (USA)">
+		<category>Games</category>
+		<description>GameID: GVOE69, CRC: 3A2944D5</description>
+		<rom name="Bionicle (USA).rvz" size="612346324" crc="494b1336" md5="3a8c5803bf9c5a2d88b58db05aa984b6" sha1="bd8e022de80d3fc9e003c7a33e95c64b5dc5f0bd"/>
+	</machine>
+	<machine name="Bionicle Heroes (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GVHE4F, CRC: A9AD9601</description>
+		<rom name="Bionicle Heroes (USA) (Rev 1).rvz" size="708437712" crc="efe498ba" md5="5ede6b3a0a8d29c5426a86694f0d6a7e" sha1="b6d7114c0fd2ef3928e8b7cbfdeb266b6b8f64fb"/>
+	</machine>
+	<machine name="Black &amp; Bruised (USA)">
+		<category>Games</category>
+		<description>GameID: G2BE5G, CRC: 73C2BBB8</description>
+		<rom name="Black &amp; Bruised (USA).rvz" size="913675256" crc="fb6d89c3" md5="135f17b121dc06ca638afea436ff3549" sha1="d5ec898386c97e0c556acd417e71ff27f5623d6c"/>
+	</machine>
+	<machine name="Blood Omen 2 - The Legacy of Kain Series (USA)">
+		<category>Games</category>
+		<description>GameID: GO2E4F, CRC: 5DDED798</description>
+		<rom name="Blood Omen 2 - The Legacy of Kain Series (USA).rvz" size="1274591564" crc="be1718bb" md5="8c2c2dd24ce42fb1ab601a82c13117dd" sha1="c1077e5cf4115e3b1b51b0bd3ff8d58ab2e58615"/>
+	</machine>
+	<machine name="BloodRayne (USA)">
+		<category>Games</category>
+		<description>GameID: GBDE5G, CRC: EDA1FD05</description>
+		<rom name="BloodRayne (USA).rvz" size="1015221260" crc="9be29f32" md5="00ac4d36d7aafe42af5420534d688fce" sha1="b832d7812dc7c8ad837af7c09eed0f46f5f1e6b8"/>
+	</machine>
+	<machine name="Bloody Roar - Primal Fury (USA)">
+		<category>Games</category>
+		<description>GameID: GBLE52, CRC: 677C5C12</description>
+		<rom name="Bloody Roar - Primal Fury (USA).rvz" size="546384360" crc="77229c56" md5="a1ede452eebb9d7b39151a1b03d3b423" sha1="9d5227874bbefe01e043b4053a680d294dc644b1"/>
+	</machine>
+	<machine name="Blowout (USA)">
+		<category>Games</category>
+		<description>GameID: GWOE5G, CRC: 5C683D53</description>
+		<rom name="Blowout (USA).rvz" size="181801356" crc="29bcc16b" md5="d9754c5a068b07f705e6db1c749491c7" sha1="95d4abf44fcb92d391ef88d2fb6e356b6f741633"/>
+	</machine>
+	<machine name="Bomberman Generation (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GBGE5G, CRC: 14CA15D0</description>
+		<rom name="Bomberman Generation (USA) (Rev 1).rvz" size="674088732" crc="42b60c91" md5="9724b64bef311eee40e193403da627e9" sha1="56f21958dd7f3c47ad4ebafca78fe714c28e3b5b"/>
+	</machine>
+	<machine name="Bomberman Jetters (USA)">
+		<category>Games</category>
+		<description>GameID: GJBE5G, CRC: A1389149</description>
+		<rom name="Bomberman Jetters (USA).rvz" size="820208764" crc="d5af8efb" md5="60ed928dddf406310f81592b1cdd9040" sha1="7231d7265f0dbf4d45d7f99aaa10f4543abae3d9"/>
+	</machine>
+	<machine name="Bratz - Forever Diamondz (USA)">
+		<category>Games</category>
+		<description>GameID: GVDE78, CRC: D6452C30</description>
+		<rom name="Bratz - Forever Diamondz (USA).rvz" size="769987236" crc="76985458" md5="9810aa13f0b29365d2bc1f9b7f92a43a" sha1="0ffb82a53818921c52babd54669adbe9254ad1c6"/>
+	</machine>
+	<machine name="Bratz - Rock Angelz (USA)">
+		<category>Games</category>
+		<description>GameID: GR6E78, CRC: DEFE192A</description>
+		<rom name="Bratz - Rock Angelz (USA).rvz" size="866021176" crc="aebc6e1f" md5="1b3a650126d2678c61c0cfa3360c230b" sha1="28fa0854fbedbf256a53a2d4dcd97fcabe020399"/>
+	</machine>
+	<machine name="Buffy the Vampire Slayer - Chaos Bleeds (USA)">
+		<category>Games</category>
+		<description>GameID: GCQE7D, CRC: E81553BD</description>
+		<rom name="Buffy the Vampire Slayer - Chaos Bleeds (USA).rvz" size="1070588556" crc="75d0f1b3" md5="ccd52a64251a78da0955680bee338f51" sha1="13c25c7f75a70d21ed97f14ad1b94774c29e25f8"/>
+	</machine>
+	<machine name="Burnout (USA)">
+		<category>Games</category>
+		<description>GameID: GBOE51, CRC: B1A16069</description>
+		<rom name="Burnout (USA).rvz" size="593340732" crc="95c1f1b3" md5="9570c84fe62793085809d282f8f933bf" sha1="7b68cf92c95f81a18d31bbbb588f67d274e87d14"/>
+	</machine>
+	<machine name="Burnout 2 - Point of Impact (USA)">
+		<category>Games</category>
+		<description>GameID: GB4E51, CRC: 58BE54D3</description>
+		<rom name="Burnout 2 - Point of Impact (USA).rvz" size="900084104" crc="9a11f8f8" md5="9e8451907a96824e75a4f0b93d3338d7" sha1="a42e06d158871798dd5f1716d899f64794cebe1c"/>
+	</machine>
+	<machine name="Bust-A-Move 3000 (USA)">
+		<category>Games</category>
+		<description>GameID: G3SE41, CRC: A612CB3C</description>
+		<rom name="Bust-A-Move 3000 (USA).rvz" size="64552044" crc="b0d58622" md5="a7496487fe02ebf2b2e87b8a7ee4dc8e" sha1="fde6fb386ae0268f7dac5030054d467eac53c319"/>
+	</machine>
+	<machine name="Butt-Ugly Martians - Zoom or Doom! (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>GameID: GZMP7D, CRC: 6D8D3BD4</description>
+		<rom name="Butt-Ugly Martians - Zoom or Doom! (Europe) (En,Fr,De,Es,It).rvz" size="1139622932" crc="9d2534f3" md5="736799b26d9a14b709e79b79ade8a557" sha1="bd7b85f1bd45f5e89fb0ab9b69331516960f5985"/>
+	</machine>
+	<machine name="Cabela's Big Game Hunter 2005 Adventures (USA)">
+		<category>Games</category>
+		<description>GameID: GG5E52, CRC: 5BCF4946</description>
+		<rom name="Cabela's Big Game Hunter 2005 Adventures (USA).rvz" size="618626140" crc="62ff5342" md5="c22f7e5e4ca73cf534a115c7548ed1c1" sha1="3a4c52addaf739d6f4b979a30357dd90615b8e09"/>
+	</machine>
+	<machine name="Cabela's Dangerous Hunts 2 (USA)">
+		<category>Games</category>
+		<description>GameID: GVKE52, CRC: F389716C</description>
+		<rom name="Cabela's Dangerous Hunts 2 (USA).rvz" size="956931640" crc="5d150670" md5="390f994aad81f85527d0ebe19f9bf125" sha1="3cff371d687ee68865641b6598f719549195846b"/>
+	</machine>
+	<machine name="Cabela's Outdoor Adventures (USA)">
+		<category>Games</category>
+		<description>GameID: GOAE52, CRC: 4B9E0CB2</description>
+		<rom name="Cabela's Outdoor Adventures (USA).rvz" size="1089844768" crc="26f7ec37" md5="75dd82832a7c167a3ca9f5ca823b2c9a" sha1="d2094224e2fae17870a4ea25e9951ec28be7be05"/>
+	</machine>
+	<machine name="Call of Duty - Finest Hour (USA)">
+		<category>Games</category>
+		<description>GameID: GCOE52, CRC: 23F77E19</description>
+		<rom name="Call of Duty - Finest Hour (USA).rvz" size="1098704556" crc="992d63f9" md5="3376d19b675bf734f37951d27302069d" sha1="2a0919b1ac96310a3af8bf83aed9b0f77545d2cd"/>
+	</machine>
+	<machine name="Call of Duty 2 - Big Red One (USA)">
+		<category>Games</category>
+		<description>GameID: GQCE52, CRC: F6C12C86</description>
+		<rom name="Call of Duty 2 - Big Red One (USA).rvz" size="906691648" crc="1aabda7d" md5="0c967fe78c58490e492fd0a9760e37a2" sha1="3f9bbcb775360afc8f343bdaf18f48701e34091b"/>
+	</machine>
+	<machine name="Capcom vs. SNK 2 EO (USA)">
+		<category>Games</category>
+		<description>GameID: GEOE08, CRC: 5F03B7D8</description>
+		<rom name="Capcom vs. SNK 2 EO (USA).rvz" size="238022404" crc="3a46053c" md5="d6c2f1bc0af916d5d90f7f3243c81b8b" sha1="f49462ef13443f34dabc383b137b6c37e34c7f36"/>
+	</machine>
+	<machine name="Carmen Sandiego - The Secret of the Stolen Drums (USA) (En,Fr)">
+		<category>Games</category>
+		<description>GameID: G3DE6L, CRC: EE1DAB3F</description>
+		<rom name="Carmen Sandiego - The Secret of the Stolen Drums (USA) (En,Fr).rvz" size="732332572" crc="9b5d1655" md5="94a0de435fae14ad097be55dc7fd25ee" sha1="f868a6bfb03753452c617a7e20cb9f527d4f2593"/>
+	</machine>
+	<machine name="Casper - Spirit Dimensions (USA)">
+		<category>Games</category>
+		<description>GameID: GCPE6S, CRC: AFAE94CD</description>
+		<rom name="Casper - Spirit Dimensions (USA).rvz" size="195820416" crc="4bd4f379" md5="be12e0bf4fc7d2199496721220d06419" sha1="1e81ed258b94850696c88e8443c7c8cabf428994"/>
+	</machine>
+	<machine name="Catwoman (USA)">
+		<category>Games</category>
+		<description>GameID: GCZE69, CRC: 210C61E4</description>
+		<rom name="Catwoman (USA).rvz" size="1220020800" crc="42245913" md5="5deb1e4e457536cc902eb928722fc637" sha1="25b67a8829dac1e50e238bf0202d14c25b4e1212"/>
+	</machine>
+	<machine name="Cel Damage (USA)">
+		<category>Games</category>
+		<description>GameID: GCLE69, CRC: C2D8F5AA</description>
+		<rom name="Cel Damage (USA).rvz" size="365183876" crc="96512025" md5="64f6648fc6ec2135b87741f76e23f5cd" sha1="ea24eea8707d1738591de192b83f7e5474e82144"/>
+	</machine>
+	<machine name="Chaos Field (USA)">
+		<category>Games</category>
+		<description>GameID: GKFEGG, CRC: 00A68227</description>
+		<rom name="Chaos Field (USA).rvz" size="412497644" crc="e4650ac8" md5="939b5477788c98aa91b6fbe28a4d6312" sha1="50cdf2a16d8d40f2afda835cd1f09c17433a714c"/>
+	</machine>
+	<machine name="Charlie and the Chocolate Factory (USA)">
+		<category>Games</category>
+		<description>GameID: G4CE54, CRC: 6C712650</description>
+		<rom name="Charlie and the Chocolate Factory (USA).rvz" size="1048378044" crc="55993e01" md5="8a4b25560911328bb022b422013d0d87" sha1="02ba637024e7186f93e2e1745c1bc72b281128fc"/>
+	</machine>
+	<machine name="Charlie's Angels (USA) (En,Fr)">
+		<category>Games</category>
+		<description>GameID: GCGE41, CRC: E51AA467</description>
+		<rom name="Charlie's Angels (USA) (En,Fr).rvz" size="1296399092" crc="313e8457" md5="f214fa595b339b1617c0772dc6628e22" sha1="b0155850303e17537e0df804d59cd496a9422636"/>
+	</machine>
+	<machine name="Chibi-Robo! (USA)">
+		<category>Games</category>
+		<description>GameID: GGTE01, CRC: DB4C3C85</description>
+		<rom name="Chibi-Robo! (USA).rvz" size="340712768" crc="0f766ac5" md5="06bfde6807e4cc2e2a15061962598c32" sha1="53311e81c2be4cbe6c7edfbe650462e4b5a8adf5"/>
+	</machine>
+	<machine name="Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (USA)">
+		<category>Games</category>
+		<description>GameID: GLVE4Q, CRC: 1BF8A4CE</description>
+		<rom name="Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (USA).rvz" size="1052937932" crc="6f4a71cc" md5="78216152f9a4774a650c9cebaa400ef0" sha1="b9e304bad16a6bd0af20aab326ec2f5accf49e8f"/>
+	</machine>
+	<machine name="City Racer (USA)">
+		<category>Games</category>
+		<description>GameID: GRQE41, CRC: BCF7B772</description>
+		<rom name="City Racer (USA).rvz" size="709446416" crc="f1896c54" md5="1cb5f866c1f03b4a355d85f0bc8f8192" sha1="fea96fbb14c4ad63c1e383ea947a79b02e6742f8"/>
+	</machine>
+	<machine name="Cocoto Funfair (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>GameID: GOUPNK, CRC: 0F06B965</description>
+		<rom name="Cocoto Funfair (Europe) (En,Fr,De,Es,It).rvz" size="384781120" crc="b30d4fd4" md5="6a7fd77a664fa17b4ea9575e0d590a5d" sha1="52c9b62cb3f8098d8962b5ef70ab1e1c56b69917"/>
+	</machine>
+	<machine name="Cocoto Kart Racer (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>GameID: GC5PNK, CRC: 2600E2C1</description>
+		<rom name="Cocoto Kart Racer (Europe) (En,Fr,De,Es,It).rvz" size="370968596" crc="ae27730e" md5="11bc87b1b46862b80aba7d301d63fb0b" sha1="78687bff0ea45d7a939dd166cd3132d4d9dee097"/>
+	</machine>
+	<machine name="Cocoto Platform Jumper (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>GameID: GC7PNK, CRC: D244CC6B</description>
+		<rom name="Cocoto Platform Jumper (Europe) (En,Fr,De,Es,It).rvz" size="336480280" crc="722648ca" md5="a8c17237e43526d414d1ecbee1330f0b" sha1="14719b42c0d65de36982ee3740179821954ea402"/>
+	</machine>
+	<machine name="Codename - Kids Next Door - Operation - V.I.D.E.O.G.A.M.E. (USA)">
+		<category>Games</category>
+		<description>GameID: GKZE9G, CRC: 1B596FBD</description>
+		<rom name="Codename - Kids Next Door - Operation - V.I.D.E.O.G.A.M.E. (USA).rvz" size="1185324088" crc="ea12791d" md5="33c1f74153901edc033e4475726da06a" sha1="b931f0c45146602bebf856e778b702d7d036a5ec"/>
+	</machine>
+	<machine name="Conan (Europe) (En,Fr,De,Es,It) (Disc 1)">
+		<category>Games</category>
+		<description>GameID: GC9P6S, CRC: 308B036B</description>
+		<rom name="Conan (Europe) (En,Fr,De,Es,It) (Disc 1).rvz" size="1052773932" crc="92058411" md5="c0fa202e7708c030008e1df233411d7a" sha1="ae186e015f65a9638c452f4c93331281a9ffb29a"/>
+	</machine>
+	<machine name="Conan (Europe) (En,Fr,De,Es,It) (Disc 2)">
+		<category>Games</category>
+		<description>GameID: GC9P6S, CRC: 86238EF4</description>
+		<rom name="Conan (Europe) (En,Fr,De,Es,It) (Disc 2).rvz" size="1236179380" crc="ae28f542" md5="358cbc54148dd192f0d97292d81325ca" sha1="ece4399ded5f133c22740a7215f0b5cf0578beb8"/>
+	</machine>
+	<machine name="Conflict - Desert Storm (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GCFE9G, CRC: F8ABEF1F</description>
+		<rom name="Conflict - Desert Storm (USA) (Rev 1).rvz" size="909789320" crc="2a5fd78c" md5="a795f987f9269bd96a62938ba1f418df" sha1="6317d524938caa6c2a9ebb5c964fb7cfbd751673"/>
+	</machine>
+	<machine name="Conflict - Desert Storm II - Back to Baghdad (USA)">
+		<category>Games</category>
+		<description>GameID: GC2E9G, CRC: 0EEB2191</description>
+		<rom name="Conflict - Desert Storm II - Back to Baghdad (USA).rvz" size="1047981508" crc="8871a4ec" md5="5300c43ba260ebbb2ae5f7667383d7a3" sha1="d303b72f8590a5cc00546a752f0b37d351c3fcfd"/>
+	</machine>
+	<machine name="Crash Bandicoot - The Wrath of Cortex (USA)">
+		<category>Games</category>
+		<description>GameID: GCBE7D, CRC: ADCC7698</description>
+		<rom name="Crash Bandicoot - The Wrath of Cortex (USA).rvz" size="473941312" crc="57e2ca76" md5="0cde8765b1da6300eeed2df6a61c98d2" sha1="0f4efb7f1b607230f453b48f42159daffa617563"/>
+	</machine>
+	<machine name="Crash Nitro Kart (USA)">
+		<category>Games</category>
+		<description>GameID: GCNE7D, CRC: D172937B</description>
+		<rom name="Crash Nitro Kart (USA).rvz" size="1326279524" crc="010c71ca" md5="ec804d8b2613991398ffcab84095f52d" sha1="13b1dbda59f6975bdb88f918d744f9dd9e980219"/>
+	</machine>
+	<machine name="Crash Tag Team Racing (USA)">
+		<category>Games</category>
+		<description>GameID: G9RE7D, CRC: FB527D10</description>
+		<rom name="Crash Tag Team Racing (USA).rvz" size="1189851668" crc="dbe58586" md5="6f7a58e79f3521ba2398801b363ef6ec" sha1="5a361ca0aa382ddeb71eb4ce2b81dc9b863711f1"/>
+	</machine>
+	<machine name="Crazy Taxi (USA)">
+		<category>Games</category>
+		<description>GameID: GCTE51, CRC: 6CEF11A9</description>
+		<rom name="Crazy Taxi (USA).rvz" size="93626904" crc="805d898d" md5="d39c50e759a66c3ed4bdcb8c640f1c6a" sha1="9118d444f44509693c3a98cecddb32decc3f49fd"/>
+	</machine>
+	<machine name="Cubivore - Survival of the Fittest (USA)">
+		<category>Games</category>
+		<description>GameID: GCVEEB, CRC: 0B2E2939</description>
+		<rom name="Cubivore - Survival of the Fittest (USA).rvz" size="40513720" crc="0782ae42" md5="b24b5285ada959665c904c1f5e63d13c" sha1="12a7527949ef13a47ca0ede4dbc69de4843dfdb1"/>
+	</machine>
+	<machine name="Cubix Robots for Everyone - Showdown (USA)">
+		<category>Games</category>
+		<description>GameID: GCAE5H, CRC: F4B0546E</description>
+		<rom name="Cubix Robots for Everyone - Showdown (USA).rvz" size="696715844" crc="9f4a7ca0" md5="e5dee4926aedef7162e42e3e3db46c42" sha1="abf2e2dc21c7ac892e488213e69902716860cce9"/>
+	</machine>
+	<machine name="Curious George (USA)">
+		<category>Games</category>
+		<description>GameID: G3JEAF, CRC: 76119441</description>
+		<rom name="Curious George (USA).rvz" size="1008400584" crc="41da9627" md5="ac0dff577fb224f377d479b150049193" sha1="56e30ed0ad0ba3682473a8508d7933b8577b510b"/>
+	</machine>
+	<machine name="Custom Robo (USA)">
+		<category>Games</category>
+		<description>GameID: GXCE01, CRC: C450109C</description>
+		<rom name="Custom Robo (USA).rvz" size="791608624" crc="2b8c3b17" md5="77145742fd2d08735d5121494f00f866" sha1="d56771a353d3222d220a5ff8ce7392577dd5b313"/>
+	</machine>
+	<machine name="Dakar 2 - The World's Ultimate Rally (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>GameID: GPDE51, CRC: FD421F87</description>
+		<rom name="Dakar 2 - The World's Ultimate Rally (USA) (En,Fr,De,Es,It).rvz" size="947815584" crc="54d073e5" md5="629f7dded5df4e7453488f2a87ff4f4e" sha1="7a7d36589ce45b0eab32099b4083f975cf1611e7"/>
+	</machine>
+	<machine name="Dance Dance Revolution - Mario Mix (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GWZE01, CRC: B6AC6014</description>
+		<rom name="Dance Dance Revolution - Mario Mix (USA) (Rev 1).rvz" size="258945832" crc="4db09a81" md5="4aa18875887d74f7183cdffc6c096dd4" sha1="8073c4e4d32f6a1f844f68d93de6e78fd160cae8"/>
+	</machine>
+	<machine name="Dark Summit (USA)">
+		<category>Games</category>
+		<description>GameID: GDSE78, CRC: 7CC1BF12</description>
+		<rom name="Dark Summit (USA).rvz" size="813462296" crc="f6d8fded" md5="2ade920582e3a2533dc1603352bd7073" sha1="b0146bd8e5ee682137555e6693c0944e9d7b3a9b"/>
+	</machine>
+	<machine name="Darkened Skye (USA)">
+		<category>Games</category>
+		<description>GameID: GDQE7L, CRC: 086F3589</description>
+		<rom name="Darkened Skye (USA).rvz" size="1059080428" crc="ee13f6e4" md5="fe14609c73979dc60bd5f1660d24eee5" sha1="cf4e6c98f2fbc230a7c74bcbbf81b813b75be0cd"/>
+	</machine>
+	<machine name="Dave Mirra Freestyle BMX 2 (USA)">
+		<category>Games</category>
+		<description>GameID: GBXE51, CRC: 528BB8E8</description>
+		<rom name="Dave Mirra Freestyle BMX 2 (USA).rvz" size="495981064" crc="97227d06" md5="f5ce8dca8ba4a8704a0f69b339bf540f" sha1="b1836ebabe77b3b6fcf088c2a70f845b19d3795d"/>
+	</machine>
+	<machine name="Dead to Rights (USA)">
+		<category>Games</category>
+		<description>GameID: GDREAF, CRC: F5EA2ABF</description>
+		<rom name="Dead to Rights (USA).rvz" size="1231773548" crc="6678ae31" md5="c29adf82d7f79afb996373b257fa2c88" sha1="974b787f18a652f1ba1c9a8d2ac534a56a395462"/>
+	</machine>
+	<machine name="Def Jam - Fight for NY (USA)">
+		<category>Games</category>
+		<description>GameID: GNWE69, CRC: 6B67D4D7</description>
+		<rom name="Def Jam - Fight for NY (USA).rvz" size="1043026684" crc="f1d75376" md5="d2e3cc5500349150afc032d1c80ae063" sha1="fbbc1d32e88d7bd584eed425774a26e21258a692"/>
+	</machine>
+	<machine name="Def Jam - Vendetta (USA)">
+		<category>Games</category>
+		<description>GameID: GDTE69, CRC: D5F430C5</description>
+		<rom name="Def Jam - Vendetta (USA).rvz" size="1119131540" crc="a05e5d44" md5="4a65a768319446d4c5b409e08cdf1cc5" sha1="ceaa7165acdbc22d94909e2176c00864040a05f1"/>
+	</machine>
+	<machine name="Defender (USA)">
+		<category>Games</category>
+		<description>GameID: GDFE5D, CRC: 53AE96A5</description>
+		<rom name="Defender (USA).rvz" size="1031469524" crc="ad7a35e0" md5="2181ec9eb709da956d6e3080f8b6281e" sha1="dfde473ec1fea59a548a9facf521dba7840138d8"/>
+	</machine>
+	<machine name="Die Hard - Vendetta (USA)">
+		<category>Games</category>
+		<description>GameID: GDIE7D, CRC: 956EA8A8</description>
+		<rom name="Die Hard - Vendetta (USA).rvz" size="1179541932" crc="79c484c9" md5="4c6bc3cca32c65208083e1d017b89411" sha1="c16cce5f87c5bd40f2c932664b6094cb2ffc9ca4"/>
+	</machine>
+	<machine name="Digimon Rumble Arena 2 (USA)">
+		<category>Games</category>
+		<description>GameID: GD6EB2, CRC: 0D75E917</description>
+		<rom name="Digimon Rumble Arena 2 (USA).rvz" size="933503832" crc="0659808d" md5="0800daa7764e441235158abcd4c9b139" sha1="7010f6fb782cfc09b7bbdf727c9f0abe177f2e14"/>
+	</machine>
+	<machine name="Digimon World 4 (USA)">
+		<category>Games</category>
+		<description>GameID: GDJEB2, CRC: 9E152CBC</description>
+		<rom name="Digimon World 4 (USA).rvz" size="571417712" crc="68aa218e" md5="0611747e70130bf9dab3578494b8e079" sha1="ad999dea82e6f6660b44a8e608b28b22a2fb7ec2"/>
+	</machine>
+	<machine name="Dinotopia - The Sunstone Odyssey (USA)">
+		<category>Games</category>
+		<description>GameID: GD4E6S, CRC: 17330304</description>
+		<rom name="Dinotopia - The Sunstone Odyssey (USA).rvz" size="538657824" crc="16758c69" md5="d285171ca1ca6a1cc288b283d8b85e30" sha1="44fb204f5d2a7699b04506a96a5529f5ae72d49a"/>
+	</machine>
+	<machine name="Disney Sports - Basketball (USA)">
+		<category>Games</category>
+		<description>GameID: GDLEA4, CRC: 02407581</description>
+		<rom name="Disney Sports - Basketball (USA).rvz" size="309865076" crc="eb574203" md5="06b689ddf34a5450ece3e91a05ffb8dd" sha1="14094e7d4b6ac377f0d2076e9e16ab1a18bc8126"/>
+	</machine>
+	<machine name="Disney Sports - Football (USA)">
+		<category>Games</category>
+		<description>GameID: GDWEA4, CRC: 609BCFC4</description>
+		<rom name="Disney Sports - Football (USA).rvz" size="379903180" crc="751ad8fa" md5="9fd8195bc489294f8b94f0ff75e9ce18" sha1="eec00d7ff969db8472d34b275af863e2c0e5e537"/>
+	</machine>
+	<machine name="Disney Sports - Skateboarding (USA)">
+		<category>Games</category>
+		<description>GameID: GDXEA4, CRC: B769EDFF</description>
+		<rom name="Disney Sports - Skateboarding (USA).rvz" size="337457620" crc="c60a57eb" md5="d303550d9adbd011e6a998d21b22e18c" sha1="4be26e802988441987dedbef10dcdb295b56e8e1"/>
+	</machine>
+	<machine name="Disney Sports - Soccer (USA)">
+		<category>Games</category>
+		<description>GameID: GDKEA4, CRC: 16BE950F</description>
+		<rom name="Disney Sports - Soccer (USA).rvz" size="243766708" crc="6f2195a1" md5="7a57cd7b2e5d1e862edb3b4ccc945eaf" sha1="83f6b3cd1cc16c0c022576a8b405e1db499a29c3"/>
+	</machine>
+	<machine name="Disney's Chicken Little (USA)">
+		<category>Games</category>
+		<description>GameID: GHCE4Q, CRC: 8124D7B4</description>
+		<rom name="Disney's Chicken Little (USA).rvz" size="1197274312" crc="d0bf42b2" md5="36768836a119ccf8fbdc493188c64c13" sha1="1cab0068cb92222f4b76ccebd9d79e90cbafbbfc"/>
+	</machine>
+	<machine name="Disney's Donald Duck - Goin' Quackers (USA) (En,Fr)">
+		<category>Games</category>
+		<description>GameID: GDDE41, CRC: F8769F5D</description>
+		<rom name="Disney's Donald Duck - Goin' Quackers (USA) (En,Fr).rvz" size="826454668" crc="207a3f22" md5="0e867b66add0a730a50dcfd10584b9b4" sha1="bc3f91626786d42d1efce5f5cc5bd919c1189182"/>
+	</machine>
+	<machine name="Disney's Extreme Skate Adventure (USA)">
+		<category>Games</category>
+		<description>GameID: GEXE52, CRC: 940C7C23</description>
+		<rom name="Disney's Extreme Skate Adventure (USA).rvz" size="1215158968" crc="d81418d4" md5="2020503a307dde7896677f63b64422ce" sha1="4a970335b84e82b450360a6c47f2a610af2796c1"/>
+	</machine>
+	<machine name="Disney's Hide &amp; Sneak (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GHVE08, CRC: 489321AF</description>
+		<rom name="Disney's Hide &amp; Sneak (USA) (Rev 1).rvz" size="227120088" crc="ccf7145b" md5="30368bd32da49a39537323d194b79d6f" sha1="75281b7afdd9478175ee1dcdf65f55655299aa03"/>
+	</machine>
+	<machine name="Disney's Magical Mirror Starring Mickey Mouse (USA)">
+		<category>Games</category>
+		<description>GameID: GDME01, CRC: 61F36FFD</description>
+		<rom name="Disney's Magical Mirror Starring Mickey Mouse (USA).rvz" size="235268556" crc="d13b595f" md5="a9720064fdb80ffa7849f9cb146fec03" sha1="4f913cec6083a25b7ca87e5778d04f8e3cf1e04e"/>
+	</machine>
+	<machine name="Disney's PK - Out of the Shadows (USA) (En,Fr,De,It)">
+		<category>Games</category>
+		<description>GameID: GPKE41, CRC: DA5F53DD</description>
+		<rom name="Disney's PK - Out of the Shadows (USA) (En,Fr,De,It).rvz" size="983307500" crc="70da8252" md5="a471d6421f7f5e690ae8a0179ec0f6a9" sha1="b1409c2422927fcce6de602820b8f45629d9bda1"/>
+	</machine>
+	<machine name="Disney's Party (USA)">
+		<category>Games</category>
+		<description>GameID: GMTE69, CRC: DCAEF127</description>
+		<rom name="Disney's Party (USA).rvz" size="107955852" crc="a40931a7" md5="705498be8b7025eb28d1fcf4186833f4" sha1="d851e6ab0cb21896d7a429ab56f4c0d526727ea4"/>
+	</machine>
+	<machine name="Disney's Piglet's Big Game (USA)">
+		<category>Games</category>
+		<description>GameID: GPLE9G, CRC: 03134803</description>
+		<rom name="Disney's Piglet's Big Game (USA).rvz" size="1264252956" crc="6c4ae2b6" md5="8e18bc135fbb77c64311638d55d586ed" sha1="0907ddd6dcc0aa658c77e78081cc318b0df70eb8"/>
+	</machine>
+	<machine name="Disney's Tarzan - Untamed (USA) (En,Fr)">
+		<category>Games</category>
+		<description>GameID: GTZE41, CRC: EF54571A</description>
+		<rom name="Disney's Tarzan - Untamed (USA) (En,Fr).rvz" size="701460992" crc="79499d73" md5="af19f44bea3cff7142e7f3c226c6fd8d" sha1="43e902f23a438c5f42406bd9c313e6d8a8c51373"/>
+	</machine>
+	<machine name="Disney's The Haunted Mansion (USA)">
+		<category>Games</category>
+		<description>GameID: GHYE6S, CRC: 457B6B08</description>
+		<rom name="Disney's The Haunted Mansion (USA).rvz" size="817455676" crc="f59fabb7" md5="48465a8a653e55a8ebaf31aca64f7900" sha1="e72aac0badc46a403ede5abfa8a370f5d0a3a8c4"/>
+	</machine>
+	<machine name="Disney's Winnie the Pooh's Rumbly Tumbly Adventure (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>GameID: GWHE41, CRC: 87234A2B</description>
+		<rom name="Disney's Winnie the Pooh's Rumbly Tumbly Adventure (USA) (En,Fr,Es).rvz" size="636390556" crc="b14e46e1" md5="de38151e92addcdfdf99bf6f917a5193" sha1="ba5cb87501060d1b997e67c6e91135c0c99d5139"/>
+	</machine>
+	<machine name="Disney-Pixar Cars (USA)">
+		<category>Games</category>
+		<description>GameID: GKJE78, CRC: E4C276F2</description>
+		<rom name="Disney-Pixar Cars (USA).rvz" size="997526960" crc="37c2f193" md5="556d70fd2e18f56cb7db9f0b3417f9b0" sha1="fbd68cded5f4c5d612c3328469a75e47ccdb0dd2"/>
+	</machine>
+	<machine name="Disney-Pixar Finding Nemo (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GNEE78, CRC: AE9836EC</description>
+		<rom name="Disney-Pixar Finding Nemo (USA) (Rev 1).rvz" size="749371696" crc="f8b086ee" md5="83edb1346b6f64ba8d298addb24e2bca" sha1="27815091d6426aea665d32e25cbbabf52f3593d5"/>
+	</machine>
+	<machine name="Disney-Pixar Monsters, Inc. - Scream Arena (USA)">
+		<category>Games</category>
+		<description>GameID: GMNE78, CRC: 325879B5</description>
+		<rom name="Disney-Pixar Monsters, Inc. - Scream Arena (USA).rvz" size="616804376" crc="200d2f8f" md5="d38227461dd4837b2cd8a9b8599c263e" sha1="0dfa99647031b58ccb80ec4379498ef8b2f68680"/>
+	</machine>
+	<machine name="Disney-Pixar Ratatouille (USA)">
+		<category>Games</category>
+		<description>GameID: GLLE78, CRC: B8FC1DD1</description>
+		<rom name="Disney-Pixar Ratatouille (USA).rvz" size="769474192" crc="0ace683d" md5="e8896981bde864463db69ff8c7ad43ef" sha1="3b6a7d0552741511503fbac5338dffffd0ded6a1"/>
+	</machine>
+	<machine name="Disney-Pixar The Incredibles (USA)">
+		<category>Games</category>
+		<description>GameID: GICE78, CRC: E1023994</description>
+		<rom name="Disney-Pixar The Incredibles (USA).rvz" size="1131766780" crc="061c555f" md5="7810ce3681c9a13ff4d8c41f30e0db81" sha1="1d9f419721911365736a5d4ac1332d8dda5d572e"/>
+	</machine>
+	<machine name="Disney-Pixar The Incredibles - Rise of the Underminer (USA)">
+		<category>Games</category>
+		<description>GameID: GIQE78, CRC: 539E1CA6</description>
+		<rom name="Disney-Pixar The Incredibles - Rise of the Underminer (USA).rvz" size="1085349124" crc="c5473915" md5="cc75e0d059495fc0790bb082de622ef7" sha1="be5e0affd25e1b90b973c4f23dc67da8db387652"/>
+	</machine>
+	<machine name="Donkey Kong Jungle Beat (USA)">
+		<category>Games</category>
+		<description>GameID: GYBE01, CRC: F2A9E980</description>
+		<rom name="Donkey Kong Jungle Beat (USA).rvz" size="577064892" crc="b63983b5" md5="cbf37779d44bd1ea8e78df969f4a397c" sha1="170100de14b3dc0044ab38802574d465632f2f06"/>
+	</machine>
+	<machine name="Donkey Konga (USA)">
+		<category>Games</category>
+		<description>GameID: GKGE01, CRC: 31A8AD20</description>
+		<rom name="Donkey Konga (USA).rvz" size="253536212" crc="4d52ac3d" md5="938d7eb1fd70292667831d6727336900" sha1="7b2b77cf286217b02be3ac64cf8b5329cd9f09c8"/>
+	</machine>
+	<machine name="Donkey Konga 2 (USA)">
+		<category>Games</category>
+		<description>GameID: GY2E01, CRC: 2E31A3DE</description>
+		<rom name="Donkey Konga 2 (USA).rvz" size="205768596" crc="4dfe6d0b" md5="9794782fecc151c9693bb7c1047e5743" sha1="0cdf5d1aa182878f049826c2bd72931f6dd674c8"/>
+	</machine>
+	<machine name="Doshin the Giant (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>GameID: GKDP01, CRC: 10F7328A</description>
+		<rom name="Doshin the Giant (Europe) (En,Fr,De,Es,It).rvz" size="580157264" crc="5e13755a" md5="8a9ef1ed68decfef9d8f2b33a3785590" sha1="bba7eb7328ed6b0c68ffef7d2733cf25ed065439"/>
+	</machine>
+	<machine name="Dr. Muto (USA)">
+		<category>Games</category>
+		<description>GameID: GMUE5D, CRC: 699C292A</description>
+		<rom name="Dr. Muto (USA).rvz" size="1212068512" crc="c9d606ee" md5="01601ccace57a564d6d109f4ac9f059e" sha1="a233e3d87ec22fde5e494609ece9e3e8b82702e4"/>
+	</machine>
+	<machine name="Dragon Ball Z - Budokai (USA)">
+		<category>Games</category>
+		<description>GameID: GD7E70, CRC: D1CC6810</description>
+		<rom name="Dragon Ball Z - Budokai (USA).rvz" size="809016868" crc="15c7dbbe" md5="9a0d7b3b46eb822c172d997bb38ce41c" sha1="db4ab733939b4da288bf21d2f51466c531f8fcca"/>
+	</machine>
+	<machine name="Dragon Ball Z - Budokai 2 (USA)">
+		<category>Games</category>
+		<description>GameID: GZ3E70, CRC: 460F66FE</description>
+		<rom name="Dragon Ball Z - Budokai 2 (USA).rvz" size="776348280" crc="9ade8186" md5="832f73fdc8af3ccc01be06dc2a577a1e" sha1="ed9e5c9fc4a023179ac0d1e69a192b1ea48a7794"/>
+	</machine>
+	<machine name="Dragon Ball Z - Sagas (USA)">
+		<category>Games</category>
+		<description>GameID: GZEE70, CRC: 5E44ABC8</description>
+		<rom name="Dragon Ball Z - Sagas (USA).rvz" size="943334288" crc="eec55b2c" md5="77831b119f39c19c8f609b0471341294" sha1="654b393b7f8f18cf5cfe2a818e9de6c70ab1b30b"/>
+	</machine>
+	<machine name="Dragon's Lair 3D - Return to the Lair (USA)">
+		<category>Games</category>
+		<description>GameID: GDGE7H, CRC: 605E9E95</description>
+		<rom name="Dragon's Lair 3D - Return to the Lair (USA).rvz" size="1045322320" crc="fa54bf93" md5="bbc8c6e53441da54220807a6e0fac99f" sha1="86c5c71a8336c95bf573d7d4ff51b0cdaa8e5fe9"/>
+	</machine>
+	<machine name="DreamWorks &amp; Aardman Flushed Away (USA)">
+		<category>Games</category>
+		<description>GameID: GLHEG9, CRC: F8CBFB44</description>
+		<rom name="DreamWorks &amp; Aardman Flushed Away (USA).rvz" size="646015372" crc="83fa1c8a" md5="62f85e3bc133bc3299bb069ae675f1bb" sha1="74f8ecb6742669dd0a5c1e6a6594873ff8f1b129"/>
+	</machine>
+	<machine name="DreamWorks Madagascar (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GGZE52, CRC: DEC444A2</description>
+		<rom name="DreamWorks Madagascar (USA) (Rev 1).rvz" size="481574280" crc="a9cfe5dd" md5="c013e303fbd0c36522dc4b850ad03cff" sha1="a75f5a705436c2b26ba3b7408c55bc0e84a3d389"/>
+	</machine>
+	<machine name="DreamWorks Over the Hedge (USA)">
+		<category>Games</category>
+		<description>GameID: GH5E52, CRC: E13DE317</description>
+		<rom name="DreamWorks Over the Hedge (USA).rvz" size="1044436760" crc="3c59e912" md5="4218adfb815fdf2ce9dca30a88ad8b2e" sha1="1fa2e928dffd513416a1a5387a2d8c305aa3afb0"/>
+	</machine>
+	<machine name="DreamWorks Shark Tale (USA)">
+		<category>Games</category>
+		<description>GameID: G9TE52, CRC: 968600D1</description>
+		<rom name="DreamWorks Shark Tale (USA).rvz" size="930735016" crc="33d139ca" md5="69b561ceea677f6c621dacc1c4ef1aa4" sha1="81d28c44f31ab853faf1c7403891c1802084e35b"/>
+	</machine>
+	<machine name="DreamWorks Shrek - Smash n' Crash Racing (USA)">
+		<category>Games</category>
+		<description>GameID: G4IE52, CRC: 5BC554BD</description>
+		<rom name="DreamWorks Shrek - Smash n' Crash Racing (USA).rvz" size="635506728" crc="298f55e3" md5="a051290f2f5a02825435903095ca146b" sha1="62b33dbe64412ee850e0e520ee78afaad22eef6f"/>
+	</machine>
+	<machine name="DreamWorks Shrek - SuperSlam (USA)">
+		<category>Games</category>
+		<description>GameID: G2RE52, CRC: CE6E3F54</description>
+		<rom name="DreamWorks Shrek - SuperSlam (USA).rvz" size="763499136" crc="44a7540a" md5="557fd4ba0afb3e07df10e85e4ebe2df8" sha1="36265cf1bb8925933d858c3999a093426f9ebb02"/>
+	</machine>
+	<machine name="Driven (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>GameID: GDVE6L, CRC: D3ECBAC7</description>
+		<rom name="Driven (USA) (En,Fr,De,Es,It).rvz" size="809919220" crc="48c0d745" md5="05e8e89ba5ca2e01e96ea8ccf3ac2abb" sha1="337592ecfd9efa115582675011b1b7401a5b4dd4"/>
+	</machine>
+	<machine name="Drome Racers (USA)">
+		<category>Games</category>
+		<description>GameID: GD9E69, CRC: 85B18FCB</description>
+		<rom name="Drome Racers (USA).rvz" size="653610552" crc="e1ebd2f5" md5="262b12885c83b9444239fb67af0e5a7b" sha1="9d6c287094e2bfb8b69085871d1441962fa055e1"/>
+	</machine>
+	<machine name="ESPN International Winter Sports 2002 (USA)">
+		<category>Games</category>
+		<description>GameID: GWSEA4, CRC: 6F3BC227</description>
+		<rom name="ESPN International Winter Sports 2002 (USA).rvz" size="503150020" crc="0fa5f296" md5="90312815c1588646d24a5d749707bda9" sha1="b15ed4663d973a339d1e22b1026ededb43170f55"/>
+	</machine>
+	<machine name="ESPN MLS ExtraTime 2002 (USA)">
+		<category>Games</category>
+		<description>GameID: GMLEA4, CRC: D16F9ED3</description>
+		<rom name="ESPN MLS ExtraTime 2002 (USA).rvz" size="1007282424" crc="82534888" md5="e3fc939212e7e91c93c90401817cef69" sha1="1056b081913de865499bbe956bd08564db7dca79"/>
+	</machine>
+	<machine name="Ed, Edd n Eddy - The Mis-Edventures (USA) (En,Fr)">
+		<category>Games</category>
+		<description>GameID: GE9E5D, CRC: F0AF8DC3</description>
+		<rom name="Ed, Edd n Eddy - The Mis-Edventures (USA) (En,Fr).rvz" size="508836868" crc="241215d7" md5="dc5c79b7ef6a64be4c503938371229b5" sha1="aa9beeaf54396ad7a7d1599fb70087fb5fc8830b"/>
+	</machine>
+	<machine name="Egg Mania - Eggstreme Madness (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GEME7F, CRC: 7E2A4243</description>
+		<rom name="Egg Mania - Eggstreme Madness (USA) (Rev 1).rvz" size="257012204" crc="3a37acbb" md5="698214c42bffc335a9821ada2cdee80d" sha1="3616ebfd4de32a52320b96cda1ef0eec86a1a807"/>
+	</machine>
+	<machine name="Enter the Matrix (USA) (Disc 1)">
+		<category>Games</category>
+		<description>GameID: GMXE70, CRC: A43514DD</description>
+		<rom name="Enter the Matrix (USA) (Disc 1).rvz" size="1213894004" crc="eb97642e" md5="cf7f7b4fb936ce71ede2b0d8412aa963" sha1="b4e3ef15cf2e3c8fa2e1caac87ca8282ea7e0b2a"/>
+	</machine>
+	<machine name="Enter the Matrix (USA) (Disc 2)">
+		<category>Games</category>
+		<description>GameID: GMXE70, CRC: 65531D54</description>
+		<rom name="Enter the Matrix (USA) (Disc 2).rvz" size="1129949324" crc="5f7dd92c" md5="84288aa6ce5a00d19d583240771a806e" sha1="442f4071f576390c0611a339ae6aae35571aadb7"/>
+	</machine>
+	<machine name="Eternal Darkness - Sanity's Requiem (USA)">
+		<category>Games</category>
+		<description>GameID: GEDE01, CRC: 1987A637</description>
+		<rom name="Eternal Darkness - Sanity's Requiem (USA).rvz" size="1340446632" crc="016d602c" md5="e8482dd8c0d0e158db93c79f3d477447" sha1="e3b2b6ca32d00907a9d5dbce4901ab4703480d76"/>
+	</machine>
+	<machine name="Evolution Skateboarding (USA)">
+		<category>Games</category>
+		<description>GameID: GESEA4, CRC: 46E6E286</description>
+		<rom name="Evolution Skateboarding (USA).rvz" size="683197680" crc="f9334360" md5="b13de46e577502eba0655b6506db0afa" sha1="b838c5a8eb832ea90424fefa4108c76c5a7fd5c2"/>
+	</machine>
+	<machine name="Evolution Snowboarding (USA)">
+		<category>Games</category>
+		<description>GameID: GEBEA4, CRC: A18D2B49</description>
+		<rom name="Evolution Snowboarding (USA).rvz" size="1160609120" crc="ade7bd52" md5="6aa9d3dcd571282194143d9fb534713d" sha1="c2f3794432dbac87464eb0b1203b2a68e461b018"/>
+	</machine>
+	<machine name="Evolution Worlds (USA)">
+		<category>Games</category>
+		<description>GameID: GEWE41, CRC: BFCB4D4F</description>
+		<rom name="Evolution Worlds (USA).rvz" size="974248488" crc="ab421f9a" md5="b872684b435ceb01eeaa781fb398b018" sha1="4f0e7520db55b79678e19fabe21643ab67044cc0"/>
+	</machine>
+	<machine name="F-Zero GX (USA)">
+		<category>Games</category>
+		<description>GameID: GFZE01, CRC: 3186FCBE</description>
+		<rom name="F-Zero GX (USA).rvz" size="1289389792" crc="a526d3d1" md5="fb0ea3de7f1f74f3baab9d5f922e5af8" sha1="4063dcc45b41ac8adf4111b5fc7ec1dbe92a7560"/>
+	</machine>
+	<machine name="F1 2002 (USA) (En,Fr,De,It)">
+		<category>Games</category>
+		<description>GameID: GF2E69, CRC: 5283D6B6</description>
+		<rom name="F1 2002 (USA) (En,Fr,De,It).rvz" size="266511344" crc="e325dcfa" md5="ecf163830f2ed77939ca1454e82fc161" sha1="8cf0e6ea1a3b6e64a1b762cda8dd8fcc1582ea4b"/>
+	</machine>
+	<machine name="F1 Career Challenge (Europe) (En,Fr,De,It)">
+		<category>Games</category>
+		<description>GameID: GFCP69, CRC: 361F47D5</description>
+		<rom name="F1 Career Challenge (Europe) (En,Fr,De,It).rvz" size="768548652" crc="109ace94" md5="7eba6bf2cdd40b1ee7d4025a9a3ddd87" sha1="aff2fdd888bd7cd805e685f341f82ab168d8a3ab"/>
+	</machine>
+	<machine name="FIFA Soccer 06 (USA)">
+		<category>Games</category>
+		<description>GameID: GF6E69, CRC: CF5816A2</description>
+		<rom name="FIFA Soccer 06 (USA).rvz" size="1120888208" crc="2c8c2c90" md5="24afd1cce8a10a4ba66cdb90c13df385" sha1="aff0d8f6f528d7f25cdc38c892752d5d8eaf0fa9"/>
+	</machine>
+	<machine name="FIFA Soccer 07 (USA) (En,Es)">
+		<category>Games</category>
+		<description>GameID: G4FE69, CRC: 0446245A</description>
+		<rom name="FIFA Soccer 07 (USA) (En,Es).rvz" size="1157032772" crc="8c93eb25" md5="c9a8e40e0e6eafef0bf93eec24dd8cfa" sha1="091bb46c17b5267db83b8490cdaa8bd52ed9c074"/>
+	</machine>
+	<machine name="FIFA Soccer 2002 (USA)">
+		<category>Games</category>
+		<description>GameID: GFSE69, CRC: 4D8D0766</description>
+		<rom name="FIFA Soccer 2002 (USA).rvz" size="866284268" crc="3019d761" md5="891d06f2118b153b16798c74f0ed4e4f" sha1="aa05dd8c477bb2e968781ee3d948870b68f19410"/>
+	</machine>
+	<machine name="FIFA Soccer 2003 (USA)">
+		<category>Games</category>
+		<description>GameID: GFAE69, CRC: 8C59699F</description>
+		<rom name="FIFA Soccer 2003 (USA).rvz" size="1084290896" crc="e2f16330" md5="423184931bf698df287be5e5d8e4bdb5" sha1="bfe1a9ae9f417e260363555bad749d908e27696c"/>
+	</machine>
+	<machine name="FIFA Soccer 2004 (USA)">
+		<category>Games</category>
+		<description>GameID: GXFE69, CRC: 2F6E97AD</description>
+		<rom name="FIFA Soccer 2004 (USA).rvz" size="835072764" crc="41e5a422" md5="a6827d19ad38115e78f685b04e9581ff" sha1="1a622e450aa588dda38c029a87ba1f9288eff4d7"/>
+	</machine>
+	<machine name="FIFA Soccer 2005 (USA) (En,Es)">
+		<category>Games</category>
+		<description>GameID: GF5E69, CRC: D018F726</description>
+		<rom name="FIFA Soccer 2005 (USA) (En,Es).rvz" size="872787312" crc="6ae28f5c" md5="414aac2ab8eacd637597381ccc43eb23" sha1="9420a2449a0686e83c6438047fc5d23f30ed9492"/>
+	</machine>
+	<machine name="FIFA Street (USA) (En,Es)">
+		<category>Games</category>
+		<description>GameID: GF8E69, CRC: FF647575</description>
+		<rom name="FIFA Street (USA) (En,Es).rvz" size="733165548" crc="4dd709fc" md5="705131f3edacd870601c83376b8b1d7c" sha1="4e6ddad397e9453c4ad47fce5223ef90bf7247c3"/>
+	</machine>
+	<machine name="FIFA Street 2 (USA) (En,Es)">
+		<category>Games</category>
+		<description>GameID: GFYE69, CRC: 57DA4A2E</description>
+		<rom name="FIFA Street 2 (USA) (En,Es).rvz" size="1074946324" crc="d077f56e" md5="3102edb8739a99b04133e509bae868b4" sha1="733d23142d2f170440bd89ec108458f1e1c2fa71"/>
+	</machine>
+	<machine name="FIFA World Cup Germany 2006 (USA)">
+		<category>Games</category>
+		<description>GameID: G6FE69, CRC: 89B553BF</description>
+		<rom name="FIFA World Cup Germany 2006 (USA).rvz" size="1011693152" crc="572e18e6" md5="bdfdd7dd3b024c782bc8c90940f08ab6" sha1="30ef131ebc5c54b3ead2dc0193b585a3348a96ba"/>
+	</machine>
+	<machine name="Fairly OddParents, The - Breakin' da Rules (USA)">
+		<category>Games</category>
+		<description>GameID: GFWE78, CRC: 2F1368F6</description>
+		<rom name="Fairly OddParents, The - Breakin' da Rules (USA).rvz" size="1077258692" crc="e936eabc" md5="fd8342496102d081f31ae81f07ef7f51" sha1="efddbd0602651b4b242d84ecc0dde090211260d7"/>
+	</machine>
+	<machine name="Fairly OddParents, The - Shadow Showdown (USA)">
+		<category>Games</category>
+		<description>GameID: GFOE78, CRC: 97194E38</description>
+		<rom name="Fairly OddParents, The - Shadow Showdown (USA).rvz" size="826673180" crc="38fb1f1a" md5="83073afdea52f7ff977316aa2a62d4e5" sha1="a595ce963906fa0ffe36a198e1db9d0778e53464"/>
+	</machine>
+	<machine name="Fantastic 4 (USA)">
+		<category>Games</category>
+		<description>GameID: GF4E52, CRC: 68AE5965</description>
+		<rom name="Fantastic 4 (USA).rvz" size="1179189228" crc="f0a4812b" md5="785ccd5c19ac38e2148ae26f07497422" sha1="d67d1021a2e0a2d4faa1eca3c69d0cce9991840a"/>
+	</machine>
+	<machine name="Fight Night Round 2 (USA)">
+		<category>Games</category>
+		<description>GameID: GEYE69, CRC: 87E690E3</description>
+		<rom name="Fight Night Round 2 (USA).rvz" size="996952964" crc="7d8e6172" md5="27750f1fc2bc6d9ea3aa5e46dae7b5e9" sha1="6f4fbd33e61d24d4c7833a2c42956c3fbf5a92d8"/>
+	</machine>
+	<machine name="Final Fantasy Crystal Chronicles (USA)">
+		<category>Games</category>
+		<description>GameID: GCCE01, CRC: 141AEAC0</description>
+		<rom name="Final Fantasy Crystal Chronicles (USA).rvz" size="789150728" crc="e54c09e1" md5="7188cef9c0f9dc39637ed6c6fbc58b54" sha1="6572f77df1325cb87748ce65708995b3d9230db8"/>
+	</machine>
+	<machine name="Fire Emblem - Path of Radiance (USA)">
+		<category>Games</category>
+		<description>GameID: GFEE01, CRC: F24CB38A</description>
+		<rom name="Fire Emblem - Path of Radiance (USA).rvz" size="1109615104" crc="381f75e8" md5="9fe9a8bae052c3d9c0dc3980139c4808" sha1="15abbb3b381acdaa9d4f67b3012b8fc0fccde4dd"/>
+	</machine>
+	<machine name="FireBlade (USA)">
+		<category>Games</category>
+		<description>GameID: GFBE5D, CRC: 88F6FA17</description>
+		<rom name="FireBlade (USA).rvz" size="789984092" crc="b53d57b1" md5="dab76c498ded311adf5ac1f69daede14" sha1="2c3be51f784f947dae60e6168995dc666d31f8e9"/>
+	</machine>
+	<machine name="Freaky Flyers (USA) (Disc 1)">
+		<category>Games</category>
+		<description>GameID: GFFE5D, CRC: 889A6F5D</description>
+		<rom name="Freaky Flyers (USA) (Disc 1).rvz" size="1345991172" crc="22cc036e" md5="ddf23a8bcd7bc747c339fcf1ea0b7cbb" sha1="26ab899a66af58b91e24f47cb7f63ac355002f75"/>
+	</machine>
+	<machine name="Freaky Flyers (USA) (Disc 2)">
+		<category>Games</category>
+		<description>GameID: GFFE5D, CRC: 8FEFF47C</description>
+		<rom name="Freaky Flyers (USA) (Disc 2).rvz" size="1345567356" crc="d7cdaf76" md5="a2e80a44c1aebc1f486d054bdcc3ba1a" sha1="14049898f0c9372afc98be02007ad8109826c18e"/>
+	</machine>
+	<machine name="Freedom Fighters (USA)">
+		<category>Games</category>
+		<description>GameID: GFDE69, CRC: 35E87D53</description>
+		<rom name="Freedom Fighters (USA).rvz" size="1313885492" crc="87a0e95e" md5="87e9cf6531d6e2be02d4e8dcd8f6a21d" sha1="ac3e40bc64520c10be50300102e4c256d84730d6"/>
+	</machine>
+	<machine name="Freekstyle (USA)">
+		<category>Games</category>
+		<description>GameID: GFKE69, CRC: 63737D85</description>
+		<rom name="Freekstyle (USA).rvz" size="364177752" crc="dc216e68" md5="d2303cb8d7b5d2ce12e8bbd4afb6ec6c" sha1="cfd92c3553c4bf65595f518cefac4059967270eb"/>
+	</machine>
+	<machine name="Freestyle Metal X (USA)">
+		<category>Games</category>
+		<description>GameID: GFXE5D, CRC: 7B59A773</description>
+		<rom name="Freestyle Metal X (USA).rvz" size="1014877964" crc="93812575" md5="7caf76ce904b64c7eb9887b0b9191ed8" sha1="d7e01233055f12ae6a9e275e2e260d4b2a4801ea"/>
+	</machine>
+	<machine name="Freestyle Street Soccer (USA) (En,Es)">
+		<category>Games</category>
+		<description>GameID: GUVE51, CRC: F6E1AC8C</description>
+		<rom name="Freestyle Street Soccer (USA) (En,Es).rvz" size="1195121776" crc="219d72fa" md5="0129f8558ee7aa1c29b0d2c89c7b8868" sha1="4bbbc3699055d25122f61dca8b2106efdf7f9107"/>
+	</machine>
+	<machine name="Frogger - Ancient Shadow (USA) (En,Es)">
+		<category>Games</category>
+		<description>GameID: GFPEA4, CRC: 232FFDD4</description>
+		<rom name="Frogger - Ancient Shadow (USA) (En,Es).rvz" size="382465008" crc="8b00df98" md5="41aa0eda4a276414761a8cde8b657eae" sha1="ed8b06c6f6e3c6e479fa9a9f78ed2b5fb7056dbc"/>
+	</machine>
+	<machine name="Frogger Beyond (USA)">
+		<category>Games</category>
+		<description>GameID: GFGEA4, CRC: D1D8B3E4</description>
+		<rom name="Frogger Beyond (USA).rvz" size="859847760" crc="3eba3003" md5="60bdc4ef993238db0288cf8a5b0748a4" sha1="db0a223e91a99738738e87662f7ab63543a26645"/>
+	</machine>
+	<machine name="Frogger's Adventures - The Rescue (USA)">
+		<category>Games</category>
+		<description>GameID: GFQEA4, CRC: 72D21A8E</description>
+		<rom name="Frogger's Adventures - The Rescue (USA).rvz" size="603586336" crc="edc844f5" md5="2c7d54590c6ef0bdc8218f253d25ed50" sha1="afd9933769a0481ebec2d1826048978f0232ad12"/>
+	</machine>
+	<machine name="Future Tactics - The Uprising (USA)">
+		<category>Games</category>
+		<description>GameID: GFUE4Z, CRC: 0C4D4061</description>
+		<rom name="Future Tactics - The Uprising (USA).rvz" size="206654708" crc="3c789fee" md5="a7d9d3e6a24597a1e573b2219f5c4c0d" sha1="da285ffd6abb98cb43635d22b4805a30d92e8deb"/>
+	</machine>
+	<machine name="Gauntlet - Dark Legacy (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GUNE5D, CRC: 7D84DBFA</description>
+		<rom name="Gauntlet - Dark Legacy (USA) (Rev 1).rvz" size="921533660" crc="237a1039" md5="b0a83abf6868bff0a7fada298cd4db3f" sha1="83dc17c83937aa79c22ff8e9cd617e125d23be9e"/>
+	</machine>
+	<machine name="Geist (USA)">
+		<category>Games</category>
+		<description>GameID: GITE01, CRC: 2B606740</description>
+		<rom name="Geist (USA).rvz" size="710968376" crc="d539bbeb" md5="9af3b171926206d29f09159e370b585a" sha1="ea303aba39d996b2571489dd88efe7d2bc1fb1e7"/>
+	</machine>
+	<machine name="Gladius (USA)">
+		<category>Games</category>
+		<description>GameID: GLSE64, CRC: FB5F6C4F</description>
+		<rom name="Gladius (USA).rvz" size="1072238308" crc="f03473d8" md5="feb3e1452cc3bccd7f4271686926ea96" sha1="4421d00cda7b0806c8241d35a40b8e9d06b426f8"/>
+	</machine>
+	<machine name="Go! Go! Hypergrind (USA)">
+		<category>Games</category>
+		<description>GameID: GHGEEB, CRC: C5AA4628</description>
+		<rom name="Go! Go! Hypergrind (USA).rvz" size="1058901836" crc="bcbab137" md5="17bfce3d1cec7771edf25f439b36012a" sha1="d24f6a86bfebdccdb6b2db69587962bf06062819"/>
+	</machine>
+	<machine name="Goblin Commander - Unleash the Horde (USA)">
+		<category>Games</category>
+		<description>GameID: GGCE0A, CRC: B2398C14</description>
+		<rom name="Goblin Commander - Unleash the Horde (USA).rvz" size="371532024" crc="45e9b80b" md5="164c961ee3484915b10871598d5eaa13" sha1="0d1c4f50ea9a4a3807e79ddf92357988d1cd7618"/>
+	</machine>
+	<machine name="Godzilla - Destroy All Monsters Melee (USA)">
+		<category>Games</category>
+		<description>GameID: GZDE70, CRC: 95C6DF8F</description>
+		<rom name="Godzilla - Destroy All Monsters Melee (USA).rvz" size="747608604" crc="4d48b202" md5="aa00b27fe1bad99cc8869dd9b2a35e06" sha1="9ff4196ebc08d646a8f1c7b2741d1041987ba99e"/>
+	</machine>
+	<machine name="GoldenEye - Rogue Agent (USA) (Disc 1)">
+		<category>Games</category>
+		<description>GameID: GOYE69, CRC: C9C97E97</description>
+		<rom name="GoldenEye - Rogue Agent (USA) (Disc 1).rvz" size="956298196" crc="b4e6171d" md5="8734497947c37c74b312b9362cefbba0" sha1="34199d0ac2ec84d4af40a21470ce9cf86854179c"/>
+	</machine>
+	<machine name="GoldenEye - Rogue Agent (USA) (Disc 2)">
+		<category>Games</category>
+		<description>GameID: GOYE69, CRC: 22E8D92B</description>
+		<rom name="GoldenEye - Rogue Agent (USA) (Disc 2).rvz" size="935830304" crc="e18c22e9" md5="e28805089fb30c81a49cc2c246a7521a" sha1="7a8a99c8b2efbeb1e065a783cc41922275920511"/>
+	</machine>
+	<machine name="Gotcha Force (USA)">
+		<category>Games</category>
+		<description>GameID: GG4E08, CRC: DD429377</description>
+		<rom name="Gotcha Force (USA).rvz" size="583445712" crc="0c014d30" md5="2aa1ba886ccdd9d9a023a6783a699bee" sha1="c065dbdb7366df84685cf82434d3318519fdc039"/>
+	</machine>
+	<machine name="Grim Adventures of Billy &amp; Mandy, The (USA)">
+		<category>Games</category>
+		<description>GameID: GGNE5D, CRC: 7540BD03</description>
+		<rom name="Grim Adventures of Billy &amp; Mandy, The (USA).rvz" size="467442748" crc="fa8be418" md5="f52d0f7adf1cd46d913680160db4a4db" sha1="ea5dc69052f9e1d86a0b8025e94b68448d822fff"/>
+	</machine>
+	<machine name="Grooverider - Slot Car Thunder (USA)">
+		<category>Games</category>
+		<description>GameID: GVRE7H, CRC: 9DD1131E</description>
+		<rom name="Grooverider - Slot Car Thunder (USA).rvz" size="130915624" crc="150a19f9" md5="b7d9021630a66a834f05fed98fc1dd74" sha1="b8436685fa39423ed704c55894616418e9dd86e9"/>
+	</machine>
+	<machine name="Gun (USA)">
+		<category>Games</category>
+		<description>GameID: GUME52, CRC: F06EE11B</description>
+		<rom name="Gun (USA).rvz" size="985617644" crc="9795b73e" md5="e84919506c1992d389d1bff7cc2e23cf" sha1="dea296f19a53140a381471756a914a099f32a997"/>
+	</machine>
+	<machine name="Happy Feet (USA) (En,Fr)">
+		<category>Games</category>
+		<description>GameID: GH7E5D, CRC: 3C4BE722</description>
+		<rom name="Happy Feet (USA) (En,Fr).rvz" size="1263600000" crc="a906f7f8" md5="0091eba694a2293a7e9ea40856a9c70f" sha1="9ff5f86b12119691bc3872ae2a030dda63d86ea0"/>
+	</machine>
+	<machine name="Harry Potter - Quidditch World Cup (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>GameID: GQWE69, CRC: 7A4816B9</description>
+		<rom name="Harry Potter - Quidditch World Cup (USA) (En,Fr,Es).rvz" size="757070372" crc="0cc7affe" md5="1bd146d13d0a2c292c500a6c26df75b3" sha1="c1b08c827d5770c7c5e707d80af4e079e3761d4f"/>
+	</machine>
+	<machine name="Harry Potter and the Chamber of Secrets (USA)">
+		<category>Games</category>
+		<description>GameID: GHSE69, CRC: 115F3228</description>
+		<rom name="Harry Potter and the Chamber of Secrets (USA).rvz" size="863304256" crc="102ce43d" md5="db25d0b711573ef245d230d75cb92715" sha1="0e37788d4b2e6b3fc15b3a8c5c0602376bc3788c"/>
+	</machine>
+	<machine name="Harry Potter and the Goblet of Fire (USA)">
+		<category>Games</category>
+		<description>GameID: GH4E69, CRC: 66E3A8F7</description>
+		<rom name="Harry Potter and the Goblet of Fire (USA).rvz" size="824742312" crc="96c01fec" md5="52e1ca1cfb77b8c146ca6167f44662b5" sha1="a3f2441a88caa0e67542940be7e998099925b015"/>
+	</machine>
+	<machine name="Harry Potter and the Prisoner of Azkaban (USA)">
+		<category>Games</category>
+		<description>GameID: GAZE69, CRC: 9ADB1F47</description>
+		<rom name="Harry Potter and the Prisoner of Azkaban (USA).rvz" size="1061627908" crc="5bf5587d" md5="6a737a928f1b540ce4d0ec3a262cd6b4" sha1="8d2eb7bc17e7f88d15bf5a8c279c16bd62c0f4d1"/>
+	</machine>
+	<machine name="Harry Potter and the Sorcerer's Stone (USA) (En,Es) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GHLE69, CRC: 3D08DD19</description>
+		<rom name="Harry Potter and the Sorcerer's Stone (USA) (En,Es) (Rev 1).rvz" size="947295504" crc="724bfbc4" md5="eb8b84478ea52b91582de30930141d3e" sha1="bee667abf134b80368c8cb16a2a044938bc8ca86"/>
+	</machine>
+	<machine name="Harvest Moon - A Wonderful Life (USA)">
+		<category>Games</category>
+		<description>GameID: GYWEE9, CRC: D5C265C1</description>
+		<rom name="Harvest Moon - A Wonderful Life (USA).rvz" size="382729796" crc="27050122" md5="463b1f2d07a406bc6e43645c879c3a4b" sha1="d6f865d9a176d9ee42ac64d49e7540b9b1f4fafb"/>
+	</machine>
+	<machine name="Harvest Moon - Another Wonderful Life (USA)">
+		<category>Games</category>
+		<description>GameID: G4GEE9, CRC: 2BE7EA37</description>
+		<rom name="Harvest Moon - Another Wonderful Life (USA).rvz" size="387374620" crc="259e80fd" md5="77ed8d0fc55851006114de4c31ee7984" sha1="f873ccb0285411939a39a3891d0cfd833e6d23bf"/>
+	</machine>
+	<machine name="Harvest Moon - Magical Melody (USA)">
+		<category>Games</category>
+		<description>GameID: G4AEE9, CRC: 02778D03</description>
+		<rom name="Harvest Moon - Magical Melody (USA).rvz" size="73932764" crc="095a392e" md5="fbf0d3d16a46b935af75152aa3241557" sha1="518a95a483a8dbe326dae960c89565b37a149d07"/>
+	</machine>
+	<machine name="Hello Kitty - Roller Rescue (USA)">
+		<category>Games</category>
+		<description>GameID: GH6EAF, CRC: D5946E12</description>
+		<rom name="Hello Kitty - Roller Rescue (USA).rvz" size="944148696" crc="413931a6" md5="fddbb4a5cc507e963a6ec0cef8446a96" sha1="47e6686c81429f67ffef85521aad4894a641adce"/>
+	</machine>
+	<machine name="Hitman 2 - Silent Assassin (USA)">
+		<category>Games</category>
+		<description>GameID: GHME4F, CRC: 23D81915</description>
+		<rom name="Hitman 2 - Silent Assassin (USA).rvz" size="788469908" crc="03ec033f" md5="91f166dda70d07036251dac3d3b5d86e" sha1="dd8b155c1e2336dae7aad21cdb0d4ddb3e8cfe8e"/>
+	</machine>
+	<machine name="Hobbit, The - The Prelude to the Lord of the Rings (USA)">
+		<category>Games</category>
+		<description>GameID: GHBE7D, CRC: 54EBDA42</description>
+		<rom name="Hobbit, The - The Prelude to the Lord of the Rings (USA).rvz" size="995366864" crc="5935357d" md5="794d03050b61949799a0f801b625a362" sha1="7fde930bc4f318da2a53496b53d869d37f7f08cb"/>
+	</machine>
+	<machine name="Home Run King (USA)">
+		<category>Games</category>
+		<description>GameID: GLBE8P, CRC: E76B8A96</description>
+		<rom name="Home Run King (USA).rvz" size="675770188" crc="39c9445e" md5="31432b367d399f903d0fcaf8ab0bcfd6" sha1="80f77487a1bdc3feed61849a68bea73ff38eb01a"/>
+	</machine>
+	<machine name="Hot Wheels - Velocity X (USA)">
+		<category>Games</category>
+		<description>GameID: GHWE78, CRC: F13412CE</description>
+		<rom name="Hot Wheels - Velocity X (USA).rvz" size="601887008" crc="cce6ae22" md5="7194aa9ebc9766d77331d6f4726eee4d" sha1="890ea34b805e074e2c16aeca07ab6ca1dbb67480"/>
+	</machine>
+	<machine name="Hot Wheels - World Race (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GHRE78, CRC: A0FD866B</description>
+		<rom name="Hot Wheels - World Race (USA) (Rev 1).rvz" size="317038980" crc="404b5de9" md5="4a5d5d906bf8d76574af5178cf0aede4" sha1="3a4afef02fa3cc9f2656f454a687ea6f567f3a19"/>
+	</machine>
+	<machine name="Hulk (USA)">
+		<category>Games</category>
+		<description>GameID: GHKE7D, CRC: 451CF050</description>
+		<rom name="Hulk (USA).rvz" size="1192417464" crc="68af1d47" md5="1e205aea8c253f13075acd5f7df229b9" sha1="d7eaed4e6f3fdd5295f4598242a84c2b57b8c500"/>
+	</machine>
+	<machine name="Hunter - The Reckoning (USA)">
+		<category>Games</category>
+		<description>GameID: GHNE71, CRC: 24FA0328</description>
+		<rom name="Hunter - The Reckoning (USA).rvz" size="820438516" crc="315bc662" md5="8134f3d0bcf968d626f42fb1be70a213" sha1="be62ceac9458a63cf5e2159687ec9dfd73921be4"/>
+	</machine>
+	<machine name="I-Ninja (USA)">
+		<category>Games</category>
+		<description>GameID: GNJEAF, CRC: 46D100B8</description>
+		<rom name="I-Ninja (USA).rvz" size="837888604" crc="b27bbdc9" md5="a872867b99867816293afd311aa40e82" sha1="e7fe27b5daf73cdd9499f315e189429e5ff836da"/>
+	</machine>
+	<machine name="Ice Age 2 - The Meltdown (USA)">
+		<category>Games</category>
+		<description>GameID: GIAE7D, CRC: FFA77E19</description>
+		<rom name="Ice Age 2 - The Meltdown (USA).rvz" size="885168264" crc="3f6681fa" md5="4d9f7fd9c15c78cb29d2aa47bdadf17f" sha1="ebf4b6e95c7d1e4e5a04077ed5e2514cdb7daf99"/>
+	</machine>
+	<machine name="Ikaruga (USA)">
+		<category>Games</category>
+		<description>GameID: GIKE70, CRC: B150985F</description>
+		<rom name="Ikaruga (USA).rvz" size="140887736" crc="dde0623f" md5="c90b157954bc1db51bd46aaac76a3df6" sha1="9bc581f5669d8583918546caad839c4f0013451d"/>
+	</machine>
+	<machine name="Incredible Hulk, The - Ultimate Destruction (USA)">
+		<category>Games</category>
+		<description>GameID: GHUE7D, CRC: 88186314</description>
+		<rom name="Incredible Hulk, The - Ultimate Destruction (USA).rvz" size="1141777860" crc="60800331" md5="179852b009c69dd0acbdb41455965310" sha1="53c9f59e9949353434d3f3513f2e8fc76f784b94"/>
+	</machine>
+	<machine name="Intellivision Lives! (USA)">
+		<category>Games</category>
+		<description>GameID: GIVE4Z, CRC: A28BD52F</description>
+		<rom name="Intellivision Lives! (USA).rvz" size="534797360" crc="9bb538dd" md5="9687ad244118b6834f03be17a09ab461" sha1="d9a3716d8e4f46206ecbd00971005a5d2d2ed505"/>
+	</machine>
+	<machine name="International Superstar Soccer 2 (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>GameID: GJ2PA4, CRC: 1D4A5F3E</description>
+		<rom name="International Superstar Soccer 2 (Europe) (En,Fr,De,Es,It).rvz" size="722214396" crc="472afe9d" md5="5b3ba5128fa23f60157241eb13cf7870" sha1="f3180c8e661e3cea4f7062ceafeba1809b82cb4f"/>
+	</machine>
+	<machine name="International Superstar Soccer 3 (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>GameID: GJ3PA4, CRC: 9C44D6FF</description>
+		<rom name="International Superstar Soccer 3 (Europe) (En,Fr,De,Es,It).rvz" size="1072731584" crc="bb0bbfe2" md5="261109d8750cd7f28f4156d8a28095b0" sha1="e03232f7c91ec48e976443853499c58a76850641"/>
+	</machine>
+	<machine name="Italian Job, The (USA)">
+		<category>Games</category>
+		<description>GameID: GIBE4F, CRC: 7F6469AB</description>
+		<rom name="Italian Job, The (USA).rvz" size="321936772" crc="c8cc5cc2" md5="e72ac51f3c570d0197400698ecedec46" sha1="09b5be7262939e5be23898cb03fa7f5483e6b191"/>
+	</machine>
+	<machine name="Jeremy McGrath Supercross World (USA)">
+		<category>Games</category>
+		<description>GameID: GSCE51, CRC: 0A74F23A</description>
+		<rom name="Jeremy McGrath Supercross World (USA).rvz" size="339674032" crc="f741c3dd" md5="ee317df46462a97db06f4cf073ace5bc" sha1="064396cb8eb8bab3f2475cc002a4ffe67360aea8"/>
+	</machine>
+	<machine name="Judge Dredd - Dredd vs. Death (USA)">
+		<category>Games</category>
+		<description>GameID: GJDE5S, CRC: 19FA8D6C</description>
+		<rom name="Judge Dredd - Dredd vs. Death (USA).rvz" size="842925356" crc="49b3b5c1" md5="270fa99600ca96df5b8873b8b84b8610" sha1="dfef47bbc051504bdf33eaad6d6d3084bf829d4f"/>
+	</machine>
+	<machine name="Kao the Kangaroo - Round 2 (USA)">
+		<category>Games</category>
+		<description>GameID: GKOE70, CRC: 3C858664</description>
+		<rom name="Kao the Kangaroo - Round 2 (USA).rvz" size="299215200" crc="90a1a1fd" md5="0a5668c4fb3c3eb1ce8ed7447e2eab49" sha1="271a920f1788e94eb722314ea1cfdee2500fa432"/>
+	</machine>
+	<machine name="Karaoke Revolution Party (USA)">
+		<category>Games</category>
+		<description>GameID: GK9EA4, CRC: AF292DDC</description>
+		<rom name="Karaoke Revolution Party (USA).rvz" size="712086720" crc="5855cadd" md5="06a0f8e026d402adf3c115171df77b1c" sha1="e7cb6c8286ef8284ecf9b363a22a975f0bf52815"/>
+	</machine>
+	<machine name="Kelly Slater's Pro Surfer (USA)">
+		<category>Games</category>
+		<description>GameID: GKSE52, CRC: 3EE8A0DA</description>
+		<rom name="Kelly Slater's Pro Surfer (USA).rvz" size="906480672" crc="3665744d" md5="edbf30a668a58f0eff1570bafb532810" sha1="4880360db7c6427be806476492384abdf5ab6405"/>
+	</machine>
+	<machine name="Killer7 (USA) (Disc 1) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GK7E08, CRC: 64F21D40</description>
+		<rom name="Killer7 (USA) (Disc 1) (Rev 1).rvz" size="947726388" crc="e64fbb41" md5="cdaa57f3e8595709ef16f283f6a9a328" sha1="d3f03b0a22cd71e1d8d3f9d49cf30a9893068dd6"/>
+	</machine>
+	<machine name="Killer7 (USA) (Disc 2) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GK7E08, CRC: 3D830B55</description>
+		<rom name="Killer7 (USA) (Disc 2) (Rev 1).rvz" size="612921644" crc="70907155" md5="cc38335ede6de846c6e399e0999ba1b2" sha1="50fba2cbf3ea2947babd8fcd95abcd3087d6c25d"/>
+	</machine>
+	<machine name="King Arthur (USA)">
+		<category>Games</category>
+		<description>GameID: GKHEA4, CRC: CC22363F</description>
+		<rom name="King Arthur (USA).rvz" size="1182048700" crc="9ab6b4f4" md5="291df3189ce9905240c1547c099d4511" sha1="4f6b5b30fc8e5c611a452d78de28959e02a519ba"/>
+	</machine>
+	<machine name="Kirby Air Ride (USA)">
+		<category>Games</category>
+		<description>GameID: GKYE01, CRC: F1A3E7A2</description>
+		<rom name="Kirby Air Ride (USA).rvz" size="607951944" crc="3acfad23" md5="934c7bc7977c5f103e299c629d3472bb" sha1="b253bd1abd19ff2576c41bcc9c8a2b10b759945d"/>
+	</machine>
+	<machine name="Knights of the Temple - Infernal Crusade (Europe) (En,Fr,De,Es)">
+		<category>Games</category>
+		<description>GameID: GTPP6S, CRC: 3114D1C4</description>
+		<rom name="Knights of the Temple - Infernal Crusade (Europe) (En,Fr,De,Es).rvz" size="1101506488" crc="e72815aa" md5="5453714df12611b3e4725fd568595b78" sha1="eff05c7097dd94e7d1f2c918bacf447cb7593ae1"/>
+	</machine>
+	<machine name="Knockout Kings 2003 (USA)">
+		<category>Games</category>
+		<description>GameID: GKKE69, CRC: 119D506E</description>
+		<rom name="Knockout Kings 2003 (USA).rvz" size="637724756" crc="a3f8613a" md5="dbf02ed890cc7bef00add07f9fa99f1c" sha1="9f0b9ebc988805ed6defb12c95bfda150c556e57"/>
+	</machine>
+	<machine name="LEGO Star Wars - The Video Game (USA)">
+		<category>Games</category>
+		<description>GameID: GL5E4F, CRC: 8416D40E</description>
+		<rom name="LEGO Star Wars - The Video Game (USA).rvz" size="587099548" crc="032e9537" md5="f45b21fa48828630e5b1fd7019ab2959" sha1="2503de2a67066be33210af4c69b7dd6fbeb89f9f"/>
+	</machine>
+	<machine name="LEGO Star Wars II - The Original Trilogy (USA)">
+		<category>Games</category>
+		<description>GameID: GL7E64, CRC: CEA162CD</description>
+		<rom name="LEGO Star Wars II - The Original Trilogy (USA).rvz" size="894813308" crc="e7b7f122" md5="f6cd2a18d0d767f632a5b83a49aef916" sha1="637d21f3090de6a3154d09ecc233dc00cc54289b"/>
+	</machine>
+	<machine name="Lara Croft Tomb Raider - Legend (USA)">
+		<category>Games</category>
+		<description>GameID: GL8E4F, CRC: A5F49142</description>
+		<rom name="Lara Croft Tomb Raider - Legend (USA).rvz" size="1248568004" crc="4378f75e" md5="b6e55a9687545eeee77cb44f2e51cab0" sha1="6c44080b36a2cd3a23f372b4b0d485c88794e2e9"/>
+	</machine>
+	<machine name="Largo Winch - Empire Under Threat (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>GameID: GLGP41, CRC: CE0A38B3</description>
+		<rom name="Largo Winch - Empire Under Threat (Europe) (En,Fr,De,Es,It).rvz" size="705066912" crc="d860fc65" md5="68b89e3c680cacffeabab48fd08e5d33" sha1="c81e6859acc47d252da44aa43800adf369012da0"/>
+	</machine>
+	<machine name="Legend of Spyro, The - A New Beginning (USA)">
+		<category>Games</category>
+		<description>GameID: G6SE7D, CRC: 8B1A3DFF</description>
+		<rom name="Legend of Spyro, The - A New Beginning (USA).rvz" size="1179169736" crc="872a989f" md5="65d927f2007bc9831c30df830daa8558" sha1="a6dff51fac7a4ba5305a0ffd09f84b2de4dcbe05"/>
+	</machine>
+	<machine name="Legend of Zelda, The - Collector's Edition (USA)">
+		<category>Games</category>
+		<description>GameID: PZLE01, CRC: 8D2141CF</description>
+		<rom name="Legend of Zelda, The - Collector's Edition (USA).rvz" size="930249820" crc="0273c756" md5="50ab0ac2aa8768ac49703ad2140aea64" sha1="6bbb6918dc4c8ee68e7ac4ec785bda04bd3cc0b5"/>
+	</machine>
+	<machine name="Legend of Zelda, The - Four Swords Adventures (USA)">
+		<category>Games</category>
+		<description>GameID: G4SE01, CRC: AFB151E4</description>
+		<rom name="Legend of Zelda, The - Four Swords Adventures (USA).rvz" size="235583444" crc="1bce7b91" md5="6772b68aeab3bdc7b935259559bdd9c5" sha1="fb5d69b212c02c581653d1b19cd3c6ab8d474aea"/>
+	</machine>
+	<machine name="Legend of Zelda, The - Ocarina of Time &amp; Master Quest (USA)">
+		<category>Games</category>
+		<description>GameID: D43E01, CRC: C1719A28</description>
+		<rom name="Legend of Zelda, The - Ocarina of Time &amp; Master Quest (USA).rvz" size="926125804" crc="ad034a8e" md5="a9a6d12fb3898171962de3ddda82c9ce" sha1="44bbf5a2cbea9a7fdd8bccf9d3fdf684e4ab4bbb"/>
+	</machine>
+	<machine name="Legend of Zelda, The - The Wind Waker (USA)">
+		<category>Games</category>
+		<description>GameID: GZLE01, CRC: AD21C2BA</description>
+		<rom name="Legend of Zelda, The - The Wind Waker (USA).rvz" size="863379372" crc="b89ad206" md5="d40aa5fb0970f1f326985d9eda05e28f" sha1="77ea41a1e88bab4504dc4bfe34832e18e6ad61b3"/>
+	</machine>
+	<machine name="Legend of Zelda, The - Twilight Princess (USA)">
+		<category>Games</category>
+		<description>GameID: GZ2E01, CRC: 0AB54D43</description>
+		<rom name="Legend of Zelda, The - Twilight Princess (USA).rvz" size="929908128" crc="104029c6" md5="c68742bc0d1bfe93d5e13c384c621fd4" sha1="4ec0b52e4f25b4cfed6905ce0ba53f562e6989eb"/>
+	</machine>
+	<machine name="Legends of Wrestling (USA)">
+		<category>Games</category>
+		<description>GameID: GLWE51, CRC: A1E7B7F3</description>
+		<rom name="Legends of Wrestling (USA).rvz" size="602008568" crc="a132c29c" md5="cb1be60a28469c217bada2751d2a147a" sha1="2fb4197435ec5fe384f193a748e0c9a812f9e6fb"/>
+	</machine>
+	<machine name="Legends of Wrestling II (USA)">
+		<category>Games</category>
+		<description>GameID: GL2E51, CRC: C1F26489</description>
+		<rom name="Legends of Wrestling II (USA).rvz" size="1169173144" crc="e5ab0ae5" md5="44e438854f5d2af2db24f4b906e41113" sha1="4ddf955b2184d3c84a843a2e28254eb4f8a87a26"/>
+	</machine>
+	<machine name="Lemony Snicket's A Series of Unfortunate Events (USA)">
+		<category>Games</category>
+		<description>GameID: GLCE52, CRC: 7C5AEE12</description>
+		<rom name="Lemony Snicket's A Series of Unfortunate Events (USA).rvz" size="1106230600" crc="bf98a1ad" md5="bb3f80ed3eecb00177dffa12ac43d4b4" sha1="c416b4141f0790283d26a73199cc9e21138a45fb"/>
+	</machine>
+	<machine name="Looney Tunes - Back in Action (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GLNE69, CRC: 2A5BBD66</description>
+		<rom name="Looney Tunes - Back in Action (USA) (Rev 1).rvz" size="901047044" crc="14f65f6a" md5="fc6a33500075027d41a664425c7883b1" sha1="143ecb4ce9e2fc7586cc4b682a37fa09a4816093"/>
+	</machine>
+	<machine name="Lord of the Rings, The - The Return of the King (USA)">
+		<category>Games</category>
+		<description>GameID: GKLE69, CRC: 9CAA554A</description>
+		<rom name="Lord of the Rings, The - The Return of the King (USA).rvz" size="1307989644" crc="a7bad726" md5="3281879ffbea7176fd4515e6ffceda2b" sha1="328b437c08cda49649fac35eac600f1435610526"/>
+	</machine>
+	<machine name="Lord of the Rings, The - The Third Age (USA) (Disc 1)">
+		<category>Games</category>
+		<description>GameID: G3AE69, CRC: D1F2B4B3</description>
+		<rom name="Lord of the Rings, The - The Third Age (USA) (Disc 1).rvz" size="1123964616" crc="93c4752e" md5="2df01a5c3e906e0b13c1d6e2e41116a3" sha1="b95f27f4e49a3beb786a9a48a35cf6a8d97fc517"/>
+	</machine>
+	<machine name="Lord of the Rings, The - The Third Age (USA) (Disc 2)">
+		<category>Games</category>
+		<description>GameID: G3AE69, CRC: 5EBF714E</description>
+		<rom name="Lord of the Rings, The - The Third Age (USA) (Disc 2).rvz" size="1223793436" crc="e5916a38" md5="b0113402ad8b15d25b0bd78e73a623ac" sha1="f40997278588c33affb06bbde9e4a7fb884c8b3c"/>
+	</machine>
+	<machine name="Lord of the Rings, The - The Two Towers (USA)">
+		<category>Games</category>
+		<description>GameID: GLOE69, CRC: B47E9571</description>
+		<rom name="Lord of the Rings, The - The Two Towers (USA).rvz" size="1220006152" crc="1e43cf4f" md5="c9e370ad9942902046156cbb31d922f0" sha1="1706ae7f6ab71c3e2929d0bddac88ab5bfbfd7fd"/>
+	</machine>
+	<machine name="Lost Kingdoms (USA)">
+		<category>Games</category>
+		<description>GameID: GRNE52, CRC: CE6B2479</description>
+		<rom name="Lost Kingdoms (USA).rvz" size="448330060" crc="ab92c84f" md5="a3919422960b8db6bb871d4d7c54f4f0" sha1="d5390c9a061a2e95206a8f912f50ea1b98fb0cf6"/>
+	</machine>
+	<machine name="Lost Kingdoms II (USA)">
+		<category>Games</category>
+		<description>GameID: GR2E52, CRC: 116D9C73</description>
+		<rom name="Lost Kingdoms II (USA).rvz" size="806265968" crc="befa8209" md5="eb0237edeb15fe8e3f29a7f1f086b842" sha1="c791253b11c3c9555c471e5788902fe2ce35cd6c"/>
+	</machine>
+	<machine name="Lotus Challenge (USA)">
+		<category>Games</category>
+		<description>GameID: GLUE7U, CRC: 0B125F9D</description>
+		<rom name="Lotus Challenge (USA).rvz" size="424509968" crc="6c2fa9fd" md5="4b30e59026d6035dd83fcaeee219de2e" sha1="df2312584944cea2a4b012a542e1230efa890afa"/>
+	</machine>
+	<machine name="Luigi's Mansion (USA, Canada)">
+		<category>Games</category>
+		<description>GameID: GLME01, CRC: 0B0C339D</description>
+		<rom name="Luigi's Mansion (USA, Canada).rvz" size="157576576" crc="a9d02ac5" md5="ed2a799e991b3f531fb03d634e9c6d58" sha1="de5aef94c6cd319b3beccb523ed1cdcc5c9313aa"/>
+	</machine>
+	<machine name="MC Groovz Dance Craze (USA)">
+		<category>Games</category>
+		<description>GameID: GR4EMZ, CRC: 9B5DFF04</description>
+		<rom name="MC Groovz Dance Craze (USA).rvz" size="392626560" crc="0a8d7eef" md5="107759f7e0e9f7a999e8ef9514bea43b" sha1="212f634d95cc45a0097ef9828c3464f165f9c382"/>
+	</machine>
+	<machine name="MLB SlugFest 2003 (USA)">
+		<category>Games</category>
+		<description>GameID: GSGE5D, CRC: A1AAB9D9</description>
+		<rom name="MLB SlugFest 2003 (USA).rvz" size="1103259712" crc="c54116ec" md5="25cac681fd092dfd74834434087f1663" sha1="52ae02cb1694477f5f39670c7e7669d7a1b98ac6"/>
+	</machine>
+	<machine name="MLB SlugFest 2004 (USA)">
+		<category>Games</category>
+		<description>GameID: GS7E5D, CRC: 71C33AB7</description>
+		<rom name="MLB SlugFest 2004 (USA).rvz" size="1068429896" crc="e1826433" md5="40bc39fc686bae8d2f83cb599d34fb21" sha1="4838b989068718760eba6172c9c57edd848954d4"/>
+	</machine>
+	<machine name="MVP Baseball 2004 (USA)">
+		<category>Games</category>
+		<description>GameID: GVPE69, CRC: 24E7E406</description>
+		<rom name="MVP Baseball 2004 (USA).rvz" size="1109457100" crc="3036a124" md5="0faec23140f3d1863b4febc322cb9ff7" sha1="716dd76fc3dc3412a0e952b66453a6bc7185e523"/>
+	</machine>
+	<machine name="MVP Baseball 2005 (USA)">
+		<category>Games</category>
+		<description>GameID: GV4E69, CRC: 1906A04E</description>
+		<rom name="MVP Baseball 2005 (USA).rvz" size="1095208440" crc="4dd9fa95" md5="257744fe1a48becd567b42d05af0c318" sha1="e8697aab712564d3dc418b60dc0f4dcc259feb40"/>
+	</machine>
+	<machine name="MX SuperFly (USA)">
+		<category>Games</category>
+		<description>GameID: GSVE78, CRC: 94F77878</description>
+		<rom name="MX SuperFly (USA).rvz" size="970054700" crc="edfe5b82" md5="2eb557a65c1efc377cd6b827eaccbe5d" sha1="d38e9567fdabce28e29df2e81e4ecdc06757bcab"/>
+	</machine>
+	<machine name="Madden NFL 06 (USA)">
+		<category>Games</category>
+		<description>GameID: G6ME69, CRC: 202067FD</description>
+		<rom name="Madden NFL 06 (USA).rvz" size="1063103764" crc="03783967" md5="cfc77a95710d9989c31516bccb443bb5" sha1="0356e35ae9ecebe9b1976cc4572b21af32fa5930"/>
+	</machine>
+	<machine name="Madden NFL 07 (USA)">
+		<category>Games</category>
+		<description>GameID: G7ME69, CRC: 43560925</description>
+		<rom name="Madden NFL 07 (USA).rvz" size="1026731112" crc="6bef6c75" md5="928442b77d222a3518f150889570d71c" sha1="fb1260314d8cf23c59964518aa6e73a15a73f6b8"/>
+	</machine>
+	<machine name="Madden NFL 08 (USA)">
+		<category>Games</category>
+		<description>GameID: GQ8E69, CRC: AF33D165</description>
+		<rom name="Madden NFL 08 (USA).rvz" size="1048367632" crc="e5986eb5" md5="42ecaa1b5be0ea493c94eae977813aef" sha1="e2bcd7b88456c7d14a8203206499d0a025717e8e"/>
+	</machine>
+	<machine name="Madden NFL 2002 (USA)">
+		<category>Games</category>
+		<description>GameID: GMDE69, CRC: 8F2AE860</description>
+		<rom name="Madden NFL 2002 (USA).rvz" size="525725124" crc="83c399ca" md5="61b028bffbab4b005895488fa9611d5e" sha1="0beac3b0607e5da4936b9b1c859e0bfee19508fe"/>
+	</machine>
+	<machine name="Madden NFL 2003 (USA)">
+		<category>Games</category>
+		<description>GameID: GM3E69, CRC: A1719769</description>
+		<rom name="Madden NFL 2003 (USA).rvz" size="1267599580" crc="f5f20adb" md5="77478ae5d56b1029017f58f4021749df" sha1="1b0c1d71472da46589a22660671a609499eb6d82"/>
+	</machine>
+	<machine name="Madden NFL 2004 (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GQXE69, CRC: ECEF8D57</description>
+		<rom name="Madden NFL 2004 (USA) (Rev 1).rvz" size="1215909668" crc="61984f87" md5="f9d77188eca72cb20519c827b90cbe05" sha1="9cb1b0d2a6554a39d577a048829d4ad264e28a18"/>
+	</machine>
+	<machine name="Madden NFL 2005 (USA)">
+		<category>Games</category>
+		<description>GameID: GNQE69, CRC: 6C027878</description>
+		<rom name="Madden NFL 2005 (USA).rvz" size="1041350792" crc="2e07fd0f" md5="5a00ddb834b6058617b5546f3387028e" sha1="8d899731cd5499d6feca2f63af99e0bae9e2c28c"/>
+	</machine>
+	<machine name="Major League Baseball 2K6 (USA)">
+		<category>Games</category>
+		<description>GameID: G62E54, CRC: 412B04D1</description>
+		<rom name="Major League Baseball 2K6 (USA).rvz" size="1094095844" crc="bdf5154b" md5="82bdffcc6f570cbdf599fe04e014b1ea" sha1="adb4b725815dc43ceb16cd6af8471207853ccd1e"/>
+	</machine>
+	<machine name="Mario Golf - Toadstool Tour (USA)">
+		<category>Games</category>
+		<description>GameID: GFTE01, CRC: 38A86294</description>
+		<rom name="Mario Golf - Toadstool Tour (USA).rvz" size="1103029956" crc="3704ad9a" md5="e90d3730a84a0cbd70b0b0183d65ad1b" sha1="b6b1465333298730253dba55dfa17fa7b15baf08"/>
+	</machine>
+	<machine name="Mario Kart - Double Dash!! (USA)">
+		<category>Games</category>
+		<description>GameID: GM4E01, CRC: 099E2C6D</description>
+		<rom name="Mario Kart - Double Dash!! (USA).rvz" size="396323584" crc="7f89e4fa" md5="16d24243fcd5863aaffa699db943a4bb" sha1="a110aa0c71c3b742879969b9f3ff0c67645d364f"/>
+	</machine>
+	<machine name="Mario Party 4 (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GMPE01, CRC: 06AE54F0</description>
+		<rom name="Mario Party 4 (USA) (Rev 1).rvz" size="470366104" crc="e263c69a" md5="fec9c989ceba217f31b16370de77dd06" sha1="bdbb9c8616ffa246a063bb6bd1492582edbc7cee"/>
+	</machine>
+	<machine name="Mario Party 5 (USA)">
+		<category>Games</category>
+		<description>GameID: GP5E01, CRC: 099BB35A</description>
+		<rom name="Mario Party 5 (USA).rvz" size="902293212" crc="4c6be4ff" md5="29e59aa8ca5304c3bb3c7a77f1fd01af" sha1="728b7f7bef3acc6595a483854c6abaab219d3215"/>
+	</machine>
+	<machine name="Mario Party 6 (USA)">
+		<category>Games</category>
+		<description>GameID: GP6E01, CRC: ABC622EC</description>
+		<rom name="Mario Party 6 (USA).rvz" size="659861536" crc="2403f800" md5="f4e0d7e33feb136923120bf0b26b7ce4" sha1="d5dcb637d2dddcac0fec128067ad4e5543ba0721"/>
+	</machine>
+	<machine name="Mario Party 7 (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GP7E01, CRC: 8582361B</description>
+		<rom name="Mario Party 7 (USA) (Rev 1).rvz" size="502893132" crc="a77d6530" md5="12e50cdea63cfc3d2afce354e3e520e2" sha1="684260b040759f15746c98f2901490d48eb3cbbd"/>
+	</machine>
+	<machine name="Mario Power Tennis (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GOME01, CRC: EF719371</description>
+		<rom name="Mario Power Tennis (USA) (Rev 1).rvz" size="583377216" crc="58fd27d2" md5="637f613a6bcf78330e08ec465d02c9e2" sha1="9f26ec1f43cb75b150aeb70c297123e8fb2552d2"/>
+	</machine>
+	<machine name="Mario Superstar Baseball (USA)">
+		<category>Games</category>
+		<description>GameID: GYQE01, CRC: 89CDB7B7</description>
+		<rom name="Mario Superstar Baseball (USA).rvz" size="555711908" crc="913104d8" md5="50f4355f4fee9844c62f6da0bfa8003c" sha1="c65737c7d30153fa2bac8e6d5aadf1c2b6e76009"/>
+	</machine>
+	<machine name="Mark Davis Pro Bass Challenge (USA)">
+		<category>Games</category>
+		<description>GameID: G9BEE9, CRC: 89BC8C9F</description>
+		<rom name="Mark Davis Pro Bass Challenge (USA).rvz" size="81380372" crc="f6b219a5" md5="129d103bb5d5f9c714918c674e49603c" sha1="ae2926463d18bee72fc560c2106876190093ebec"/>
+	</machine>
+	<machine name="Marvel Nemesis - Rise of the Imperfects (USA)">
+		<category>Games</category>
+		<description>GameID: GVLE69, CRC: A3776354</description>
+		<rom name="Marvel Nemesis - Rise of the Imperfects (USA).rvz" size="972244288" crc="663cc9a4" md5="1016333ba7c50108191d2deff41e8e47" sha1="c97cb692106d9618e6aa32acf4b04c12a79e4b57"/>
+	</machine>
+	<machine name="Mary-Kate and Ashley - Sweet 16 - Licensed to Drive (USA)">
+		<category>Games</category>
+		<description>GameID: GMAE51, CRC: 817D3137</description>
+		<rom name="Mary-Kate and Ashley - Sweet 16 - Licensed to Drive (USA).rvz" size="401750668" crc="e0949b4f" md5="520ee0e5df484061139d44a17188943c" sha1="99f747913568b88a1c853f3b6ed7f007d567240e"/>
+	</machine>
+	<machine name="Mat Hoffman's Pro BMX 2 (USA)">
+		<category>Games</category>
+		<description>GameID: GMHE52, CRC: CDFAD5B1</description>
+		<rom name="Mat Hoffman's Pro BMX 2 (USA).rvz" size="1248722556" crc="055f914f" md5="ef1045acbac567e08835bde981f1d5d3" sha1="a8c0704d583d04595b6926c804c644c6ba2785c1"/>
+	</machine>
+	<machine name="Medabots Infinity (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GM6EE9, CRC: 257D7250</description>
+		<rom name="Medabots Infinity (USA) (Rev 1).rvz" size="274269720" crc="c1a40665" md5="8def8bc3a04b5cdebecc230ec72eb188" sha1="69fa375a0190ce054b1cc1fa8c0dfe66796a39bc"/>
+	</machine>
+	<machine name="Medal of Honor - European Assault (USA)">
+		<category>Games</category>
+		<description>GameID: GONE69, CRC: B8925A76</description>
+		<rom name="Medal of Honor - European Assault (USA).rvz" size="1014845440" crc="6198d68e" md5="5b3a4aebf1dfb1cfde4e6c44ec5f722f" sha1="3a354ceae13f261ab107ace3cf23a141501872a4"/>
+	</machine>
+	<machine name="Medal of Honor - Frontline (USA)">
+		<category>Games</category>
+		<description>GameID: GMFE69, CRC: 33295DF7</description>
+		<rom name="Medal of Honor - Frontline (USA).rvz" size="992853052" crc="4c1c6a5a" md5="34579cf0e587ec17d10b589ba93cfb7b" sha1="15454f2af7e394b2ee9000c84340ebb4eaf3892e"/>
+	</machine>
+	<machine name="Medal of Honor - Rising Sun (USA) (Disc 1)">
+		<category>Games</category>
+		<description>GameID: GR8E69, CRC: 2F2F6F2A</description>
+		<rom name="Medal of Honor - Rising Sun (USA) (Disc 1).rvz" size="869215672" crc="9fba8b14" md5="b552af51a2f0ddc730951d2dadab77e0" sha1="37467c6ebfe4f0ce5a1c978224e69dab6fb38c77"/>
+	</machine>
+	<machine name="Medal of Honor - Rising Sun (USA) (Disc 2)">
+		<category>Games</category>
+		<description>GameID: GR8E69, CRC: 7572A915</description>
+		<rom name="Medal of Honor - Rising Sun (USA) (Disc 2).rvz" size="802057772" crc="8bba13fe" md5="444451233259e41bd2fc40d1028a44f0" sha1="a38211bd3f35c148d489ac76189a55e5b5bc30f3"/>
+	</machine>
+	<machine name="Mega Man Anniversary Collection (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: G6QE08, CRC: 0B24EA35</description>
+		<rom name="Mega Man Anniversary Collection (USA) (Rev 1).rvz" size="1272831824" crc="1326270f" md5="80a15f7231f5b18a0a5307dc8701d712" sha1="2e5a140ff48a19f7e73b3fb309c0bca20d10400a"/>
+	</machine>
+	<machine name="Mega Man Network Transmission (USA)">
+		<category>Games</category>
+		<description>GameID: GREE08, CRC: 17D7A329</description>
+		<rom name="Mega Man Network Transmission (USA).rvz" size="474481736" crc="e43baa2d" md5="73cafad385d724930501f9afda58de6d" sha1="4bac96c527fab74f2b4db84b583207b0595dd82a"/>
+	</machine>
+	<machine name="Mega Man X - Command Mission (USA)">
+		<category>Games</category>
+		<description>GameID: GXRE08, CRC: 82115BD2</description>
+		<rom name="Mega Man X - Command Mission (USA).rvz" size="756901540" crc="c7c88c4e" md5="8ae32eb44452bd133b69dbd3ab081512" sha1="b42043224231c60a02469ac56d08e8cdb123011a"/>
+	</machine>
+	<machine name="Mega Man X Collection (USA)">
+		<category>Games</category>
+		<description>GameID: GXGE08, CRC: DD9FE721</description>
+		<rom name="Mega Man X Collection (USA).rvz" size="690529712" crc="e0a46685" md5="00002f637dbce84e778c80b6120c7e22" sha1="1c255f0c56b8dd82b0da9f8af12c8940cc7049be"/>
+	</machine>
+	<machine name="Men in Black II - Alien Escape (USA)">
+		<category>Games</category>
+		<description>GameID: GMEE70, CRC: 7B0C45DE</description>
+		<rom name="Men in Black II - Alien Escape (USA).rvz" size="1057557652" crc="3235f2e5" md5="2af1d2aeb0df854a723ef72ab6918ec5" sha1="3e7341930271aed9e8e0bf319b09d5747cb4e2c8"/>
+	</machine>
+	<machine name="Metal Arms - Glitch in the System (USA)">
+		<category>Games</category>
+		<description>GameID: GM5E7D, CRC: 239A5474</description>
+		<rom name="Metal Arms - Glitch in the System (USA).rvz" size="1090700260" crc="453285d8" md5="1b866b7eae290f6fdf006baf589c86bd" sha1="5926bf7a61f6702ac6a8a78c5b653d9d28b06cf3"/>
+	</machine>
+	<machine name="Metal Gear Solid - The Twin Snakes (USA) (Disc 1)">
+		<category>Games</category>
+		<description>GameID: GGSEA4, CRC: 02AB12F2</description>
+		<rom name="Metal Gear Solid - The Twin Snakes (USA) (Disc 1).rvz" size="1214568276" crc="5f58835b" md5="fdbd4fa973cc9e19f77c563e18cdd526" sha1="daf7a68fd3ff466a199dafa70c90d7da4d130f19"/>
+	</machine>
+	<machine name="Metal Gear Solid - The Twin Snakes (USA) (Disc 2)">
+		<category>Games</category>
+		<description>GameID: GGSEA4, CRC: FF7BCD0A</description>
+		<rom name="Metal Gear Solid - The Twin Snakes (USA) (Disc 2).rvz" size="1295677896" crc="7ead825e" md5="9eafdca53c6cda4932966bd8b8d41275" sha1="e2a69c627501dfb866a5cce7bb1ab5e2bb4b3cb6"/>
+	</machine>
+	<machine name="Metroid Prime (USA) (Rev 2)">
+		<category>Games</category>
+		<description>GameID: GM8E01, CRC: 61592372</description>
+		<rom name="Metroid Prime (USA) (Rev 2).rvz" size="1159009496" crc="edc52c13" md5="84f266ecede34a1d62a41576cdd8eadf" sha1="4cf54ff293ba49279a60c0f7787569851210a9a6"/>
+	</machine>
+	<machine name="Metroid Prime 2 - Echoes (USA)">
+		<category>Games</category>
+		<description>GameID: G2ME01, CRC: F9BC88B6</description>
+		<rom name="Metroid Prime 2 - Echoes (USA).rvz" size="1287435724" crc="63a89b82" md5="25205c65e10eddc49422b7f4db73e874" sha1="74c7bbfab13c2d7fc6a338b1f5750b758210c98e"/>
+	</machine>
+	<machine name="Micro Machines (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>GameID: GMOP70, CRC: A8F0CE2F</description>
+		<rom name="Micro Machines (Europe) (En,Fr,De,Es,It).rvz" size="459916000" crc="7622ce6e" md5="fb79004a7357b57d1c0a2b0960294208" sha1="4feb13ce3c9297796328514034e3172ff58f479f"/>
+	</machine>
+	<machine name="Midway Arcade Treasures (USA)">
+		<category>Games</category>
+		<description>GameID: GAKE5D, CRC: 884BF5C1</description>
+		<rom name="Midway Arcade Treasures (USA).rvz" size="930141436" crc="e4bab2ba" md5="68d1e36addd2baffc34d11b9f78ff9a9" sha1="17c2298f8dbed4b5c21d5722401781b0d7e56062"/>
+	</machine>
+	<machine name="Midway Arcade Treasures 2 (USA)">
+		<category>Games</category>
+		<description>GameID: GAYE5D, CRC: 865FE16E</description>
+		<rom name="Midway Arcade Treasures 2 (USA).rvz" size="1201786280" crc="4b58459c" md5="198ad634def09e93854a363916d9a6b3" sha1="2fb693e4192e9679f9eb93d9dd339cabb3ce2a54"/>
+	</machine>
+	<machine name="Midway Arcade Treasures 3 (USA)">
+		<category>Games</category>
+		<description>GameID: GE3E5D, CRC: 22FA1D1D</description>
+		<rom name="Midway Arcade Treasures 3 (USA).rvz" size="1016927448" crc="246eceab" md5="efce19b776bb0c7eb48ad6802d721fc1" sha1="162202036bb99d2616d75c6491b074c57bcafcd9"/>
+	</machine>
+	<machine name="Minority Report - Everybody Runs (USA)">
+		<category>Games</category>
+		<description>GameID: GMWE52, CRC: 0E4372A9</description>
+		<rom name="Minority Report - Everybody Runs (USA).rvz" size="1130114440" crc="b7cecfc1" md5="2bac05ca91d455e1c06152ec09869d06" sha1="aae97ba3a8cf2d0e8d456ffc56c34a2d287b9c95"/>
+	</machine>
+	<machine name="Mission - Impossible - Operation Surma (USA)">
+		<category>Games</category>
+		<description>GameID: GMIE70, CRC: 5595D6BB</description>
+		<rom name="Mission - Impossible - Operation Surma (USA).rvz" size="1100665312" crc="67182b98" md5="1b17159bb492b3d23598fdaf132af71b" sha1="0c16d37bb8b760d318e78a6310db15fd4a0daa63"/>
+	</machine>
+	<machine name="Monopoly Party (USA)">
+		<category>Games</category>
+		<description>GameID: GMQE70, CRC: 62CA8DA8</description>
+		<rom name="Monopoly Party (USA).rvz" size="680762732" crc="e78636b0" md5="7af3e6b7b29aad24e125fcd95b6d4225" sha1="841dcd07b1253c2687eeedc318dc22eacc053b34"/>
+	</machine>
+	<machine name="Monster 4x4 - Masters of Metal (USA)">
+		<category>Games</category>
+		<description>GameID: GMZE41, CRC: 4BF445BC</description>
+		<rom name="Monster 4x4 - Masters of Metal (USA).rvz" size="1189987244" crc="0fb2cdb1" md5="5c87b9732b934d07e7c8ba4bb66abf50" sha1="0244bcf5ac5ce3b51841ca2d66ea1f980e854571"/>
+	</machine>
+	<machine name="Monster House (USA) (En,Fr)">
+		<category>Games</category>
+		<description>GameID: GK5E78, CRC: 135D4207</description>
+		<rom name="Monster House (USA) (En,Fr).rvz" size="437238952" crc="3364276f" md5="859171d9383703f40f48eea6e2989e3e" sha1="94caaa2192ffd17752fb48f5259766c17fd0c0d4"/>
+	</machine>
+	<machine name="Monster Jam - Maximum Destruction (USA)">
+		<category>Games</category>
+		<description>GameID: GMJE41, CRC: 5E022327</description>
+		<rom name="Monster Jam - Maximum Destruction (USA).rvz" size="386310752" crc="8de8e0e2" md5="db6b068746829818253c24feb98e5d4b" sha1="dc8be9dfe53285a9edbed9cf3231a89fd8b9c175"/>
+	</machine>
+	<machine name="Mortal Kombat - Deadly Alliance (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GMKE5D, CRC: 0E77F296</description>
+		<rom name="Mortal Kombat - Deadly Alliance (USA) (Rev 1).rvz" size="1178874812" crc="5844e188" md5="e1b81391e30937be72175dc4fc4c9e41" sha1="2f619c199410cd458b3d593abd9698d8e63f6a3f"/>
+	</machine>
+	<machine name="Mortal Kombat - Deception (USA)">
+		<category>Games</category>
+		<description>GameID: GQNE5D, CRC: AA45D0B6</description>
+		<rom name="Mortal Kombat - Deception (USA).rvz" size="1031159444" crc="49a44b76" md5="1a6a1c6727bb3e5533caaa3c24b0d17b" sha1="9415d1b521e3bf90c706d7babc9b7d07d958ac8e"/>
+	</machine>
+	<machine name="Muppets - Party Cruise (USA)">
+		<category>Games</category>
+		<description>GameID: GM9E6S, CRC: 50C0281C</description>
+		<rom name="Muppets - Party Cruise (USA).rvz" size="907402788" crc="53132754" md5="216fbde5d432e9dea52e7449a1b70db7" sha1="b43c48245fd88363cfe2948bd169ae9c0f641e9a"/>
+	</machine>
+	<machine name="Mystic Heroes (USA)">
+		<category>Games</category>
+		<description>GameID: GBHEC8, CRC: 080D3384</description>
+		<rom name="Mystic Heroes (USA).rvz" size="662949516" crc="a69e0d03" md5="fa327e65353b24405f141af10b320fcb" sha1="7912e305133f6d51a71b2abb655738fde05749f2"/>
+	</machine>
+	<machine name="NASCAR - Dirt to Daytona (USA)">
+		<category>Games</category>
+		<description>GameID: GN2E70, CRC: 700FDF19</description>
+		<rom name="NASCAR - Dirt to Daytona (USA).rvz" size="1055384788" crc="aad2b296" md5="a9fa8069e637decec96e10a3c864100d" sha1="555c741b677d48795e7ad4a8a402781df87cbe10"/>
+	</machine>
+	<machine name="NASCAR 2005 - Chase for the Cup (USA)">
+		<category>Games</category>
+		<description>GameID: GN4E69, CRC: 59D346EF</description>
+		<rom name="NASCAR 2005 - Chase for the Cup (USA).rvz" size="780539792" crc="b349349e" md5="f376f41e62bed8259198c1844aafe4a7" sha1="c26459f7441d6ff413f6152ec49abb599a4c4d4b"/>
+	</machine>
+	<machine name="NASCAR Thunder 2003 (USA)">
+		<category>Games</category>
+		<description>GameID: GNCE69, CRC: DEF6D55D</description>
+		<rom name="NASCAR Thunder 2003 (USA).rvz" size="988318588" crc="29ac5176" md5="2a5b5a030cb982df47632f190d57ef2c" sha1="983ed0628cf7a82653b614b2a8bce00874aecd26"/>
+	</machine>
+	<machine name="NBA 2K2 (USA)">
+		<category>Games</category>
+		<description>GameID: GBAE8P, CRC: 099A0FC4</description>
+		<rom name="NBA 2K2 (USA).rvz" size="804018344" crc="b911dc53" md5="c83423a6241141c9ccd1aa287e6b9d47" sha1="59e2633bbb50906b7e8b19d3d5eae47cf10d65ba"/>
+	</machine>
+	<machine name="NBA 2K3 (USA)">
+		<category>Games</category>
+		<description>GameID: GK3E8P, CRC: 89DF66D0</description>
+		<rom name="NBA 2K3 (USA).rvz" size="812722096" crc="d27dcd6c" md5="a92245737ef298d3d92541535a383f86" sha1="2159bd41cf5d526aa0edc1a8881d239eaf6472f1"/>
+	</machine>
+	<machine name="NBA Courtside 2002 (USA)">
+		<category>Games</category>
+		<description>GameID: GNBE01, CRC: ED55D776</description>
+		<rom name="NBA Courtside 2002 (USA).rvz" size="674373696" crc="bf8bd64c" md5="234b2126d5a5e2b74155bbe816f9afc2" sha1="6b1abf0e0e63686f42f40449e2539bf676a4d228"/>
+	</machine>
+	<machine name="NBA Live 06 (USA)">
+		<category>Games</category>
+		<description>GameID: G6NE69, CRC: 545FDF09</description>
+		<rom name="NBA Live 06 (USA).rvz" size="995093520" crc="ec67d2bc" md5="dc6fb792c97369cc33b319beca4557d7" sha1="6ff3dc57f5ee0692075727959029aa2ed86f95fe"/>
+	</machine>
+	<machine name="NBA Live 2003 (USA)">
+		<category>Games</category>
+		<description>GameID: GNLE69, CRC: 901BAA7D</description>
+		<rom name="NBA Live 2003 (USA).rvz" size="732937824" crc="47aaa039" md5="3607d60f128c5a8a0f521c718f668507" sha1="dda8da062ae2d0fbc09d5716d2e614c780d21097"/>
+	</machine>
+	<machine name="NBA Live 2004 (USA)">
+		<category>Games</category>
+		<description>GameID: GN8E69, CRC: 06EEB2E0</description>
+		<rom name="NBA Live 2004 (USA).rvz" size="991546980" crc="bac08eda" md5="2a40c9d033b22f7825af095ade0a8d96" sha1="2780188c15cb272ada643547382b86457f306da1"/>
+	</machine>
+	<machine name="NBA Live 2005 (USA)">
+		<category>Games</category>
+		<description>GameID: GLYE69, CRC: F2ECE8E7</description>
+		<rom name="NBA Live 2005 (USA).rvz" size="1000661176" crc="7fedec8f" md5="018c4fa7f86056aaaf368b804b428cd6" sha1="9e6da673f3577826947ef47e60f3a8bf4c359079"/>
+	</machine>
+	<machine name="NBA Street (USA)">
+		<category>Games</category>
+		<description>GameID: GNSE69, CRC: DC7A2DA4</description>
+		<rom name="NBA Street (USA).rvz" size="275342164" crc="1d7de584" md5="d0930d2d8e3d7e574da294f8c07c4ef6" sha1="92c2bf494e83e71c27bdcaaea2e4a5291f770b10"/>
+	</machine>
+	<machine name="NBA Street V3 (USA)">
+		<category>Games</category>
+		<description>GameID: G3VE69, CRC: 8A0E96CB</description>
+		<rom name="NBA Street V3 (USA).rvz" size="984118128" crc="d8aa618c" md5="ae6ca1d4a75d9445df898d93e4ddb5be" sha1="88817e932191bb0ad46db0b9a2c9a5afd613cbe1"/>
+	</machine>
+	<machine name="NBA Street Vol. 2 (USA)">
+		<category>Games</category>
+		<description>GameID: GNZE69, CRC: C099C71E</description>
+		<rom name="NBA Street Vol. 2 (USA).rvz" size="794075764" crc="c13da829" md5="dca0944a477bda6c2868dbbaaad3090b" sha1="f8ac6ed2efcbe823906038e03df76a379b447475"/>
+	</machine>
+	<machine name="NCAA College Basketball 2K3 (USA)">
+		<category>Games</category>
+		<description>GameID: GNKE8P, CRC: 561D5E32</description>
+		<rom name="NCAA College Basketball 2K3 (USA).rvz" size="1180083360" crc="fb4144be" md5="cff1e6d19c5394387bd3f4c1e6bb9052" sha1="e3d67fc19be48e5ee9cf7c6813794620ad3ebaac"/>
+	</machine>
+	<machine name="NCAA College Football 2K3 (USA)">
+		<category>Games</category>
+		<description>GameID: GNAE8P, CRC: 024F098D</description>
+		<rom name="NCAA College Football 2K3 (USA).rvz" size="832646324" crc="870bfe2d" md5="aa64c42e4e31705f18da089d2c8f5f86" sha1="27b5fe9b9fb6074e6a44798f38c5a45f8a5ca44d"/>
+	</machine>
+	<machine name="NCAA Football 2003 (USA)">
+		<category>Games</category>
+		<description>GameID: GNGE69, CRC: 78433638</description>
+		<rom name="NCAA Football 2003 (USA).rvz" size="1175422560" crc="39371a4f" md5="f7452c035a969516031d68d4e8953d48" sha1="dcd0d530b03b83233633687b8e12a3bc66fb76a6"/>
+	</machine>
+	<machine name="NCAA Football 2004 (USA)">
+		<category>Games</category>
+		<description>GameID: GNXE69, CRC: 87EDC790</description>
+		<rom name="NCAA Football 2004 (USA).rvz" size="1144608116" crc="f357bfe6" md5="01a2478359f55194994ce60170eb6d8e" sha1="8ca7a71de408f3cc0a63c2cebd18aaa2a3cd70bc"/>
+	</machine>
+	<machine name="NCAA Football 2005 (USA)">
+		<category>Games</category>
+		<description>GameID: GCUE69, CRC: 2D24164C</description>
+		<rom name="NCAA Football 2005 (USA).rvz" size="1215644028" crc="f0428268" md5="6be9b258654f8f537a68d72cc4571d50" sha1="c5c5fce37b3d123c7edc919163c0ebad49b0b67a"/>
+	</machine>
+	<machine name="NFL 2K3 (USA)">
+		<category>Games</category>
+		<description>GameID: GF3E8P, CRC: AEDF964D</description>
+		<rom name="NFL 2K3 (USA).rvz" size="1257056964" crc="f4ad356c" md5="737e9a47afa5bcf00aea0745e763083b" sha1="4d9646122d79c3889cb39e242edbc22eb13ef9db"/>
+	</machine>
+	<machine name="NFL Blitz 2002 (USA)">
+		<category>Games</category>
+		<description>GameID: GNFE5D, CRC: 5DEBB376</description>
+		<rom name="NFL Blitz 2002 (USA).rvz" size="1180870284" crc="d962844a" md5="c9ac10156af625f69b14dcae5f0442ba" sha1="2711560201cc677cb4c5de3356cd58a6eb557a72"/>
+	</machine>
+	<machine name="NFL Blitz 2003 (USA)">
+		<category>Games</category>
+		<description>GameID: GO3E5D, CRC: 3F4D220C</description>
+		<rom name="NFL Blitz 2003 (USA).rvz" size="966170864" crc="ac06956d" md5="b610b181d6ca02e1d6595886799c8550" sha1="12168ea54c46e88c1352bd15c4189d5ff0596027"/>
+	</machine>
+	<machine name="NFL Blitz Pro (USA)">
+		<category>Games</category>
+		<description>GameID: GFVE5D, CRC: F2C785CD</description>
+		<rom name="NFL Blitz Pro (USA).rvz" size="714759168" crc="9c54edfe" md5="edf564c76f7b31ce26feea0ad112ba88" sha1="1e304b87ad18f0fc35fd8bc6f0ce5e38ef644afe"/>
+	</machine>
+	<machine name="NFL QB Club 2002 (USA)">
+		<category>Games</category>
+		<description>GameID: GQBE51, CRC: 535FF7F0</description>
+		<rom name="NFL QB Club 2002 (USA).rvz" size="369133384" crc="04590dd0" md5="e78ab3e47e24fbb1852303ebd6af7ba0" sha1="70c5a64069c1f83758321ee400795c5176b6e397"/>
+	</machine>
+	<machine name="NFL Street (USA)">
+		<category>Games</category>
+		<description>GameID: GNNE69, CRC: 1864E9AC</description>
+		<rom name="NFL Street (USA).rvz" size="639532952" crc="ad4b06c4" md5="8c88bfca3638935a18238f9c7cc0fea7" sha1="ce318e60acbd8ce8c5520170a1d1e89c40514eb3"/>
+	</machine>
+	<machine name="NFL Street 2 (USA)">
+		<category>Games</category>
+		<description>GameID: GN7E69, CRC: 2909D1B7</description>
+		<rom name="NFL Street 2 (USA).rvz" size="739125524" crc="aef2c77d" md5="94b765e47d21eb4849204bc249009723" sha1="3a844fde1cc318b72db38ae17a065b01f7a3f041"/>
+	</machine>
+	<machine name="NHL 06 (USA) (En,Fr)">
+		<category>Games</category>
+		<description>GameID: GN6E69, CRC: 5687BFE7</description>
+		<rom name="NHL 06 (USA) (En,Fr).rvz" size="1061811380" crc="6d7552d9" md5="ef192c524bc0ef88cf5119f45b93e5a5" sha1="39048d73cfc5fe839d4656becfe45d5b31f0ab30"/>
+	</machine>
+	<machine name="NHL 2003 (USA)">
+		<category>Games</category>
+		<description>GameID: GH3E69, CRC: 8C3011FB</description>
+		<rom name="NHL 2003 (USA).rvz" size="1138615316" crc="aee548fa" md5="bc0e07aa11d96a041c8a22aba7158f8d" sha1="5e5c62fadb0ebf0ab820bb12df57ef56d5998e85"/>
+	</machine>
+	<machine name="NHL 2004 (USA)">
+		<category>Games</category>
+		<description>GameID: GNVE69, CRC: F5946439</description>
+		<rom name="NHL 2004 (USA).rvz" size="940877452" crc="5e0f3fa0" md5="fb080e903d02f5a8eb5655802b21f146" sha1="3c969bd6fc0147d93a0a2a9ab2333f14d8af6934"/>
+	</machine>
+	<machine name="NHL 2005 (USA) (En,Fr)">
+		<category>Games</category>
+		<description>GameID: GN5E69, CRC: B17FAA37</description>
+		<rom name="NHL 2005 (USA) (En,Fr).rvz" size="1223920088" crc="b7db83eb" md5="3dc9eda60560ce366e132205e110228f" sha1="e6992865c45522c60028726be446cd666f85c5db"/>
+	</machine>
+	<machine name="NHL 2K3 (USA)">
+		<category>Games</category>
+		<description>GameID: G2KE8P, CRC: CB7879B1</description>
+		<rom name="NHL 2K3 (USA).rvz" size="1108480248" crc="f4c6fedb" md5="220ae8d84e3e1186b85a7c43498470cb" sha1="ecec588fe311653f4af952a771060f83a592a9e9"/>
+	</machine>
+	<machine name="NHL Hitz 2002 (USA)">
+		<category>Games</category>
+		<description>GameID: GNHE5d, CRC: 53F2137A</description>
+		<rom name="NHL Hitz 2002 (USA).rvz" size="678804768" crc="fddc1843" md5="667a7354fdb03143c398cadc5b67bdf3" sha1="ef9d187c2c39f29a46d8ec30058c4276aafe2af5"/>
+	</machine>
+	<machine name="NHL Hitz 2003 (USA)">
+		<category>Games</category>
+		<description>GameID: GN3E5D, CRC: BB9FC845</description>
+		<rom name="NHL Hitz 2003 (USA).rvz" size="1016427244" crc="a0fe3ebe" md5="3bc2f592fc4c40a44a04536d65e995d5" sha1="ec3d585e63ddad80bdaa6f9af56e77c93ec149f1"/>
+	</machine>
+	<machine name="NHL Hitz Pro (USA)">
+		<category>Games</category>
+		<description>GameID: GHZE5D, CRC: 83791CE1</description>
+		<rom name="NHL Hitz Pro (USA).rvz" size="990809784" crc="f8d166f0" md5="eb9d33d54a2bdbf8ee4368355f6551bd" sha1="d42b74447d8fd8ec132d8877b4705fa814521e2a"/>
+	</machine>
+	<machine name="Namco Museum (USA)">
+		<category>Games</category>
+		<description>GameID: GNMEAF, CRC: 316232A1</description>
+		<rom name="Namco Museum (USA).rvz" size="511524508" crc="c306c930" md5="7561e2aec36bebe644ed5a3e9e091ee0" sha1="7c38f4fc78fd79f69bd4e1fc08eec846e6a20b6a"/>
+	</machine>
+	<machine name="Namco Museum 50th Anniversary (USA)">
+		<category>Games</category>
+		<description>GameID: G5NEAF, CRC: DB8A8831</description>
+		<rom name="Namco Museum 50th Anniversary (USA).rvz" size="229705848" crc="dfd46100" md5="9114e421754dfb33a8336742d46d5223" sha1="c61e496b18b3e519db0da266652124e2a3c60a2d"/>
+	</machine>
+	<machine name="Naruto - Clash of Ninja (USA)">
+		<category>Games</category>
+		<description>GameID: GNREDA, CRC: 6853771D</description>
+		<rom name="Naruto - Clash of Ninja (USA).rvz" size="280630048" crc="275a82a4" md5="b2e60242fa0f067af49dafdf0883fe3c" sha1="2a1bf2f4c5dc8c7b7ff4d2146b05ced607930ac2"/>
+	</machine>
+	<machine name="Naruto - Clash of Ninja 2 (USA)">
+		<category>Games</category>
+		<description>GameID: GNUEDA, CRC: 81A9F11D</description>
+		<rom name="Naruto - Clash of Ninja 2 (USA).rvz" size="549684972" crc="c87380f0" md5="6d7c511376744d84b2b6f6b594c51515" sha1="a5d9dfb17603e055a8aaccfe1a787b31649035f4"/>
+	</machine>
+	<machine name="Need for Speed - Carbon (USA)">
+		<category>Games</category>
+		<description>GameID: GW5E69, CRC: FF139C62</description>
+		<rom name="Need for Speed - Carbon (USA).rvz" size="1117841736" crc="af070fe2" md5="c44d591ceed020175c0ad5ce83808e6e" sha1="8f89a03d14dbb7c4353e753c9f9103bf7c274ce0"/>
+	</machine>
+	<machine name="Need for Speed - Hot Pursuit 2 (USA)">
+		<category>Games</category>
+		<description>GameID: GH2E69, CRC: 6E9F4AFE</description>
+		<rom name="Need for Speed - Hot Pursuit 2 (USA).rvz" size="801345236" crc="6022f0df" md5="3a1a3fa02edd5c1ad5d51ac140da9061" sha1="8c2cd02bcd67843e5f3d64620933c208bc1546d9"/>
+	</machine>
+	<machine name="Need for Speed - Most Wanted (USA)">
+		<category>Games</category>
+		<description>GameID: GOWE69, CRC: D9F1D3E5</description>
+		<rom name="Need for Speed - Most Wanted (USA).rvz" size="1038448116" crc="4c56fb9e" md5="43a889caad8bd3f42c3d904366799640" sha1="e2cc6f4f8a693fccedc5ff5a38ae218835234438"/>
+	</machine>
+	<machine name="Need for Speed - Underground (USA)">
+		<category>Games</category>
+		<description>GameID: GNDE69, CRC: 01C154BA</description>
+		<rom name="Need for Speed - Underground (USA).rvz" size="847126716" crc="ade6ee75" md5="493590a8b7af1da63e9ade41e49d5d79" sha1="d26e070028b56ecd70d5b62a3090e381d6131cd6"/>
+	</machine>
+	<machine name="Need for Speed - Underground 2 (USA)">
+		<category>Games</category>
+		<description>GameID: GUGE69, CRC: 5E49B1D7</description>
+		<rom name="Need for Speed - Underground 2 (USA).rvz" size="1012277928" crc="cd1ddb33" md5="f350b9179cabbad8ceb0e12abcb4e0ac" sha1="ca590e0c92a566ada69129eb021f875638739d21"/>
+	</machine>
+	<machine name="Neighbours from Hell (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>GameID: GFHP6V, CRC: DABC41E2</description>
+		<rom name="Neighbours from Hell (Europe) (En,Fr,De,Es,It).rvz" size="534594912" crc="62a6f993" md5="4267dafed0cda9ac36d2258c3b9dab87" sha1="e62101e822c76999ba805ee4b3f4aae619ad1554"/>
+	</machine>
+	<machine name="Nick Jr. Dora the Explorer - Journey to the Purple Planet (USA)">
+		<category>Games</category>
+		<description>GameID: GQLE9G, CRC: 7C1E032A</description>
+		<rom name="Nick Jr. Dora the Explorer - Journey to the Purple Planet (USA).rvz" size="333984180" crc="868761b8" md5="d937543a9299f19df729c14f160c1c8d" sha1="3a7179e49f18dffe636a4da0f5a25e926f477f54"/>
+	</machine>
+	<machine name="Nickelodeon Avatar - The Last Airbender (USA)">
+		<category>Games</category>
+		<description>GameID: GAVE78, CRC: 31F0C2EC</description>
+		<rom name="Nickelodeon Avatar - The Last Airbender (USA).rvz" size="719371584" crc="e3270ab6" md5="e224203a53f9500318bb759fd488a41c" sha1="11848d6a26dc0022006c3e666022eaf8cf5d7969"/>
+	</machine>
+	<machine name="Nickelodeon Barnyard (USA)">
+		<category>Games</category>
+		<description>GameID: GYAE78, CRC: 6BC16C42</description>
+		<rom name="Nickelodeon Barnyard (USA).rvz" size="776684812" crc="e0d252a2" md5="e62a36e2e57fa3390f7ad7354f799c5d" sha1="4359133718220f39ed5ff73ceb1d8c2f9cdae1f9"/>
+	</machine>
+	<machine name="Nickelodeon Jimmy Neutron - Boy Genius (USA)">
+		<category>Games</category>
+		<description>GameID: GJNE78, CRC: 8988C485</description>
+		<rom name="Nickelodeon Jimmy Neutron - Boy Genius (USA).rvz" size="844006896" crc="e1ee880e" md5="a4bf7ed71e18385a61dea3ae2f35245c" sha1="11b94df5ddc847402a7ba0e9785f4783d2ee386c"/>
+	</machine>
+	<machine name="Nickelodeon Jimmy Neutron - Boy Genius - Attack of the Twonkies (USA)">
+		<category>Games</category>
+		<description>GameID: GJYE78, CRC: 76D5E3E5</description>
+		<rom name="Nickelodeon Jimmy Neutron - Boy Genius - Attack of the Twonkies (USA).rvz" size="777585208" crc="6ac3653f" md5="1e0d031d8c52fd9f8c1326218831eabc" sha1="523126b775aa57f47ab31eca245b3aace5052ad1"/>
+	</machine>
+	<machine name="Nickelodeon Party Blast (USA)">
+		<category>Games</category>
+		<description>GameID: GN9E70, CRC: E84CC90B</description>
+		<rom name="Nickelodeon Party Blast (USA).rvz" size="592475020" crc="62b06933" md5="acaedc686f2bd5c82809aed97f76b43d" sha1="8c29c91462b36d83e0832f0a664b20a809f0e154"/>
+	</machine>
+	<machine name="Nickelodeon Rocket Power - Beach Bandits (USA)">
+		<category>Games</category>
+		<description>GameID: GBQE78, CRC: 8BE53CE8</description>
+		<rom name="Nickelodeon Rocket Power - Beach Bandits (USA).rvz" size="493368020" crc="bfc81fcc" md5="cdfe19e32f77a1e1332b29af5da48884" sha1="d65e0d33a89cd8a8bdda67ef590159aa96bf5498"/>
+	</machine>
+	<machine name="Nickelodeon Rugrats - Royal Ransom (USA)">
+		<category>Games</category>
+		<description>GameID: GRRE78, CRC: 118A3804</description>
+		<rom name="Nickelodeon Rugrats - Royal Ransom (USA).rvz" size="1044504500" crc="88ba86d8" md5="e35a5677efcb7a6a6f492e4a0ae33efe" sha1="72a3d69b7c9cd988c19e5ecc5dd51097401803dc"/>
+	</machine>
+	<machine name="Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (USA)">
+		<category>Games</category>
+		<description>GameID: GQPE78, CRC: 658F36BC</description>
+		<rom name="Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (USA).rvz" size="869326704" crc="ae306c0d" md5="9362d7f3ca9bc7c5ae15907b52300742" sha1="4ef4aadfaffaa169fbb9af135b9a951e7ccfd5d2"/>
+	</machine>
+	<machine name="Nickelodeon SpongeBob SquarePants - Creature from the Krusty Krab (USA)">
+		<category>Games</category>
+		<description>GameID: GQ4E78, CRC: 85535B74</description>
+		<rom name="Nickelodeon SpongeBob SquarePants - Creature from the Krusty Krab (USA).rvz" size="771558852" crc="fcafed85" md5="0e2060750f35a1e77fa470df0682d14a" sha1="d47f8e9218d7101224f7586d0f87634f8d1ee79e"/>
+	</machine>
+	<machine name="Nickelodeon SpongeBob SquarePants - Lights, Camera, Pants! (USA)">
+		<category>Games</category>
+		<description>GameID: GQQE78, CRC: 135F55E4</description>
+		<rom name="Nickelodeon SpongeBob SquarePants - Lights, Camera, Pants! (USA).rvz" size="786117168" crc="082e70fb" md5="d644d31ec585394b90f323c0197856d4" sha1="e36ffa62f50c48536357fd0a05af23e77afb9b19"/>
+	</machine>
+	<machine name="Nickelodeon SpongeBob SquarePants - Revenge of the Flying Dutchman (USA)">
+		<category>Games</category>
+		<description>GameID: GSQE78, CRC: F2FACF74</description>
+		<rom name="Nickelodeon SpongeBob SquarePants - Revenge of the Flying Dutchman (USA).rvz" size="489157208" crc="0761b287" md5="81ca586f5c1f72effe8e046883e45317" sha1="c708fa7fa9d807ef3c623d484c8d52e1a2aa8d3e"/>
+	</machine>
+	<machine name="Nickelodeon Tak - The Great Juju Challenge (USA)">
+		<category>Games</category>
+		<description>GameID: GJWE78, CRC: 080AC649</description>
+		<rom name="Nickelodeon Tak - The Great Juju Challenge (USA).rvz" size="1270350012" crc="149f79c7" md5="0176913c9c68e3873c1e5a259c41ac40" sha1="1888cac53a5dfa1b8c83b696e1418c7ef51540ad"/>
+	</machine>
+	<machine name="Nickelodeon Tak 2 - The Staff of Dreams (USA)">
+		<category>Games</category>
+		<description>GameID: G2FE78, CRC: CA5ADA0F</description>
+		<rom name="Nickelodeon Tak 2 - The Staff of Dreams (USA).rvz" size="1170253720" crc="751420c3" md5="46076822105d02e0f73fb9ae48631deb" sha1="284bb975e815a19ff05cc7defe9d997240ad2cfc"/>
+	</machine>
+	<machine name="Nickelodeon The Adventures of Jimmy Neutron - Boy Genius - Jet Fusion (USA)">
+		<category>Games</category>
+		<description>GameID: GJFE78, CRC: 71CE8ACF</description>
+		<rom name="Nickelodeon The Adventures of Jimmy Neutron - Boy Genius - Jet Fusion (USA).rvz" size="882506112" crc="7f8c95c5" md5="82fe2e553ea3c4dda1b46058c0024675" sha1="7ff73a94fae982cf4004212daa4761addf239bcf"/>
+	</machine>
+	<machine name="Nickelodeon The SpongeBob SquarePants Movie (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GGVE78, CRC: 77BE3CC6</description>
+		<rom name="Nickelodeon The SpongeBob SquarePants Movie (USA) (Rev 1).rvz" size="689110304" crc="d4744070" md5="48e1465a9b79061ea8e9b79b5875e6a2" sha1="a8838558d9682fbcf95e616f932ed911bcd21e54"/>
+	</machine>
+	<machine name="Nicktoons - Battle for Volcano Island (USA)">
+		<category>Games</category>
+		<description>GameID: GU6E78, CRC: A66A86F7</description>
+		<rom name="Nicktoons - Battle for Volcano Island (USA).rvz" size="860339728" crc="fbfb3d31" md5="46c7680e3d0fbab0507b9cfb1f394334" sha1="e083e3a5197ac8ca31c18e737387e253af067ffe"/>
+	</machine>
+	<machine name="Nicktoons Unite! (USA)">
+		<category>Games</category>
+		<description>GameID: GNOE78, CRC: C0BDA1F6</description>
+		<rom name="Nicktoons Unite! (USA).rvz" size="522617920" crc="c545f0bc" md5="9cfebc343e0e3453488c69ab8726e67d" sha1="6ecd584948368afa98040c436b425ae2226a66df"/>
+	</machine>
+	<machine name="Odama (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GOOE01, CRC: 489F7C1A</description>
+		<rom name="Odama (USA) (Rev 1).rvz" size="95568856" crc="754f5cad" md5="2723b6622bb3ffd70698a6b96ce74360" sha1="51865eab71e9a1d6a694f9bf03f1c7916f8a3678"/>
+	</machine>
+	<machine name="Open Season (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>GameID: GOSE41, CRC: 59D09EA9</description>
+		<rom name="Open Season (USA) (En,Fr,Es).rvz" size="940012488" crc="f70f8353" md5="6f52ca44bdfc014ba2c2d122873d9275" sha1="aa5f329ece73eb0183ee288c9fc2a42b5b1725e4"/>
+	</machine>
+	<machine name="Outlaw Golf (USA)">
+		<category>Games</category>
+		<description>GameID: GOFE7L, CRC: 3054D0FD</description>
+		<rom name="Outlaw Golf (USA).rvz" size="904658252" crc="3d426432" md5="17830c3b44b76fb165b7591c1cf0a7a2" sha1="9f66cf6c40c451c73b210405ec62cc405db6a6f6"/>
+	</machine>
+	<machine name="P.N. 03 (USA)">
+		<category>Games</category>
+		<description>GameID: GPNE08, CRC: 24061157</description>
+		<rom name="P.N. 03 (USA).rvz" size="669046872" crc="1d2bb01b" md5="c9639f0879c6fcf0e9d3496b30fa4d9e" sha1="175b5f6a00da58d495411945e3f4ff73eea6c93a"/>
+	</machine>
+	<machine name="Pac-Man Fever (USA)">
+		<category>Games</category>
+		<description>GameID: GPMEAF, CRC: 2E6425F3</description>
+		<rom name="Pac-Man Fever (USA).rvz" size="1070248468" crc="2d6dee4b" md5="9bb13324674f4256c8efbc46a4535a63" sha1="ef4920b28588bd2070f5d4c5a4e1a91c83d793fd"/>
+	</machine>
+	<machine name="Pac-Man Vs. (USA)">
+		<category>Games</category>
+		<description>GameID: PRJE01, CRC: CE5317C4</description>
+		<rom name="Pac-Man Vs. (USA).rvz" size="51413776" crc="248e3e5b" md5="19c07f65211d580103887f9c59086ba6" sha1="044b84cd2f7d911cdff9c65e21091b5ba1d7803c"/>
+	</machine>
+	<machine name="Pac-Man World 2 (USA)">
+		<category>Games</category>
+		<description>GameID: GP2EAF, CRC: 3E95583A</description>
+		<rom name="Pac-Man World 2 (USA).rvz" size="836882996" crc="593cb867" md5="91d01d6a7b60fde99b7baf42e5be9f0f" sha1="081351dd63a84ba6c7524bc679d85fb0ec181086"/>
+	</machine>
+	<machine name="Pac-Man World 3 (USA)">
+		<category>Games</category>
+		<description>GameID: GP8EAF, CRC: 694B5E2D</description>
+		<rom name="Pac-Man World 3 (USA).rvz" size="1049550312" crc="79199d76" md5="1f653664fd8e566cab9210ef98307581" sha1="5cd1c680b0fec4366bf3b35de898e3495d3ad7c5"/>
+	</machine>
+	<machine name="Pac-Man World Rally (USA)">
+		<category>Games</category>
+		<description>GameID: G89EAF, CRC: C2E521A7</description>
+		<rom name="Pac-Man World Rally (USA).rvz" size="407917960" crc="261e56ae" md5="f275c9ad7db13dc043467b3d3e428655" sha1="5393c4319a20c8d219f335d0c559007886d68a6a"/>
+	</machine>
+	<machine name="Paper Mario - The Thousand-Year Door (USA)">
+		<category>Games</category>
+		<description>GameID: G8ME01, CRC: 5A682160</description>
+		<rom name="Paper Mario - The Thousand-Year Door (USA).rvz" size="330493036" crc="0477b085" md5="e30d573cf8a53f22c6c5bb355c0cfd61" sha1="1fbb7eaa7b4188c96f1019bac43439c972ba6758"/>
+	</machine>
+	<machine name="Peter Jackson's King Kong - The Official Game of the Movie (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>GameID: GWKE41, CRC: EEFFA5EB</description>
+		<rom name="Peter Jackson's King Kong - The Official Game of the Movie (USA) (En,Fr,Es).rvz" size="1267088720" crc="7ff684be" md5="dd2922b156a0121cbe62f1ce01a0add3" sha1="9d9102cf06f2da64015c255b58a2c781907dd38f"/>
+	</machine>
+	<machine name="Phantasy Star Online Episode I &amp; II Plus (USA) (En,Ja,Fr,De,Es) (Rev 2)">
+		<category>Games</category>
+		<description>GameID: GPOE8P, CRC: CDC9BC9A</description>
+		<rom name="Phantasy Star Online Episode I &amp; II Plus (USA) (En,Ja,Fr,De,Es) (Rev 2).rvz" size="1088899048" crc="a6325905" md5="5ec15c2ee372ce46de18637849a7a92e" sha1="0dcedebec63347cbcc0d06478cfad431656d9ea8"/>
+	</machine>
+	<machine name="Phantasy Star Online Episode III - C.A.R.D. Revolution (USA) (En,Ja)">
+		<category>Games</category>
+		<description>GameID: GPSE8P, CRC: 45F216FE</description>
+		<rom name="Phantasy Star Online Episode III - C.A.R.D. Revolution (USA) (En,Ja).rvz" size="1078569264" crc="4a6350d1" md5="a832ced1508d6df2307f087b2ceacf66" sha1="f90136705301b5f454e10a41e5fc52f186d7a992"/>
+	</machine>
+	<machine name="Pikmin (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GPIE01, CRC: 5C680247</description>
+		<rom name="Pikmin (USA) (Rev 1).rvz" size="555216756" crc="0199d65c" md5="7c5804e5d19fcad076c271568827ce5f" sha1="fd5210f30055a7d80046dab2d59ee8e21630d23f"/>
+	</machine>
+	<machine name="Pikmin 2 (USA)">
+		<category>Games</category>
+		<description>GameID: GPVE01, CRC: 3541416B</description>
+		<rom name="Pikmin 2 (USA).rvz" size="910867284" crc="27b6a8a9" md5="c3472385920628150546a2ce544c131f" sha1="47b37f23dfedea03b18d1ba76b2ec90ad6080b82"/>
+	</machine>
+	<machine name="Pinball Hall of Fame - The Gottlieb Collection (USA)">
+		<category>Games</category>
+		<description>GameID: GHFE4Z, CRC: AA588203</description>
+		<rom name="Pinball Hall of Fame - The Gottlieb Collection (USA).rvz" size="329881236" crc="8fa07052" md5="27cbc60d6178d5a9cfcbbe467566d51a" sha1="e5c658799ac8a651b059cc8ce5c96cb84741e84e"/>
+	</machine>
+	<machine name="Pitfall - The Lost Expedition (USA)">
+		<category>Games</category>
+		<description>GameID: GPHE52, CRC: A692D9D0</description>
+		<rom name="Pitfall - The Lost Expedition (USA).rvz" size="774873720" crc="10cb20d2" md5="fe0156223dca199597afea0b49cf9bb6" sha1="43ef729b9f5c19ce616031c7d90cff276a3e9d19"/>
+	</machine>
+	<machine name="Pokemon Box - Ruby &amp; Sapphire (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GPXE01, CRC: CF0B538F</description>
+		<rom name="Pokemon Box - Ruby &amp; Sapphire (USA) (Rev 1).rvz" size="28035000" crc="6f9235e1" md5="50f6d90524446208179e15f9f294e3b2" sha1="746f245bd54548963db03cafa4d37ab95e79dbaf"/>
+	</machine>
+	<machine name="Pokemon Channel (USA)">
+		<category>Games</category>
+		<description>GameID: GPAE01, CRC: 5D1BB3F9</description>
+		<rom name="Pokemon Channel (USA).rvz" size="922777636" crc="1232b018" md5="566fba70692eaf7782f90b63ae2b3cfe" sha1="da53dea11d21d886dfd350b0dd6a63859e497f39"/>
+	</machine>
+	<machine name="Pokemon Colosseum (USA)">
+		<category>Games</category>
+		<description>GameID: GC6E01, CRC: 0704554F</description>
+		<rom name="Pokemon Colosseum (USA).rvz" size="576136444" crc="a88bbbdf" md5="f100baa81eb81cc0751cdf8d6cf0fd0f" sha1="997482ae7bd07858d93673dfc2611fcc6b3859f1"/>
+	</machine>
+	<machine name="Pokemon XD - Gale of Darkness (USA)">
+		<category>Games</category>
+		<description>GameID: GXXE01, CRC: C0F69D18</description>
+		<rom name="Pokemon XD - Gale of Darkness (USA).rvz" size="960244616" crc="b8d9afb2" md5="1cb3d5a91ad7c9c3ae10680aabe22ab8" sha1="061dcf1c19928e7dfb0a7edf31cf427f37ede823"/>
+	</machine>
+	<machine name="Polar Express, The (USA)">
+		<category>Games</category>
+		<description>GameID: GP3E78, CRC: 347E9DA2</description>
+		<rom name="Polar Express, The (USA).rvz" size="852539300" crc="dc811b9b" md5="2d0223824218f29f835616e5e4740abd" sha1="b55a3c70bb78467b219a6d022aba0cd938c22d27"/>
+	</machine>
+	<machine name="Pool Paradise (USA)">
+		<category>Games</category>
+		<description>GameID: GPRE7U, CRC: 53BB0B9C</description>
+		<rom name="Pool Paradise (USA).rvz" size="210308964" crc="8d7d6acd" md5="43b34124b5523cb15469490450bfd970" sha1="f3dce7637a54d06e5d0237c502135f14f4571dfa"/>
+	</machine>
+	<machine name="Power Rangers - Dino Thunder (USA)">
+		<category>Games</category>
+		<description>GameID: GRUE78, CRC: E8DAC398</description>
+		<rom name="Power Rangers - Dino Thunder (USA).rvz" size="409181964" crc="41fb53fa" md5="8b115995214a5e74d894602c7cc9c94b" sha1="dca6a7d7095f88671375723c014e643b90164183"/>
+	</machine>
+	<machine name="Powerpuff Girls, The - Relish Rampage - Pickled Edition (USA)">
+		<category>Games</category>
+		<description>GameID: GPQE6L, CRC: BF42CBFA</description>
+		<rom name="Powerpuff Girls, The - Relish Rampage - Pickled Edition (USA).rvz" size="1112078628" crc="6f865d10" md5="80de5a75a4bffc8dedfc1e8ecf20f02b" sha1="b199c93cce05f09ad1bb6273db039ae13b556bff"/>
+	</machine>
+	<machine name="Prince of Persia - The Sands of Time (USA) (En,Fr,Es) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GPTE41, CRC: 67C8C2A5</description>
+		<rom name="Prince of Persia - The Sands of Time (USA) (En,Fr,Es) (Rev 1).rvz" size="1303951920" crc="e38e8039" md5="a2a8970d5a6c4615c935436827764076" sha1="ef449d1f6a9b59250b03c6711ab10d2a5cfc18c4"/>
+	</machine>
+	<machine name="Prince of Persia - The Two Thrones (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>GameID: GKME41, CRC: 22DEB1F0</description>
+		<rom name="Prince of Persia - The Two Thrones (USA) (En,Fr,Es).rvz" size="951480336" crc="4098837a" md5="24b012bcdf9e634eeeeca075f68c24b3" sha1="b07492dd2fe8e9387c003702d507cbc9e8f9f048"/>
+	</machine>
+	<machine name="Prince of Persia - Warrior Within (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>GameID: G2OE41, CRC: 546484D5</description>
+		<rom name="Prince of Persia - Warrior Within (USA) (En,Fr,Es).rvz" size="1252400900" crc="f10f105c" md5="a180c66d35bbbe8257ec928459079a26" sha1="6060f694fb11b19929eb6cae7741e9c2d7af9f49"/>
+	</machine>
+	<machine name="Pro Rally 2002 (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>GameID: GRLE41, CRC: 9D11E4F0</description>
+		<rom name="Pro Rally 2002 (USA) (En,Fr,Es).rvz" size="562630380" crc="4dcaf10d" md5="7f267dcdd1e0ad5415453489228a58af" sha1="f322ffc92451e1993b2b53f7b904a1bcea11927c"/>
+	</machine>
+	<machine name="Puyo Pop Fever (USA) (En,Ja,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>GameID: GPUE8P, CRC: E3B99E37</description>
+		<rom name="Puyo Pop Fever (USA) (En,Ja,Fr,De,Es,It).rvz" size="374263352" crc="38fc8d10" md5="fe82f909ed3876a68378f9d78ee5ac62" sha1="c6f6e9f52c1e67db4f769fa339c00cb0c55a9863"/>
+	</machine>
+	<machine name="R-Racing Evolution (USA)">
+		<category>Games</category>
+		<description>GameID: GRJEAF, CRC: 059E8CCE</description>
+		<rom name="R-Racing Evolution (USA).rvz" size="1141404496" crc="0829ecc7" md5="a1d8958e81d88263a0e06160b152accf" sha1="be0b980369b58da3bc8fa544b6e751b1cf7903aa"/>
+	</machine>
+	<machine name="Rally Championship (USA)">
+		<category>Games</category>
+		<description>GameID: GRAE5Z, CRC: DF1F2AFA</description>
+		<rom name="Rally Championship (USA).rvz" size="456683664" crc="edac510f" md5="03f3d5eb8839497e64461f8ccc34c33d" sha1="d7544d76826b177fb1af9b3e61c8450b53569fd0"/>
+	</machine>
+	<machine name="Rampage - Total Destruction (USA)">
+		<category>Games</category>
+		<description>GameID: GXNE5D, CRC: 98C550D1</description>
+		<rom name="Rampage - Total Destruction (USA).rvz" size="369234216" crc="d1f65e48" md5="a0966baa2a4e446a4a5a7bcf9427c082" sha1="12937bb7b019cb0e978a1781379a91a901751381"/>
+	</machine>
+	<machine name="Rave Master (USA)">
+		<category>Games</category>
+		<description>GameID: GRVEA4, CRC: FA90D92A</description>
+		<rom name="Rave Master (USA).rvz" size="331309324" crc="29328cb7" md5="84bf31ef8c509be0cf98db6a69acc6d8" sha1="19e5ae15222df925f2b6a2c2e8c64a9f140fe860"/>
+	</machine>
+	<machine name="Rayman 3 - Hoodlum Havoc (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>GameID: GRHE41, CRC: 913D67A3</description>
+		<rom name="Rayman 3 - Hoodlum Havoc (USA) (En,Fr,De,Es,It).rvz" size="1133842512" crc="58403c16" md5="b9af868e384985bca00ba981771aa93d" sha1="9e9cfd2b6a6b1516685d8341285a8fd83b773506"/>
+	</machine>
+	<machine name="Rayman Arena (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>GameID: GRYE41, CRC: E0F783ED</description>
+		<rom name="Rayman Arena (USA) (En,Fr,Es).rvz" size="971036580" crc="fe0aa049" md5="18dd97fc8ca75d339c2277e7785b9b11" sha1="11deb03278bf01a3eebe4c15ad62c759a428d33a"/>
+	</machine>
+	<machine name="Red Faction II (USA)">
+		<category>Games</category>
+		<description>GameID: GRFE78, CRC: 33C916C8</description>
+		<rom name="Red Faction II (USA).rvz" size="959396412" crc="ba2087b4" md5="e793549fa113be1a8773a5c161ea5ca6" sha1="9f8f0b81d583e08effb8d25ae524f057e89a2dab"/>
+	</machine>
+	<machine name="RedCard 20-03 (USA)">
+		<category>Games</category>
+		<description>GameID: GR3E5D, CRC: F07387D3</description>
+		<rom name="RedCard 20-03 (USA).rvz" size="1131538884" crc="02b57eb4" md5="6eeaa3a4811ea00a7c1cb522acf07486" sha1="9a1785f78801f59912aab2b6134853beb6f46da8"/>
+	</machine>
+	<machine name="Reign of Fire (USA)">
+		<category>Games</category>
+		<description>GameID: GR9E6L, CRC: D4E87138</description>
+		<rom name="Reign of Fire (USA).rvz" size="776067560" crc="a7b23e88" md5="332b4f9f05888c0b249659d4a9fb7860" sha1="4667060b006b5de2a411d0a00481ed0c185999d9"/>
+	</machine>
+	<machine name="Resident Evil (USA) (Disc 1)">
+		<category>Games</category>
+		<description>GameID: GBIE08, CRC: 24519740</description>
+		<rom name="Resident Evil (USA) (Disc 1).rvz" size="918520900" crc="104a9433" md5="69fe27c55ba7870e233e3f118d472e37" sha1="3526855768e1e38a8bef4ef52795042b6d30c09e"/>
+	</machine>
+	<machine name="Resident Evil (USA) (Disc 2)">
+		<category>Games</category>
+		<description>GameID: GBIE08, CRC: 8E5597C1</description>
+		<rom name="Resident Evil (USA) (Disc 2).rvz" size="1057654700" crc="0aa27126" md5="8c163f47d72f52b329250a5adabf3aed" sha1="7cb4e9cffeb55a458ff7212096a8e1452262298e"/>
+	</machine>
+	<machine name="Resident Evil - Code - Veronica X (USA) (Disc 1)">
+		<category>Games</category>
+		<description>GameID: GCDE08, CRC: 4BFE0A5C</description>
+		<rom name="Resident Evil - Code - Veronica X (USA) (Disc 1).rvz" size="874394344" crc="c4c9cae3" md5="d5a58560a4756d7d41e98a55111aa3bf" sha1="b1b55db94e6d004674a0e6c9a70529767fb6d128"/>
+	</machine>
+	<machine name="Resident Evil - Code - Veronica X (USA) (Disc 2)">
+		<category>Games</category>
+		<description>GameID: GCDE08, CRC: 17270B07</description>
+		<rom name="Resident Evil - Code - Veronica X (USA) (Disc 2).rvz" size="1047813552" crc="b4558cb2" md5="60ce98800b495daa99f446728a2bc8c6" sha1="3a6fc706c959d2cb436601fc318bca7b8214887e"/>
+	</machine>
+	<machine name="Resident Evil 2 (USA)">
+		<category>Games</category>
+		<description>GameID: GHAE08, CRC: B93A8A1F</description>
+		<rom name="Resident Evil 2 (USA).rvz" size="1143898024" crc="5d21a4bb" md5="c35a76387c22f1c991cd734d25257c8b" sha1="c3d34e76abb964f81c131526ac69417d22b645cc"/>
+	</machine>
+	<machine name="Resident Evil 3 - Nemesis (USA)">
+		<category>Games</category>
+		<description>GameID: GLEE08, CRC: 075FADB6</description>
+		<rom name="Resident Evil 3 - Nemesis (USA).rvz" size="793172512" crc="5352d880" md5="6af1a948c9c79c2b2e162310fde6c94a" sha1="fd0c9601e9d63e96441add34abae75a0ee0feb78"/>
+	</machine>
+	<machine name="Resident Evil 4 (USA) (Disc 1)">
+		<category>Games</category>
+		<description>GameID: G4BE08, CRC: F5C51B40</description>
+		<rom name="Resident Evil 4 (USA) (Disc 1).rvz" size="1150232964" crc="3a45636e" md5="6d7edbe694935fb7d5055b2bebec4be1" sha1="a972ece00df6c7784f15fa00046951ca761ed358"/>
+	</machine>
+	<machine name="Resident Evil 4 (USA) (Disc 2)">
+		<category>Games</category>
+		<description>GameID: G4BE08, CRC: 6C83A5FF</description>
+		<rom name="Resident Evil 4 (USA) (Disc 2).rvz" size="1043508056" crc="c154b01f" md5="57a94ac5570f5f11b93d3e677eedeafa" sha1="13d3e1a03c70c81132fffc1bd91cc24c0912e341"/>
+	</machine>
+	<machine name="Resident Evil Zero (USA) (Disc 1)">
+		<category>Games</category>
+		<description>GameID: GBZE08, CRC: BCC348BF</description>
+		<rom name="Resident Evil Zero (USA) (Disc 1).rvz" size="1240628800" crc="f5a88d74" md5="1f0a1216033e3c777259d7b8a10c2090" sha1="15b28b62064e115faab9345e55290befd11817de"/>
+	</machine>
+	<machine name="Resident Evil Zero (USA) (Disc 2)">
+		<category>Games</category>
+		<description>GameID: GBZE08, CRC: 4DAF0830</description>
+		<rom name="Resident Evil Zero (USA) (Disc 2).rvz" size="1193038088" crc="9eb08bf9" md5="6e553030db7ba9c6af9c891f93138ea1" sha1="5e6f4ca8b5f9a25b7b94c9db03e37358942f523c"/>
+	</machine>
+	<machine name="Ribbit King (USA) (En,Es)">
+		<category>Games</category>
+		<description>GameID: GKREB2, CRC: E46D465D</description>
+		<rom name="Ribbit King (USA) (En,Es).rvz" size="1116404988" crc="f88c2b35" md5="cf6f00211e3d66a2c9d097b2f9729d4b" sha1="d400d1eba4bc6e4f96236fc110cff3fac85ba5ca"/>
+	</machine>
+	<machine name="Road Trip - The Arcade Edition (USA)">
+		<category>Games</category>
+		<description>GameID: GROE5Z, CRC: 550D6FE7</description>
+		<rom name="Road Trip - The Arcade Edition (USA).rvz" size="36623836" crc="1d08a4be" md5="b8462634e5184b1a5b84232e80b4b6b8" sha1="0165c610a30cc0f6956034520b3cbcfb156cf79f"/>
+	</machine>
+	<machine name="RoadKill (USA)">
+		<category>Games</category>
+		<description>GameID: GOCE5D, CRC: 097F4736</description>
+		<rom name="RoadKill (USA).rvz" size="1293503644" crc="5a1f377b" md5="4487b9b9bb445e8ba80501102508ad98" sha1="490c1ed5474d0505da0c8db1b87f369ec76a0c70"/>
+	</machine>
+	<machine name="Robotech - Battlecry (USA)">
+		<category>Games</category>
+		<description>GameID: GRBE6S, CRC: 6EE515DC</description>
+		<rom name="Robotech - Battlecry (USA).rvz" size="1207400504" crc="3b3f5924" md5="0ad4ee0cead2c4e2628185dc07e02666" sha1="6b3c82a7705485f52f2613b1812958b1bd82aa68"/>
+	</machine>
+	<machine name="Robots (USA)">
+		<category>Games</category>
+		<description>GameID: GZQE7D, CRC: F978CA04</description>
+		<rom name="Robots (USA).rvz" size="790094004" crc="9b3540ad" md5="b9833e80c8dd8757338f05558af01907" sha1="b6f367f96252e1c36101f031c591af445406fc3c"/>
+	</machine>
+	<machine name="Rocky (USA)">
+		<category>Games</category>
+		<description>GameID: GRKE41, CRC: F7DF84B4</description>
+		<rom name="Rocky (USA).rvz" size="815301552" crc="0a1bae01" md5="1ee4b6d0a6b4f2b43b3317d70fd8b3d0" sha1="83f43f717c17c4cced8c09ee38cfae083b8e6658"/>
+	</machine>
+	<machine name="Rogue Ops (USA)">
+		<category>Games</category>
+		<description>GameID: GP9E7F, CRC: 2913AEE5</description>
+		<rom name="Rogue Ops (USA).rvz" size="1116083424" crc="a863c2db" md5="c6b0f44a3fb8bbf5133f5a6d0008930c" sha1="41910f1d4e2425a7dd9cf8ef51205f0a77e124a7"/>
+	</machine>
+	<machine name="SRS - Street Racing Syndicate (USA)">
+		<category>Games</category>
+		<description>GameID: GCSEAF, CRC: 718F9112</description>
+		<rom name="SRS - Street Racing Syndicate (USA).rvz" size="1074553040" crc="68a83755" md5="c11d6ba589bb81b91de26e90ec9b24cf" sha1="fb4bf8390d903ef9bfbb9b258a5f4787c39b7662"/>
+	</machine>
+	<machine name="SSX 3 (USA)">
+		<category>Games</category>
+		<description>GameID: GXBE69, CRC: BD94FD62</description>
+		<rom name="SSX 3 (USA).rvz" size="1043189072" crc="d7984ac4" md5="bf6b403c3eb0d2693da3e7dcc68234dd" sha1="ac833a7b7a148661c4d776e24c497f1ba534a5f8"/>
+	</machine>
+	<machine name="SSX Tricky (USA)">
+		<category>Games</category>
+		<description>GameID: GSTE69, CRC: 753173C7</description>
+		<rom name="SSX Tricky (USA).rvz" size="800692148" crc="2bf91f85" md5="368c2cdd93398fe0511421f5f700c6f3" sha1="35197221b0b1a7944a8c1b523626d8b6ebf55fc5"/>
+	</machine>
+	<machine name="SSX on Tour (USA)">
+		<category>Games</category>
+		<description>GameID: GXOE69, CRC: 4E61B495</description>
+		<rom name="SSX on Tour (USA).rvz" size="1028178488" crc="764d80b4" md5="8733e009308b03e667d68f72e720eead" sha1="afa9286390ae1b816477c6f674b577dc03148216"/>
+	</machine>
+	<machine name="SX Superstar (USA)">
+		<category>Games</category>
+		<description>GameID: GS3E51, CRC: BE6371CB</description>
+		<rom name="SX Superstar (USA).rvz" size="537070096" crc="debb593a" md5="48006e83d97fd5657f0977a5522ed457" sha1="60db7ee1ccecef3bcf42cc9ba5cadd38c6992cda"/>
+	</machine>
+	<machine name="Samurai Jack - The Shadow of Aku (USA)">
+		<category>Games</category>
+		<description>GameID: GJCE8P, CRC: 7DAC3582</description>
+		<rom name="Samurai Jack - The Shadow of Aku (USA).rvz" size="459698932" crc="1bd6a2cb" md5="f9c7cca06448fe41f8abf6759f00f3e8" sha1="93d2beed3ecdb31d10f919c67d1ac09ee1f805b3"/>
+	</machine>
+	<machine name="Scaler (USA) (En,Fr)">
+		<category>Games</category>
+		<description>GameID: GKUE9G, CRC: 80A156C2</description>
+		<rom name="Scaler (USA) (En,Fr).rvz" size="897860972" crc="2661250f" md5="79ed39d84bb64045ad5d37b29ac829c1" sha1="7217dea2118fcc40ee00cf4e35a0e66c98d43612"/>
+	</machine>
+	<machine name="Scooby-Doo! Mystery Mayhem (USA)">
+		<category>Games</category>
+		<description>GameID: GC3E78, CRC: FBEC80E6</description>
+		<rom name="Scooby-Doo! Mystery Mayhem (USA).rvz" size="912076324" crc="f53096df" md5="516bfa18dd2b0dd8212bef83c7b7f2c0" sha1="682fa764f17e8917f4d25589c84c10d9fc9d2208"/>
+	</machine>
+	<machine name="Scooby-Doo! Night of 100 Frights (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GIHE78, CRC: B29A2A47</description>
+		<rom name="Scooby-Doo! Night of 100 Frights (USA) (Rev 1).rvz" size="859414152" crc="ebdf18ee" md5="ffd359084c81499a47678e6abf80b596" sha1="c357b087ed1fdf7e9737f42115b2506e47b74758"/>
+	</machine>
+	<machine name="Scooby-Doo! Unmasked (USA) (En,Fr)">
+		<category>Games</category>
+		<description>GameID: G5DE78, CRC: 7A5A6F45</description>
+		<rom name="Scooby-Doo! Unmasked (USA) (En,Fr).rvz" size="555588508" crc="42f517cb" md5="1508128f54a9002ba3906f1065ca9289" sha1="c7f0dcae43a40c520d256b229ec1fc5f0fb38d70"/>
+	</machine>
+	<machine name="Scorpion King, The - Rise of the Akkadian (USA)">
+		<category>Games</category>
+		<description>GameID: GSKE7D, CRC: 9E55240C</description>
+		<rom name="Scorpion King, The - Rise of the Akkadian (USA).rvz" size="598860900" crc="917b7140" md5="63341e8dc5b6b9035905dd069b201a50" sha1="b2d0e10e287c563a578b5d77a9c97eb9ce42a0c1"/>
+	</machine>
+	<machine name="SeaWorld Adventure Parks - Shamu's Deep Sea Adventures (USA)">
+		<category>Games</category>
+		<description>GameID: GJZE52, CRC: BACF314C</description>
+		<rom name="SeaWorld Adventure Parks - Shamu's Deep Sea Adventures (USA).rvz" size="673163736" crc="35fd4e52" md5="e0dcfc09fed351cc8b2438101dc78698" sha1="04287b47bba94158db33a2b4e5930062d49e0782"/>
+	</machine>
+	<machine name="Second Sight (USA)">
+		<category>Games</category>
+		<description>GameID: GISE36, CRC: FE31F0BF</description>
+		<rom name="Second Sight (USA).rvz" size="998773776" crc="c785afb8" md5="e96293df1f3298e3dec8388e4c55a363" sha1="2aa80df2063f91d44b4118d96a6f615fdbe6c92a"/>
+	</machine>
+	<machine name="Sega Soccer Slam (USA)">
+		<category>Games</category>
+		<description>GameID: GSSE8P, CRC: 887F3876</description>
+		<rom name="Sega Soccer Slam (USA).rvz" size="443632764" crc="9f7cfd48" md5="c1f22e7841bd0d1f51888a65a23fc18b" sha1="b0406df2a42e52670d891f6eec27fd5fb5e5863a"/>
+	</machine>
+	<machine name="Serious Sam - Next Encounter (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: G3BE9G, CRC: 2CAEC8B9</description>
+		<rom name="Serious Sam - Next Encounter (USA) (Rev 1).rvz" size="948860740" crc="2fe1cac7" md5="6fb3d2bdf164e1f8070bbd2b5f46fe13" sha1="b23f06b66a747b5e4559d797815fcc27a9af106f"/>
+	</machine>
+	<machine name="Shadow the Hedgehog (USA) (En,Ja,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>GameID: GUPE8P, CRC: F582CF1E</description>
+		<rom name="Shadow the Hedgehog (USA) (En,Ja,Fr,De,Es,It).rvz" size="1154685924" crc="67092f42" md5="1a9d297d4e24d1ed17ba2e3e37d30560" sha1="aa930966e691cda648fa9d98d9f78a0b2d1ffa4a"/>
+	</machine>
+	<machine name="Shonen Jump's One Piece - Grand Adventure (USA)">
+		<category>Games</category>
+		<description>GameID: GOQEAF, CRC: AF0FBD81</description>
+		<rom name="Shonen Jump's One Piece - Grand Adventure (USA).rvz" size="1042119748" crc="ac4e758d" md5="e39c9c38b4f93a2a57846286da32ccd5" sha1="16c9b6a0de0c35cccdb7b5d2bb57a6c16b0b3119"/>
+	</machine>
+	<machine name="Shonen Jump's One Piece - Grand Battle (USA)">
+		<category>Games</category>
+		<description>GameID: GOPEB2, CRC: 08B36FE0</description>
+		<rom name="Shonen Jump's One Piece - Grand Battle (USA).rvz" size="811447992" crc="2bceb63c" md5="7de57c552a0ceba5d2cac8230575d4a7" sha1="5357c2a5f05d622b327458b97eb56a5f95cb8623"/>
+	</machine>
+	<machine name="Shonen Jump's One Piece - Pirates' Carnival (USA)">
+		<category>Games</category>
+		<description>GameID: GIPEAF, CRC: 83911F16</description>
+		<rom name="Shonen Jump's One Piece - Pirates' Carnival (USA).rvz" size="615997256" crc="1daf8118" md5="c80b61b2b13b2f6c227835dfda289301" sha1="da917b761b5b265f7b758c9831cb5cdd93ed8845"/>
+	</machine>
+	<machine name="Shrek 2 (USA)">
+		<category>Games</category>
+		<description>GameID: G3RE52, CRC: D1B56156</description>
+		<rom name="Shrek 2 (USA).rvz" size="996534424" crc="ca0b9bec" md5="784f75fea5ad7746c299b4064b4ab794" sha1="dba01b72788c7619e3e37966d51a97cd86aa1edd"/>
+	</machine>
+	<machine name="Shrek Extra Large (USA)">
+		<category>Games</category>
+		<description>GameID: GS9E6S, CRC: F2B6E2C1</description>
+		<rom name="Shrek Extra Large (USA).rvz" size="291233076" crc="ca767cc4" md5="1d5bcb7c52f2d2df33b8241151cf7245" sha1="9b5a03896b5a802083080dd4c9fe2a3a3b0a24b1"/>
+	</machine>
+	<machine name="Shrek Super Party (USA)">
+		<category>Games</category>
+		<description>GameID: GSYE6S, CRC: 2C34401A</description>
+		<rom name="Shrek Super Party (USA).rvz" size="523972768" crc="dca3a834" md5="63c4fcda01e87b8b7eff327f0561a8b8" sha1="07c0867fd33d7ba38978e0143f3fb10f8705621d"/>
+	</machine>
+	<machine name="Simpsons, The - Hit &amp; Run (USA)">
+		<category>Games</category>
+		<description>GameID: GHQE7D, CRC: DA7CE8DF</description>
+		<rom name="Simpsons, The - Hit &amp; Run (USA).rvz" size="691458632" crc="3d5b4ce7" md5="b525ef3def058423bf06be309532a9a1" sha1="367f43df4801589abbd308ac8276096775ebe6aa"/>
+	</machine>
+	<machine name="Simpsons, The - Road Rage (USA)">
+		<category>Games</category>
+		<description>GameID: GSPE69, CRC: 18DD3B5A</description>
+		<rom name="Simpsons, The - Road Rage (USA).rvz" size="591019492" crc="8c609b4a" md5="73bddce1f432dc31e570e57631653316" sha1="276fd4cd6002ceb6c679d618c83f11661213d3db"/>
+	</machine>
+	<machine name="Sims 2, The (USA)">
+		<category>Games</category>
+		<description>GameID: G4ZE69, CRC: 44DD3B94</description>
+		<rom name="Sims 2, The (USA).rvz" size="879023028" crc="ba5fc72b" md5="23c0ee2b6d93468b22787b645f4b1752" sha1="18f31e29f2e55c2749a4e069d92f20428103e285"/>
+	</machine>
+	<machine name="Sims 2, The - Pets (USA)">
+		<category>Games</category>
+		<description>GameID: G4OE69, CRC: BE2B127C</description>
+		<rom name="Sims 2, The - Pets (USA).rvz" size="657160124" crc="f84517dd" md5="45c5ac090dbd3f8ee439733502bde725" sha1="4300b6e9ab0b06f167ad508c502cea2c74934d46"/>
+	</machine>
+	<machine name="Sims, The (USA)">
+		<category>Games</category>
+		<description>GameID: GCIE69, CRC: 019589C8</description>
+		<rom name="Sims, The (USA).rvz" size="364528988" crc="503f76d5" md5="4f6d72727ea435cef00b64fe0a78429b" sha1="c3319c19fc5bbd8257d73222ec1f1adf06464cb3"/>
+	</machine>
+	<machine name="Sims, The - Bustin' Out (USA)">
+		<category>Games</category>
+		<description>GameID: G4ME69, CRC: 6939BBC4</description>
+		<rom name="Sims, The - Bustin' Out (USA).rvz" size="1112535708" crc="e023eb6a" md5="b5893b4394735b66e423fcff76540ffe" sha1="487fae29fd28268ff15e6457c16548edb8909f27"/>
+	</machine>
+	<machine name="Skies of Arcadia - Legends (USA)">
+		<category>Games</category>
+		<description>GameID: GEAE8P, CRC: 23E347B6</description>
+		<rom name="Skies of Arcadia - Legends (USA).rvz" size="1285948056" crc="88456ad0" md5="917b4ffb2c868fc93f9e7889d70064e1" sha1="357c4a84e87c92ed5b09eb6e822bbee83d9b4c7f"/>
+	</machine>
+	<machine name="Smashing Drive (USA)">
+		<category>Games</category>
+		<description>GameID: GSDEAF, CRC: A25ABF5F</description>
+		<rom name="Smashing Drive (USA).rvz" size="109114152" crc="5b0448cf" md5="b78988107d31d7900d8d1f4201de0564" sha1="640686825eb1053932f79a2d33802cfba51933f2"/>
+	</machine>
+	<machine name="Smuggler's Run - Warzones (USA)">
+		<category>Games</category>
+		<description>GameID: GSRE7S, CRC: F2E1766B</description>
+		<rom name="Smuggler's Run - Warzones (USA).rvz" size="1228480720" crc="fef72a38" md5="18906a80d98d88d494a98df9fd7b379f" sha1="4dc679eabcd121a5a6b5dd314ae96a286242ad52"/>
+	</machine>
+	<machine name="Sonic Adventure 2 - Battle (USA) (En,Ja,Fr,De,Es)">
+		<category>Games</category>
+		<description>GameID: GSNE8P, CRC: 024F4F8F</description>
+		<rom name="Sonic Adventure 2 - Battle (USA) (En,Ja,Fr,De,Es).rvz" size="1151284868" crc="3d06681d" md5="48a8b38c44c21561e3eebcbb25f21f52" sha1="17696f7f7e5fbd9defd206c445f8f00d410e385b"/>
+	</machine>
+	<machine name="Sonic Adventure DX - Director's Cut (USA) (En,Ja,Fr,De,Es)">
+		<category>Games</category>
+		<description>GameID: GXSE8P, CRC: F4E4E141</description>
+		<rom name="Sonic Adventure DX - Director's Cut (USA) (En,Ja,Fr,De,Es).rvz" size="1159578868" crc="1c1421d0" md5="4fe2d5a6657e99c5e1b07e99004c6fc3" sha1="73297fb9392ad67fc65a5f7b6acad8350a9b8fa7"/>
+	</machine>
+	<machine name="Sonic Gems Collection (USA)">
+		<category>Games</category>
+		<description>GameID: G2XE8P, CRC: FFF7EC04</description>
+		<rom name="Sonic Gems Collection (USA).rvz" size="1161595896" crc="9329ef5c" md5="3fb8f39623063206b43a5aad32724af0" sha1="a41eafa6b7b139c83c26e62a7c6d82d54921ac33"/>
+	</machine>
+	<machine name="Sonic Heroes (USA) (En,Ja,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>GameID: G9SE8P, CRC: 48CE3C79</description>
+		<rom name="Sonic Heroes (USA) (En,Ja,Fr,De,Es,It).rvz" size="1002178444" crc="42bd7e21" md5="c28a2a0db576d3615bbb0bd97292d45b" sha1="d89ec545dc1f3227b886f99a6e56edb47f765090"/>
+	</machine>
+	<machine name="Sonic Mega Collection (USA)">
+		<category>Games</category>
+		<description>GameID: GSOE8P, CRC: 01B52739</description>
+		<rom name="Sonic Mega Collection (USA).rvz" size="828883928" crc="61a49bbf" md5="da0f1457dabc56d208cce0d192d89283" sha1="3789aafae2972d4abdcb08caf12e53bfffdadbef"/>
+	</machine>
+	<machine name="Sonic Riders (USA) (En,Ja,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>GameID: GXEE8P, CRC: 1DABE6EE</description>
+		<rom name="Sonic Riders (USA) (En,Ja,Fr,De,Es,It).rvz" size="1240418416" crc="503056db" md5="13a78c5fc2c515aa7d670331ecf47684" sha1="8b2a7ad956812d278ff9df33e1840f261e6b14d4"/>
+	</machine>
+	<machine name="Soulcalibur II (USA)">
+		<category>Games</category>
+		<description>GameID: GRSEAF, CRC: 89779810</description>
+		<rom name="Soulcalibur II (USA).rvz" size="780152900" crc="d87e75ea" md5="b5a844204bf5fe61050f0a647fdc4b37" sha1="229845dd551a26238ea4fbe4a0cac8fc28f4440f"/>
+	</machine>
+	<machine name="Space Raiders (USA)">
+		<category>Games</category>
+		<description>GameID: GIJEFP, CRC: 834BDAF9</description>
+		<rom name="Space Raiders (USA).rvz" size="564582788" crc="a230e189" md5="47d3d8a7b3ccf7d4960be2263694a9e7" sha1="e0c0e3ae5a002adf58f2627c44e7d986b23ed859"/>
+	</machine>
+	<machine name="Spartan - Total Warrior (USA)">
+		<category>Games</category>
+		<description>GameID: GWAE8P, CRC: 4E26FE50</description>
+		<rom name="Spartan - Total Warrior (USA).rvz" size="972160328" crc="29e63841" md5="5637afb4cd9f0df67eb8796959153f30" sha1="ccf53f36687eb058e6a11a4009755f9bee17a4c7"/>
+	</machine>
+	<machine name="Spawn - Armageddon (USA)">
+		<category>Games</category>
+		<description>GameID: GPWEAF, CRC: 27DF6BEC</description>
+		<rom name="Spawn - Armageddon (USA).rvz" size="678465076" crc="d83c160f" md5="ccc350e29a3ef6e915d8c905f9cb0e24" sha1="6dc1dbc8bdb190bf02ef55183338b8cf12e89296"/>
+	</machine>
+	<machine name="Speed Challenge - Jacques Villeneuve's Racing Vision (Europe) (En,Fr)">
+		<category>Games</category>
+		<description>GameID: GSZP41, CRC: E649640A</description>
+		<rom name="Speed Challenge - Jacques Villeneuve's Racing Vision (Europe) (En,Fr).rvz" size="395837172" crc="1e6fc4ec" md5="ef88efe09d87d2c67ce69963e36fe5b7" sha1="4b4e92b8a29b8f22bfad1610c037eaeaf107b5fe"/>
+	</machine>
+	<machine name="Speed Kings (USA)">
+		<category>Games</category>
+		<description>GameID: GDCE51, CRC: 390B126B</description>
+		<rom name="Speed Kings (USA).rvz" size="262157764" crc="73b569db" md5="fbe75d3cdca3100c1a839b765a5dd371" sha1="2dd2ab24b6e8359f2de99667343d7e4af1268d35"/>
+	</machine>
+	<machine name="Sphinx and the Cursed Mummy (USA)">
+		<category>Games</category>
+		<description>GameID: GXPE78, CRC: 242F4FF4</description>
+		<rom name="Sphinx and the Cursed Mummy (USA).rvz" size="601438304" crc="fe104ad5" md5="7d0bb07171cb30cb626bb448bf69aac7" sha1="1c2c7c2513fb5afd045e1371acf0046e44216506"/>
+	</machine>
+	<machine name="Spider-Man (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GSME52, CRC: F3FED5BE</description>
+		<rom name="Spider-Man (USA) (Rev 1).rvz" size="906239028" crc="9dbf8ba9" md5="08c30f90c93e60c4d41aa00b89d76e59" sha1="3b917a131a66fdc05731e4429971bac40b56dbb3"/>
+	</machine>
+	<machine name="Spider-Man 2 (USA)">
+		<category>Games</category>
+		<description>GameID: GK2E52, CRC: 08964518</description>
+		<rom name="Spider-Man 2 (USA).rvz" size="1158504048" crc="90092dc8" md5="b9bc2b300e6b335ac9f94663e9ac2e25" sha1="6cdad425f5065288682f3b2c32b876d8c547c926"/>
+	</machine>
+	<machine name="Spirits &amp; Spells (USA)">
+		<category>Games</category>
+		<description>GameID: G2PE6U, CRC: 81E06CB9</description>
+		<rom name="Spirits &amp; Spells (USA).rvz" size="449774684" crc="a3783d49" md5="ea991cf3e2df9073b1d119def64db27b" sha1="385af36db914e66ae0bb6a79001fcc15bb7cd0e1"/>
+	</machine>
+	<machine name="SpyHunter (USA)">
+		<category>Games</category>
+		<description>GameID: GSHE5D, CRC: 5048DA05</description>
+		<rom name="SpyHunter (USA).rvz" size="647645060" crc="81792814" md5="ca8e29989dac3c1078a26ba08f118d56" sha1="c945f1984f717013f0d2871b39d082fd2aa8008c"/>
+	</machine>
+	<machine name="Spyro - A Hero's Tail (USA)">
+		<category>Games</category>
+		<description>GameID: G5SE7D, CRC: 57708149</description>
+		<rom name="Spyro - A Hero's Tail (USA).rvz" size="483232388" crc="50eb8c74" md5="ebf499780ff79919cb5d185e7e0a678c" sha1="9bf2a3c26813deef85db1ba33702162ef26107b3"/>
+	</machine>
+	<machine name="Spyro - Enter the Dragonfly (USA)">
+		<category>Games</category>
+		<description>GameID: GS8E7D, CRC: 0956A8DF</description>
+		<rom name="Spyro - Enter the Dragonfly (USA).rvz" size="363101760" crc="ad160638" md5="0273e0b27d18d1fec7dba112e8ac0f90" sha1="aeae76e7d6c29cad7769524f155118767dae2ef4"/>
+	</machine>
+	<machine name="Star Fox - Assault (USA)">
+		<category>Games</category>
+		<description>GameID: GF7E01, CRC: 07166D23</description>
+		<rom name="Star Fox - Assault (USA).rvz" size="1091370884" crc="f0fda932" md5="b3df62cbe8a3d57770ffdaaf2f8709d6" sha1="b7d705a242c0cfb4f6a0fe0a0c5b32ef50a86f60"/>
+	</machine>
+	<machine name="Star Fox Adventures (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GSAE01, CRC: 477BF336</description>
+		<rom name="Star Fox Adventures (USA) (Rev 1).rvz" size="529439224" crc="168f3de3" md5="a2f4f60d54e9bbe014f33e4ce1b65052" sha1="c674b3c67869b113533602d8121b83c52c2d9fbe"/>
+	</machine>
+	<machine name="Star Wars - Bounty Hunter (USA)">
+		<category>Games</category>
+		<description>GameID: GBWE64, CRC: 9E0E33DE</description>
+		<rom name="Star Wars - Bounty Hunter (USA).rvz" size="1225491156" crc="0a80397d" md5="c12353b30790195af5d36d8345e087db" sha1="89f74c7c39bf793bf6c43da8b015ae0b182c091d"/>
+	</machine>
+	<machine name="Star Wars - Jedi Knight II - Jedi Outcast (USA)">
+		<category>Games</category>
+		<description>GameID: GJKE52, CRC: 80308DA6</description>
+		<rom name="Star Wars - Jedi Knight II - Jedi Outcast (USA).rvz" size="1166111708" crc="d27bd1e5" md5="507c81cae12bd649b33a92a060039f3b" sha1="1c2927d06e6fd56b27da64f5bc5b757277a18b4e"/>
+	</machine>
+	<machine name="Star Wars - Rogue Squadron II - Rogue Leader (USA)">
+		<category>Games</category>
+		<description>GameID: GSWE64, CRC: E9D4823D</description>
+		<rom name="Star Wars - Rogue Squadron II - Rogue Leader (USA).rvz" size="1313953456" crc="14c8bf28" md5="e59037b4e104293f6fcd028235bbb492" sha1="7506517b381ad21e8df8c6a38216db1160ffbbce"/>
+	</machine>
+	<machine name="Star Wars - Rogue Squadron III - Rebel Strike (USA) (En,Fr,De,Es,It) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GLRE64, CRC: D54098AF</description>
+		<rom name="Star Wars - Rogue Squadron III - Rebel Strike (USA) (En,Fr,De,Es,It) (Rev 1).rvz" size="1303589456" crc="2ea68e0b" md5="290c7b08f1138245cdc9ec4dd6e62a41" sha1="69caf6b44b35bc646818295a4b3adcd7e1a36ff1"/>
+	</machine>
+	<machine name="Star Wars - The Clone Wars (USA)">
+		<category>Games</category>
+		<description>GameID: GSXE64, CRC: 8D24A2C1</description>
+		<rom name="Star Wars - The Clone Wars (USA).rvz" size="1176602376" crc="594ad13e" md5="1e28b2979f559fe1bbc1e26fd8cc2fee" sha1="851a18f8a0c730852bf2b10a9866efbba5e54e15"/>
+	</machine>
+	<machine name="Starsky &amp; Hutch (USA)">
+		<category>Games</category>
+		<description>GameID: GT5E7N, CRC: 9295EC63</description>
+		<rom name="Starsky &amp; Hutch (USA).rvz" size="781022712" crc="e0b47069" md5="d0b47d5de0bf7bedf033b8b56667ff5c" sha1="05d8ada265c4062e52eaef2b09ae78b3ff421830"/>
+	</machine>
+	<machine name="Street Hoops (USA)">
+		<category>Games</category>
+		<description>GameID: GHPE52, CRC: 7B36751E</description>
+		<rom name="Street Hoops (USA).rvz" size="1161495080" crc="9ff8f21f" md5="b396baf7f6ab1c83c5c1cd7065216839" sha1="78a62ec7615022b2d6e4e4a7d0ed0be14f474189"/>
+	</machine>
+	<machine name="Strike Force Bowling (USA)">
+		<category>Games</category>
+		<description>GameID: G5BE4Z, CRC: 64629BFD</description>
+		<rom name="Strike Force Bowling (USA).rvz" size="150251828" crc="a99b6430" md5="267d5f987ad11da1c730dc5393bb0ddd" sha1="d1aef03a251f38978a5f1be6e9127ad9576d72c8"/>
+	</machine>
+	<machine name="Sum of All Fears, The (USA)">
+		<category>Games</category>
+		<description>GameID: G3ME41, CRC: BD2704B3</description>
+		<rom name="Sum of All Fears, The (USA).rvz" size="459528732" crc="3ed419f5" md5="5dc3ce4c186b74d91098d3f8539c2d88" sha1="a0eab418ca1cb49fddadb825bef5ffb0495627e9"/>
+	</machine>
+	<machine name="Summoner - A Goddess Reborn (USA)">
+		<category>Games</category>
+		<description>GameID: GS2E78, CRC: 72B8B6F4</description>
+		<rom name="Summoner - A Goddess Reborn (USA).rvz" size="1041266404" crc="97326fd0" md5="5c79fe143ec3f36406e4a0fd4937e264" sha1="6a8f547f031cbaab4bef38ade79e2f022eeaaa37"/>
+	</machine>
+	<machine name="Super Bubble Pop (USA)">
+		<category>Games</category>
+		<description>GameID: GBYE0A, CRC: 3E57A93C</description>
+		<rom name="Super Bubble Pop (USA).rvz" size="189947808" crc="89fa24d8" md5="1199ce7b2fe919155a4f12b50b36d0f0" sha1="1f7f9f9705edc0537426c1ed3bc050bd93f17882"/>
+	</machine>
+	<machine name="Super Mario Strikers (USA)">
+		<category>Games</category>
+		<description>GameID: G4QE01, CRC: 2EC051CF</description>
+		<rom name="Super Mario Strikers (USA).rvz" size="426551564" crc="f863b2ce" md5="ab82bcaa801231d5c42a6ce18baa9417" sha1="00cfd870439bae848d92eee04525850f5992f23f"/>
+	</machine>
+	<machine name="Super Mario Sunshine (USA, Canada)">
+		<category>Games</category>
+		<description>GameID: GMSE01, CRC: 771AD977</description>
+		<rom name="Super Mario Sunshine (USA, Canada).rvz" size="1050830424" crc="f0abc28c" md5="14a198b1803de7395f06e46a74e755eb" sha1="41593bab4149b423706f4f9e56bc93477e7658ea"/>
+	</machine>
+	<machine name="Super Monkey Ball (USA)">
+		<category>Games</category>
+		<description>GameID: GMBE8P, CRC: 7726C879</description>
+		<rom name="Super Monkey Ball (USA).rvz" size="290204760" crc="df309b65" md5="3c73c49db4e18d87cdde5693394e46d7" sha1="5b14f3754c5e7b4845b3e52262826b06f744c7c3"/>
+	</machine>
+	<machine name="Super Monkey Ball 2 (USA)">
+		<category>Games</category>
+		<description>GameID: GM2E8P, CRC: C54E40E8</description>
+		<rom name="Super Monkey Ball 2 (USA).rvz" size="646679824" crc="9c9a41f7" md5="fff91a8b1f33c4519ada9f376bc4349c" sha1="be306d72937baa2c3c7ddde563022cef3dc954a1"/>
+	</machine>
+	<machine name="Super Monkey Ball Adventure (USA)">
+		<category>Games</category>
+		<description>GameID: G3LE8P, CRC: 29E4CA79</description>
+		<rom name="Super Monkey Ball Adventure (USA).rvz" size="456531496" crc="1cf20f50" md5="54ff4e078bb87af0afdb32e602a2dd5e" sha1="c117f2b9695b530e7b4b312b3a33f8502ebc2bbd"/>
+	</machine>
+	<machine name="Super Smash Bros. Melee (USA) (En,Ja) (Rev 2)">
+		<category>Games</category>
+		<description>GameID: GALE01, CRC: 5365C84B</description>
+		<rom name="Super Smash Bros. Melee (USA) (En,Ja) (Rev 2).rvz" size="1133079700" crc="66679424" md5="223465def69414ebe2998f2876731065" sha1="dc3243f51f6d33cb251df4f270d7b1d56ae49243"/>
+	</machine>
+	<machine name="Superman - Shadow of Apokolips (USA)">
+		<category>Games</category>
+		<description>GameID: GSUE70, CRC: 5B91235C</description>
+		<rom name="Superman - Shadow of Apokolips (USA).rvz" size="1179549332" crc="67100976" md5="6eca53bbf3e05d8ac8285bb31a37603b" sha1="af3a654ad4627b2efb895a827764c94ea24a07b6"/>
+	</machine>
+	<machine name="Surf's Up (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>GameID: GXUE41, CRC: 6BBEB345</description>
+		<rom name="Surf's Up (USA) (En,Fr,Es).rvz" size="1355605372" crc="22f7bdfe" md5="19d9eec594eed77ead533ad56d89ee67" sha1="bf3431fe42b84f6a08dcfaca5a425e24a29ec67a"/>
+	</machine>
+	<machine name="Swingerz Golf (USA)">
+		<category>Games</category>
+		<description>GameID: GWGE4F, CRC: 92BDD171</description>
+		<rom name="Swingerz Golf (USA).rvz" size="1134707376" crc="f7c9e025" md5="a34d7600f203aebb968e02f67e3c92c5" sha1="e699a68bed4725b3908bad903194cd0cfffe3417"/>
+	</machine>
+	<machine name="TMNT (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>GameID: GYRE41, CRC: 9F10EDBC</description>
+		<rom name="TMNT (USA) (En,Fr,Es).rvz" size="1054391956" crc="4df0cb1c" md5="5873fcd73c2fc6349a35dd117b102c68" sha1="4ed28e39ad86ed0a09cc5f254d76999868f48d2a"/>
+	</machine>
+	<machine name="TMNT - Mutant Melee (USA)">
+		<category>Games</category>
+		<description>GameID: GE5EA4, CRC: 2EB43A22</description>
+		<rom name="TMNT - Mutant Melee (USA).rvz" size="478644376" crc="7adddba0" md5="57b786508d07261e73915dc60423673e" sha1="595827f0448097d0238f627e142dad5a7eb3391a"/>
+	</machine>
+	<machine name="TY the Tasmanian Tiger (USA)">
+		<category>Games</category>
+		<description>GameID: GTYE69, CRC: F4D308CC</description>
+		<rom name="TY the Tasmanian Tiger (USA).rvz" size="1024666780" crc="42ea1bf8" md5="d7e420e8840eab06edfe6d45478000b5" sha1="482bdd08e3828286153f22f539ac137a8762176d"/>
+	</machine>
+	<machine name="TY the Tasmanian Tiger - Night of the Quinkan (USA)">
+		<category>Games</category>
+		<description>GameID: GIZE52, CRC: 0580F689</description>
+		<rom name="TY the Tasmanian Tiger - Night of the Quinkan (USA).rvz" size="961846444" crc="6c789376" md5="10e84f554df48bc41f2b167c1faf9a2f" sha1="ffd082fb1fb2ef103670b6831dadd659b88c2709"/>
+	</machine>
+	<machine name="TY the Tasmanian Tiger 2 - Bush Rescue (USA)">
+		<category>Games</category>
+		<description>GameID: GYTE69, CRC: 228C96BE</description>
+		<rom name="TY the Tasmanian Tiger 2 - Bush Rescue (USA).rvz" size="1071307900" crc="f36ae89d" md5="d21ce2bbdc31bf9981cd270fc2a8f041" sha1="0d7f4adf70ff905db3c2aebf634629bee0569fc8"/>
+	</machine>
+	<machine name="Tak and the Power of Juju (USA)">
+		<category>Games</category>
+		<description>GameID: GJUE78, CRC: 20753D97</description>
+		<rom name="Tak and the Power of Juju (USA).rvz" size="1304848696" crc="38683f78" md5="e3fb4567be1a53fda46052773c6c0c43" sha1="77bb238d78ef5d55a3ee5408b306a70e610c2bce"/>
+	</machine>
+	<machine name="Tales of Symphonia (USA) (Disc 1)">
+		<category>Games</category>
+		<description>GameID: GQSEAF, CRC: 7FE3B9F7</description>
+		<rom name="Tales of Symphonia (USA) (Disc 1).rvz" size="1044573964" crc="0fe25411" md5="c3d4719626be9c478c836c496d66e525" sha1="1668d34d67590609a124329dc05765e8eced5487"/>
+	</machine>
+	<machine name="Tales of Symphonia (USA) (Disc 2)">
+		<category>Games</category>
+		<description>GameID: GQSEAF, CRC: A65645EB</description>
+		<rom name="Tales of Symphonia (USA) (Disc 2).rvz" size="1061800272" crc="9316bcf1" md5="74193b1bfc5a74088b410ce89ff997bc" sha1="452cad2dde7a11836831612f870d0d546fd183f6"/>
+	</machine>
+	<machine name="Taz - Wanted (USA) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>GameID: GTWE70, CRC: A6C9C6A1</description>
+		<rom name="Taz - Wanted (USA) (En,Fr,De,Es,It).rvz" size="381325672" crc="a0245b24" md5="1306fa46d39c6982b4a4e44faedbe32c" sha1="f4bfd64881a6b30324d96644b6af450373ee315f"/>
+	</machine>
+	<machine name="Teen Titans (USA) (En,Fr)">
+		<category>Games</category>
+		<description>GameID: G6TE5G, CRC: 5A179DC5</description>
+		<rom name="Teen Titans (USA) (En,Fr).rvz" size="571715048" crc="7f65d99a" md5="ef09adbd8b4c6be293653e2c9be83e9f" sha1="405f88c834fa08bafa68494cd2a7b9d825bf4eb8"/>
+	</machine>
+	<machine name="Teenage Mutant Ninja Turtles (USA)">
+		<category>Games</category>
+		<description>GameID: GTFEA4, CRC: C87E442A</description>
+		<rom name="Teenage Mutant Ninja Turtles (USA).rvz" size="1072764428" crc="cb7fd2cc" md5="6ff52ec8983e834ae8b0f3c58fa04a2e" sha1="1d9eb080bc075f93d3f6b4fa1b63c6fae1f81c37"/>
+	</machine>
+	<machine name="Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 1)">
+		<category>Games</category>
+		<description>GameID: GNIEA4, CRC: 8E1CD4F7</description>
+		<rom name="Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 1).rvz" size="729736704" crc="fa234894" md5="cb956504a91b6178c55f72e319f49677" sha1="bf138eb70183f9ca3762944d00acb1b09ae3729a"/>
+	</machine>
+	<machine name="Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 2)">
+		<category>Games</category>
+		<description>GameID: GNIEA4, CRC: 93A6C844</description>
+		<rom name="Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 2).rvz" size="828671504" crc="8d870515" md5="6c0ee50ff74e39f8c97e7a96aef75edf" sha1="c1f1fc5f3031c74a0288e3fa29e787e5966b2693"/>
+	</machine>
+	<machine name="Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (USA) (Disc 1)">
+		<category>Games</category>
+		<description>GameID: G3QEA4, CRC: CE63A657</description>
+		<rom name="Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (USA) (Disc 1).rvz" size="839971056" crc="67086f26" md5="658e597ecaf1c103724a436430923ae3" sha1="8b1390a699ab73b2fd5fcd11beebba0d86b26f4f"/>
+	</machine>
+	<machine name="Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (USA) (Disc 2)">
+		<category>Games</category>
+		<description>GameID: G3QEA4, CRC: F9948B84</description>
+		<rom name="Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (USA) (Disc 2).rvz" size="794303220" crc="70c63bdf" md5="cff5dad06bbe7c1d4db539ac18350499" sha1="e6977bebf8e911a51896b6e395f3711309aa93f9"/>
+	</machine>
+	<machine name="Terminator 3 - The Redemption (USA)">
+		<category>Games</category>
+		<description>GameID: GT6E70, CRC: 20C05D5E</description>
+		<rom name="Terminator 3 - The Redemption (USA).rvz" size="1018607692" crc="0b1085d9" md5="b05595fd65a4b93b4f4ef7b8efe7eb1f" sha1="8731d61cb5d81f17749dc3608652d548038f6909"/>
+	</machine>
+	<machine name="Tetris Worlds (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GTRE78, CRC: 2DB716F1</description>
+		<rom name="Tetris Worlds (USA) (Rev 1).rvz" size="968967880" crc="c44a0fea" md5="fa4dd2020ea8e71e76ad12c3f9ef2940" sha1="aa36bf51d74382ec8992d5748e479189f0c0d39d"/>
+	</machine>
+	<machine name="Tiger Woods PGA Tour 06 (USA)">
+		<category>Games</category>
+		<description>GameID: G6WE69, CRC: 9FC02C26</description>
+		<rom name="Tiger Woods PGA Tour 06 (USA).rvz" size="1161152772" crc="ba94ff79" md5="c6e6d8f2c95e44e60ba3bd60c691f193" sha1="6048e00a4447b98323fa3bbe7dea4ba958c56e62"/>
+	</machine>
+	<machine name="Tiger Woods PGA Tour 2003 (USA)">
+		<category>Games</category>
+		<description>GameID: GTIE69, CRC: 9EFC5F20</description>
+		<rom name="Tiger Woods PGA Tour 2003 (USA).rvz" size="1017595356" crc="fb78dbbe" md5="97153249180a54138369a9bbe08b69fd" sha1="dc27b2e933f74fcbeb288ddfd78efe9eb875ba77"/>
+	</machine>
+	<machine name="Tiger Woods PGA Tour 2004 (USA) (Disc 1)">
+		<category>Games</category>
+		<description>GameID: GW4E69, CRC: 8AE50A20</description>
+		<rom name="Tiger Woods PGA Tour 2004 (USA) (Disc 1).rvz" size="1032625228" crc="2492acd7" md5="835f0526c530f67ee9c71e94750c3ad1" sha1="e267e44fda470100b8a7789e828a7f2cadd61494"/>
+	</machine>
+	<machine name="Tiger Woods PGA Tour 2004 (USA) (Disc 2)">
+		<category>Games</category>
+		<description>GameID: GW4E69, CRC: 755874BA</description>
+		<rom name="Tiger Woods PGA Tour 2004 (USA) (Disc 2).rvz" size="1004076988" crc="92aa488c" md5="ad628303490777b81686cc9b03ebfea1" sha1="f5f9ba129405f470dcad56f8a5199522904f52c1"/>
+	</machine>
+	<machine name="Tiger Woods PGA Tour 2005 (USA) (Disc 1)">
+		<category>Games</category>
+		<description>GameID: G5TE69, CRC: FB45905A</description>
+		<rom name="Tiger Woods PGA Tour 2005 (USA) (Disc 1).rvz" size="977444708" crc="b8c46476" md5="61275f7b013705728f01ff7346c4237e" sha1="bf04dc63d7421a1c81774c00dbdd17df5c3f46bb"/>
+	</machine>
+	<machine name="Tiger Woods PGA Tour 2005 (USA) (Disc 2)">
+		<category>Games</category>
+		<description>GameID: G5TE69, CRC: EB2E3A1F</description>
+		<rom name="Tiger Woods PGA Tour 2005 (USA) (Disc 2).rvz" size="993193968" crc="42771a03" md5="9bc401173c4ed8435106b2ba402307e9" sha1="d639844eac488b59640e757970efec10d68c1143"/>
+	</machine>
+	<machine name="TimeSplitters - Future Perfect (USA)">
+		<category>Games</category>
+		<description>GameID: G3FE69, CRC: 09E3D0EE</description>
+		<rom name="TimeSplitters - Future Perfect (USA).rvz" size="1046840276" crc="329b03c9" md5="90e7ad1498b68cf1bbd18d633268781a" sha1="64432bc59e31d0d3e9e60526c7f71cbfd32591d2"/>
+	</machine>
+	<machine name="TimeSplitters 2 (USA)">
+		<category>Games</category>
+		<description>GameID: GTSE4F, CRC: F4081F05</description>
+		<rom name="TimeSplitters 2 (USA).rvz" size="1016985356" crc="a2f70f74" md5="a09228ed315f935febc125a6a8492ff7" sha1="54a86f884205d3de60d11f6107e336b84e7bd5c1"/>
+	</machine>
+	<machine name="Tom Clancy's Ghost Recon (USA)">
+		<category>Games</category>
+		<description>GameID: GGRE41, CRC: 2A5CFB16</description>
+		<rom name="Tom Clancy's Ghost Recon (USA).rvz" size="889415740" crc="2f59966c" md5="b36fd4d75f2edc6975fdd9d2a43428cd" sha1="0b0bc3c449aff4cbdccb45fb61ade26c0ea1f614"/>
+	</machine>
+	<machine name="Tom Clancy's Ghost Recon 2 (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>GameID: GGYE41, CRC: EB315761</description>
+		<rom name="Tom Clancy's Ghost Recon 2 (USA) (En,Fr,Es).rvz" size="1073640732" crc="054405f2" md5="8c3a43556db4e1064f335b4e9c0fa09f" sha1="96a35acf60110138f337179bc929ed4ee5fedb31"/>
+	</machine>
+	<machine name="Tom Clancy's Rainbow Six - Lockdown (USA)">
+		<category>Games</category>
+		<description>GameID: GLQE41, CRC: 5609A8E7</description>
+		<rom name="Tom Clancy's Rainbow Six - Lockdown (USA).rvz" size="1245260044" crc="24c6d962" md5="2f39d003c6266e8ff62ccf2ff6e02926" sha1="b6004d58183fc70b22026d11124eb5299054602b"/>
+	</machine>
+	<machine name="Tom Clancy's Rainbow Six 3 (USA)">
+		<category>Games</category>
+		<description>GameID: G63E41, CRC: AAFA9DA8</description>
+		<rom name="Tom Clancy's Rainbow Six 3 (USA).rvz" size="1158513356" crc="c054e7ca" md5="a452771b579d1236b0551c706d264b69" sha1="a4cbca3b5e8d9102afecc91586d4d1219b6253d1"/>
+	</machine>
+	<machine name="Tom Clancy's Splinter Cell (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GCEE41, CRC: F3A60605</description>
+		<rom name="Tom Clancy's Splinter Cell (USA) (Rev 1).rvz" size="1102749312" crc="eac1e712" md5="a1f53ea8addd91552fab68287596d9f1" sha1="21e85ea547861de78d3bcb13f8e1f7bcf62200e6"/>
+	</machine>
+	<machine name="Tom Clancy's Splinter Cell - Chaos Theory (USA) (En,Fr,Es) (Disc 1)">
+		<category>Games</category>
+		<description>GameID: GCJE41, CRC: AB312170</description>
+		<rom name="Tom Clancy's Splinter Cell - Chaos Theory (USA) (En,Fr,Es) (Disc 1).rvz" size="912637836" crc="d0a6cdd4" md5="4be24d60bd223af848b8b378b515081e" sha1="b741eaceb4e3d495ea52169bb9b108b5487b22f9"/>
+	</machine>
+	<machine name="Tom Clancy's Splinter Cell - Chaos Theory (USA) (En,Fr,Es) (Disc 2)">
+		<category>Games</category>
+		<description>GameID: GCJE41, CRC: F4B4A0F2</description>
+		<rom name="Tom Clancy's Splinter Cell - Chaos Theory (USA) (En,Fr,Es) (Disc 2).rvz" size="1022957108" crc="daac3412" md5="e7ba6fb487ffc81743e17d1279b276d2" sha1="e8e03ea1c5cb9451984e42eb2f68e9c2905ddb13"/>
+	</machine>
+	<machine name="Tom Clancy's Splinter Cell - Double Agent (USA) (En,Fr,Es) (Disc 1)">
+		<category>Games</category>
+		<description>GameID: GWYE41, CRC: 1A31BA3D</description>
+		<rom name="Tom Clancy's Splinter Cell - Double Agent (USA) (En,Fr,Es) (Disc 1).rvz" size="1107516864" crc="bbc8a682" md5="b308e0fe43a61d15665cadf2706d61a0" sha1="083266b18317877e989da9f3f406e0ad8e040857"/>
+	</machine>
+	<machine name="Tom Clancy's Splinter Cell - Double Agent (USA) (En,Fr,Es) (Disc 2)">
+		<category>Games</category>
+		<description>GameID: GWYE41, CRC: 77CE66B9</description>
+		<rom name="Tom Clancy's Splinter Cell - Double Agent (USA) (En,Fr,Es) (Disc 2).rvz" size="1179583912" crc="f9442d0f" md5="c089e5831a942485e980bd28d7f8070f" sha1="062c021fd03ba173edc3ded1b8c80f81c2cd39cb"/>
+	</machine>
+	<machine name="Tom Clancy's Splinter Cell - Pandora Tomorrow (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GT7E41, CRC: C6D5FE92</description>
+		<rom name="Tom Clancy's Splinter Cell - Pandora Tomorrow (USA) (Rev 1).rvz" size="892094916" crc="2452b7bb" md5="926e1235a46471f6d340c628227f55ed" sha1="2efc38c604e7028c316a1cfe18af75a582022144"/>
+	</machine>
+	<machine name="Tom and Jerry in War of the Whiskers (USA)">
+		<category>Games</category>
+		<description>GameID: GTJE5L, CRC: 6435E657</description>
+		<rom name="Tom and Jerry in War of the Whiskers (USA).rvz" size="152207568" crc="8fc58816" md5="097db2d9de8de1a2f96806a046a75a9c" sha1="959aab5642a580f24ea0ea8e8664fe2d1a9b50b7"/>
+	</machine>
+	<machine name="Tonka - Rescue Patrol (USA)">
+		<category>Games</category>
+		<description>GameID: GTQE6S, CRC: 87CD0EE9</description>
+		<rom name="Tonka - Rescue Patrol (USA).rvz" size="177437724" crc="6d02aba5" md5="08f89696cdf77ac3696284099ad6306e" sha1="244c1518b895f9660154af8b2af0a624ec12cda5"/>
+	</machine>
+	<machine name="Tony Hawk's American Wasteland (USA)">
+		<category>Games</category>
+		<description>GameID: GWJE52, CRC: 6CA729F6</description>
+		<rom name="Tony Hawk's American Wasteland (USA).rvz" size="1060761300" crc="5340dff3" md5="952a55a408a892e22c3a23ae22470f08" sha1="33f1281db6427d2a4bfcf746b91e41614e88a5bd"/>
+	</machine>
+	<machine name="Tony Hawk's Pro Skater 3 (USA)">
+		<category>Games</category>
+		<description>GameID: GT3E52, CRC: 38E54E39</description>
+		<rom name="Tony Hawk's Pro Skater 3 (USA).rvz" size="1251557580" crc="3152539e" md5="9261dbe318a2539d3c8bb6a4d0690b14" sha1="ce12dd2f5737cd1877a5a16a6cd3e2d1b88995cf"/>
+	</machine>
+	<machine name="Tony Hawk's Pro Skater 4 (USA)">
+		<category>Games</category>
+		<description>GameID: GT4E52, CRC: AA90DAFB</description>
+		<rom name="Tony Hawk's Pro Skater 4 (USA).rvz" size="1177180100" crc="19b84071" md5="28b85132e9aea54396c078ef69bc77c2" sha1="27e3ccd59c5b91c2e5b8046af4d4401e25802101"/>
+	</machine>
+	<machine name="Tony Hawk's Underground (USA)">
+		<category>Games</category>
+		<description>GameID: GTDE52, CRC: C2C4DBD1</description>
+		<rom name="Tony Hawk's Underground (USA).rvz" size="1296110912" crc="d786b184" md5="9ced922f796f60fd78c5ed160f7d6724" sha1="a6f6d07a531acf804ea2e88306b13a1184d4aef3"/>
+	</machine>
+	<machine name="Tony Hawk's Underground 2 (USA)">
+		<category>Games</category>
+		<description>GameID: G2TE52, CRC: CCA24AD9</description>
+		<rom name="Tony Hawk's Underground 2 (USA).rvz" size="1211122908" crc="58233caa" md5="ea1b4d9782511b7fb1794b1f390fbaa5" sha1="87de5c475c9f6e8bb917230b97b5880cfdc66088"/>
+	</machine>
+	<machine name="Top Angler - Real Bass Fishing (USA)">
+		<category>Games</category>
+		<description>GameID: GTAE5S, CRC: 988ED4F2</description>
+		<rom name="Top Angler - Real Bass Fishing (USA).rvz" size="55813120" crc="fa6520c8" md5="c80b79f1d851f669fc1db4417f4d4cf8" sha1="e5220db8c731ca25ff1163dea1540056267ed159"/>
+	</machine>
+	<machine name="Top Gun - Combat Zones (USA)">
+		<category>Games</category>
+		<description>GameID: GTGE60, CRC: FF8CCD79</description>
+		<rom name="Top Gun - Combat Zones (USA).rvz" size="669755296" crc="18e001b6" md5="383cd42717a932da1560d1beadde179e" sha1="2b17c33b911261f21b03abeaa5f2b3e22fbd99e2"/>
+	</machine>
+	<machine name="Tower of Druaga, The (Japan)">
+		<category>Games</category>
+		<description>GameID: PKBJ01, CRC: 97F48212</description>
+		<rom name="Tower of Druaga, The (Japan).rvz" size="3527824" crc="cbfc72d9" md5="412b44c4a11e8818e07684fe3e508cfc" sha1="0736e0eb2951c4276ac2a26c9daa55fce1bbbf0f"/>
+	</machine>
+	<machine name="TransWorld Surf - Next Wave (USA)">
+		<category>Games</category>
+		<description>GameID: GTVE70, CRC: 3CB7DDE8</description>
+		<rom name="TransWorld Surf - Next Wave (USA).rvz" size="1334701464" crc="7065f0a7" md5="bb8a63e5baff191c36653680e7e61756" sha1="446b35b363bc0228b79bd794ce34dabf26e7fe69"/>
+	</machine>
+	<machine name="Trigger Man (USA)">
+		<category>Games</category>
+		<description>GameID: GG2E4Z, CRC: A3F6D1D0</description>
+		<rom name="Trigger Man (USA).rvz" size="114838404" crc="1e97c8d9" md5="e7a61eb6720f96a84c5901863cb57a24" sha1="bd151b6fab68e7e7bbb4c90ef50816b6c0e7ef5e"/>
+	</machine>
+	<machine name="True Crime - New York City (USA)">
+		<category>Games</category>
+		<description>GameID: G2CE52, CRC: BB036F8C</description>
+		<rom name="True Crime - New York City (USA).rvz" size="954354276" crc="91caa1a2" md5="af4d8e207b2c9f528283aee25f5bd58c" sha1="38eb9248c5f3fcd1121af2acc268aa087e1b30c9"/>
+	</machine>
+	<machine name="True Crime - Streets of LA (USA)">
+		<category>Games</category>
+		<description>GameID: GTLE52, CRC: 008C8B49</description>
+		<rom name="True Crime - Streets of LA (USA).rvz" size="1056910468" crc="da855de6" md5="9315b6c530a1a33dd11d987c384e5887" sha1="c5d8854c3fe3d1bf4231ba27c5298bf33dfe7696"/>
+	</machine>
+	<machine name="Tube Slider - The Championship of Future Formula (USA)">
+		<category>Games</category>
+		<description>GameID: GTUE8G, CRC: 0D764212</description>
+		<rom name="Tube Slider - The Championship of Future Formula (USA).rvz" size="462248700" crc="a0fc53e9" md5="9aacf429c74c1ef5b77f9caedd794e8b" sha1="483e531e28d64d0f2cebf2b85ef944318113f21c"/>
+	</machine>
+	<machine name="Turok - Evolution (USA)">
+		<category>Games</category>
+		<description>GameID: GTKE51, CRC: 3B09F9ED</description>
+		<rom name="Turok - Evolution (USA).rvz" size="758208068" crc="537238c8" md5="cd7f869a3103d374fd62f3dde6d5ad56" sha1="cc6094025beb1d855533e9cd4eb65fa09cc084fa"/>
+	</machine>
+	<machine name="UEFA Champions League 2004-2005 (Europe)">
+		<category>Games</category>
+		<description>GameID: GUCP69, CRC: 73C4BAF2</description>
+		<rom name="UEFA Champions League 2004-2005 (Europe).rvz" size="778894412" crc="b6e88c92" md5="27c9c110b494131735319ec41046f65c" sha1="e49c8384825c4850261de256f02755069c9ff3d6"/>
+	</machine>
+	<machine name="UFC - Throwdown (USA)">
+		<category>Games</category>
+		<description>GameID: GUFE4Z, CRC: 774AE996</description>
+		<rom name="UFC - Throwdown (USA).rvz" size="922778772" crc="47a598b6" md5="ff12681c60b04277fd02707201354dd4" sha1="2eb2ea91a2633b39db93b63b337d775acc916b39"/>
+	</machine>
+	<machine name="Ultimate Muscle - Legends vs. New Generation (USA)">
+		<category>Games</category>
+		<description>GameID: GKNEB2, CRC: 2F93164C</description>
+		<rom name="Ultimate Muscle - Legends vs. New Generation (USA).rvz" size="611220148" crc="a97c1ead" md5="ec7ac57561ef6186c50a3e28b017e2ba" sha1="9a17d44e86b21f91f010571ac6be443c2d129d0b"/>
+	</machine>
+	<machine name="Ultimate Spider-Man (USA)">
+		<category>Games</category>
+		<description>GameID: GUTE52, CRC: 1858118D</description>
+		<rom name="Ultimate Spider-Man (USA).rvz" size="937193548" crc="42b067c1" md5="a4c26f2ad227bcbb8ff95061dd7c1fc7" sha1="0f325e304ba91d2cbae5b69eeb87a0917ef4ab29"/>
+	</machine>
+	<machine name="Universal Studios Theme Park Adventure (USA)">
+		<category>Games</category>
+		<description>GameID: GUSE7F, CRC: 6CDF5761</description>
+		<rom name="Universal Studios Theme Park Adventure (USA).rvz" size="547659728" crc="e74899cd" md5="c2822c256109c8a70f9cc90a7d8b2389" sha1="06362744a21e919a4150bd39d91044a8bbc15243"/>
+	</machine>
+	<machine name="Urbz, The - Sims in the City (USA)">
+		<category>Games</category>
+		<description>GameID: GUBE69, CRC: CF228612</description>
+		<rom name="Urbz, The - Sims in the City (USA).rvz" size="1038961872" crc="576aeaa8" md5="d6b7760940e3e88362e0685a63dff224" sha1="a45922b2644478ca0704c900cfebea561dd83209"/>
+	</machine>
+	<machine name="V-Rally 3 (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>GameID: GV3P70, CRC: 239E56CF</description>
+		<rom name="V-Rally 3 (Europe) (En,Fr,De,Es,It).rvz" size="885092284" crc="ea4811b5" md5="acc285b11773cf0e7bd545843eccddd2" sha1="3ccc3c4486330631c68f6540567c42ecbaa19e2c"/>
+	</machine>
+	<machine name="Vexx (USA)">
+		<category>Games</category>
+		<description>GameID: GJXE51, CRC: 66C7457B</description>
+		<rom name="Vexx (USA).rvz" size="939228244" crc="5f2fed89" md5="44167f5be0b8dab01b3b13880b9a46fa" sha1="93795a6c95814ded20f57aebeb0f3d97287247d9"/>
+	</machine>
+	<machine name="Viewtiful Joe (USA)">
+		<category>Games</category>
+		<description>GameID: GVJE08, CRC: 121A9A8E</description>
+		<rom name="Viewtiful Joe (USA).rvz" size="937007792" crc="d6a5bd54" md5="8595b7c8afae8a4768947d81b668d1f3" sha1="24481fe827673d85fea9c21a175030b75f1994b8"/>
+	</machine>
+	<machine name="Viewtiful Joe - Red Hot Rumble (USA)">
+		<category>Games</category>
+		<description>GameID: GVCE08, CRC: 68AF0A7D</description>
+		<rom name="Viewtiful Joe - Red Hot Rumble (USA).rvz" size="722148936" crc="10077d17" md5="c80868724399a2f3ae4db27dbea634af" sha1="6c1bf68ec55075b430e6db6688f4565f20891c3c"/>
+	</machine>
+	<machine name="Viewtiful Joe 2 (USA)">
+		<category>Games</category>
+		<description>GameID: G2VE08, CRC: F07AC0D5</description>
+		<rom name="Viewtiful Joe 2 (USA).rvz" size="670977408" crc="ebb76f10" md5="8916c9b8a799dbe4a32b515473b8d419" sha1="f5df14a3a68699d9e6f923a08b7d7c99a913bf15"/>
+	</machine>
+	<machine name="Virtua Quest (USA)">
+		<category>Games</category>
+		<description>GameID: G8FE8P, CRC: 95C68988</description>
+		<rom name="Virtua Quest (USA).rvz" size="1125577340" crc="fbb1f9c7" md5="b8d3eafb44937f8f20b89ac88288c0ae" sha1="5d7e1a81411bc9a62f1f23889a5edf76a61b28ea"/>
+	</machine>
+	<machine name="Virtua Striker 2002 (USA)">
+		<category>Games</category>
+		<description>GameID: GVSE8P, CRC: C5E3DE37</description>
+		<rom name="Virtua Striker 2002 (USA).rvz" size="388702368" crc="af8eddb7" md5="6aebd7a28474ba9c47304c7f4cc9cd56" sha1="a0ae40e0b5635c1114e0602217ea5ba2faf67d73"/>
+	</machine>
+	<machine name="WTA Tour Tennis (USA)">
+		<category>Games</category>
+		<description>GameID: GWTEA4, CRC: 2869AA07</description>
+		<rom name="WTA Tour Tennis (USA).rvz" size="327706544" crc="6b0dd716" md5="70d8ad50e09941ac9edd941879a3ba49" sha1="3b836a368860f424265fd0ec1349cc3a3e268480"/>
+	</machine>
+	<machine name="WWE Crush Hour (USA)">
+		<category>Games</category>
+		<description>GameID: GCHE78, CRC: 0F41D7A7</description>
+		<rom name="WWE Crush Hour (USA).rvz" size="941552360" crc="94a15f91" md5="a46ce82a4369c68703fee61591002168" sha1="329b30a31d9369e523b8a6181bcf0b6f340cfc91"/>
+	</machine>
+	<machine name="WWE Day of Reckoning (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GWPE78, CRC: 6DBA0CA7</description>
+		<rom name="WWE Day of Reckoning (USA) (Rev 1).rvz" size="1020537512" crc="a57bc25a" md5="f082ca074fc621b90949f6cc2a148e06" sha1="eae8563a3a8ac49a9da671472321d400fd066129"/>
+	</machine>
+	<machine name="WWE Day of Reckoning 2 (USA)">
+		<category>Games</category>
+		<description>GameID: GW2E78, CRC: BB092C3A</description>
+		<rom name="WWE Day of Reckoning 2 (USA).rvz" size="974274736" crc="040808aa" md5="0124edc30a2c9b7ff59981e231671278" sha1="c217ce1c5be2340dc68c7016fd4fac96ba5fc909"/>
+	</machine>
+	<machine name="WWE WrestleMania X8 (USA)">
+		<category>Games</category>
+		<description>GameID: GW3E78, CRC: A37B1923</description>
+		<rom name="WWE WrestleMania X8 (USA).rvz" size="908764000" crc="d7079ebb" md5="d89dc676ac39f96ad692a9e5ba785de3" sha1="fad6cec639272e61ca3f6117f3730109d194b5ff"/>
+	</machine>
+	<machine name="WWE WrestleMania XIX (USA)">
+		<category>Games</category>
+		<description>GameID: GW9E78, CRC: 635116C6</description>
+		<rom name="WWE WrestleMania XIX (USA).rvz" size="1149575108" crc="6ab0fd39" md5="b0c8ea84478ee97a317a23398bc70a49" sha1="84822a75f267a689070b7219396daa509142c625"/>
+	</machine>
+	<machine name="Wallace &amp; Gromit in Project Zoo (USA)">
+		<category>Games</category>
+		<description>GameID: GWLE6L, CRC: A5369975</description>
+		<rom name="Wallace &amp; Gromit in Project Zoo (USA).rvz" size="758276904" crc="5770b9ad" md5="23554f778b92ab223f05d5cf4ae39e9c" sha1="115ded344ef9ac9081688762c4c0351ad4f5c05a"/>
+	</machine>
+	<machine name="Walt Disney Pictures Presents Meet the Robinsons (USA)">
+		<category>Games</category>
+		<description>GameID: GQTE4Q, CRC: F9986B70</description>
+		<rom name="Walt Disney Pictures Presents Meet the Robinsons (USA).rvz" size="1068475708" crc="165d4746" md5="c62d304c65b930eff726046c7790f124" sha1="23b53792bd85cc779e0358db903160a31848bc45"/>
+	</machine>
+	<machine name="Wario World (USA)">
+		<category>Games</category>
+		<description>GameID: GWWE01, CRC: 6A9546AA</description>
+		<rom name="Wario World (USA).rvz" size="197851124" crc="fe7addd8" md5="ad7c250c08ea4f0d16863411bead81e6" sha1="4a393c22ed6cf67578a1ef9013a1e521c509bfb2"/>
+	</machine>
+	<machine name="WarioWare, Inc. - Mega Party Game$! (USA)">
+		<category>Games</category>
+		<description>GameID: GZWE01, CRC: 673E9CE1</description>
+		<rom name="WarioWare, Inc. - Mega Party Game$! (USA).rvz" size="669582884" crc="e7b67168" md5="4427514f2661bc7efab28faa02ebefc4" sha1="b6728facff62b917dc1df716105c65efe1eae1ee"/>
+	</machine>
+	<machine name="Wave Race - Blue Storm (USA)">
+		<category>Games</category>
+		<description>GameID: GWRE01, CRC: D2EE9CCD</description>
+		<rom name="Wave Race - Blue Storm (USA).rvz" size="1091853948" crc="08b70455" md5="05c20f192b0a3dc578154f52d4ceb564" sha1="b639bad20fc472be2654da2a8035702fe6e7baa2"/>
+	</machine>
+	<machine name="Whirl Tour (USA)">
+		<category>Games</category>
+		<description>GameID: GWUE7D, CRC: 2B4C7D32</description>
+		<rom name="Whirl Tour (USA).rvz" size="672403976" crc="0459723f" md5="b2980d51aa33104048656aa58428d336" sha1="cb67bfd3289d666fe57c8aadb465e359602106c4"/>
+	</machine>
+	<machine name="World Racing (Europe) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>GameID: GWDP6S, CRC: BA953FBE</description>
+		<rom name="World Racing (Europe) (En,Fr,De,Es,It).rvz" size="451182528" crc="4249df55" md5="a94600f3ea02207285ec3dce568f4f9a" sha1="dea9c5bcabc5661a3e08f27ac1aa90d69387fcf0"/>
+	</machine>
+	<machine name="World Series of Poker (USA) (Rev 1)">
+		<category>Games</category>
+		<description>GameID: GW8E52, CRC: 94510FFE</description>
+		<rom name="World Series of Poker (USA) (Rev 1).rvz" size="1033803612" crc="e68a4d8c" md5="82b63908546b0680c7047225f96b6bf3" sha1="8da1991b2eb20112a88a8e1a2f40c8fe89aeaa29"/>
+	</machine>
+	<machine name="Worms 3D (USA) (En,Fr)">
+		<category>Games</category>
+		<description>GameID: GWME51, CRC: C6E188B4</description>
+		<rom name="Worms 3D (USA) (En,Fr).rvz" size="725655904" crc="a22b9b4e" md5="2430d9c95d3703d8435a2c6cae0a5513" sha1="2ac28660f622583c9039e652f2fe2b8eb7170773"/>
+	</machine>
+	<machine name="Worms Blast (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>GameID: GWBE41, CRC: 8CD70182</description>
+		<rom name="Worms Blast (USA) (En,Fr,Es).rvz" size="358864740" crc="071d2f8c" md5="70203d7e1d0d006054a716749a937d5f" sha1="c02ec739b6c69907312148704f55e2a634d4ce94"/>
+	</machine>
+	<machine name="Wreckless - The Yakuza Missions (USA)">
+		<category>Games</category>
+		<description>GameID: GWQE52, CRC: 31501D9A</description>
+		<rom name="Wreckless - The Yakuza Missions (USA).rvz" size="456269368" crc="7dbf43db" md5="bccd408cdeb22c271223ce7a2b98106b" sha1="96dffeb3698fffc54a19514a7a58d0460c410c5d"/>
+	</machine>
+	<machine name="X-Men - Next Dimension (USA)">
+		<category>Games</category>
+		<description>GameID: GXME52, CRC: CCE0CFF0</description>
+		<rom name="X-Men - Next Dimension (USA).rvz" size="848932996" crc="3df48fba" md5="58ed0c95f49f1968388398954bf0c03b" sha1="d7df31f11454e5e01aa3520babede44bdca518e1"/>
+	</machine>
+	<machine name="X-Men - The Official Game (USA)">
+		<category>Games</category>
+		<description>GameID: G3XE52, CRC: 5BE81AAD</description>
+		<rom name="X-Men - The Official Game (USA).rvz" size="1161387848" crc="bc961479" md5="2de819075ca3993c746945e098276c11" sha1="2ce6570fbb469fdf138030b9e58ddac759218661"/>
+	</machine>
+	<machine name="X-Men Legends (USA)">
+		<category>Games</category>
+		<description>GameID: GXLE52, CRC: 6C580E51</description>
+		<rom name="X-Men Legends (USA).rvz" size="1249910020" crc="2024aafa" md5="235bf5599c476776317e00994e9b0a2d" sha1="c2c54a041a9f11f1c8a5ec87048000bfb69eda04"/>
+	</machine>
+	<machine name="X-Men Legends II - Rise of Apocalypse (USA)">
+		<category>Games</category>
+		<description>GameID: GX2E52, CRC: 00734C55</description>
+		<rom name="X-Men Legends II - Rise of Apocalypse (USA).rvz" size="1351600088" crc="7895a7fd" md5="b92a8cb9dc20b7e8b2585c2a4cc9f51c" sha1="92eacffc64f127bcda01bb53c1b188d62cf32eae"/>
+	</machine>
+	<machine name="X2 - Wolverine's Revenge (USA)">
+		<category>Games</category>
+		<description>GameID: GWVE52, CRC: B70BE5FD</description>
+		<rom name="X2 - Wolverine's Revenge (USA).rvz" size="1138284376" crc="b8c34d9b" md5="ea8a442ff66503d05f7206c5afeaf548" sha1="f2357c14046c4e9713f2949729e540bb53d3bcbc"/>
+	</machine>
+	<machine name="XGIII - Extreme G Racing (USA)">
+		<category>Games</category>
+		<description>GameID: G3EE51, CRC: 9CFCAC40</description>
+		<rom name="XGIII - Extreme G Racing (USA).rvz" size="328315868" crc="4389fec4" md5="97604070833b1cd3698170c9ee8a7c4b" sha1="753662b9c2ec5af115a1975b601673c797a6a787"/>
+	</machine>
+	<machine name="XGRA - Extreme G Racing Association (USA)">
+		<category>Games</category>
+		<description>GameID: GXAE51, CRC: 4228038D</description>
+		<rom name="XGRA - Extreme G Racing Association (USA).rvz" size="859988132" crc="6b101fef" md5="d99aafd80dcb2287d481c1b2801eb760" sha1="fbe8c4b8ed54415688b0433e0508daedf0cb9c2e"/>
+	</machine>
+	<machine name="XIII (USA) (En,Fr,Es)">
+		<category>Games</category>
+		<description>GameID: GX3E41, CRC: 22502290</description>
+		<rom name="XIII (USA) (En,Fr,Es).rvz" size="1204299328" crc="50832f8a" md5="93678eb1f56858b03017c50db2e05513" sha1="9fc930f9eb5f67ea2c9f5579e8faf8913b7d2c7b"/>
+	</machine>
+	<machine name="Yu-Gi-Oh! The Falsebound Kingdom (USA)">
+		<category>Games</category>
+		<description>GameID: GYFEA4, CRC: 8F1E8DCA</description>
+		<rom name="Yu-Gi-Oh! The Falsebound Kingdom (USA).rvz" size="440239908" crc="1340017f" md5="ff1b9f28575ed1df47e84cb7e2240690" sha1="d16d1de61bc8e023d538b8a7e094a08ea1a5ed77"/>
+	</machine>
+	<machine name="Zapper (USA)">
+		<category>Games</category>
+		<description>GameID: GZPE70, CRC: 0E322B3B</description>
+		<rom name="Zapper (USA).rvz" size="726991304" crc="19345a35" md5="055983f512fce7d9548e4261407d48fb" sha1="57c883d795da1ebe319100754103b01a1d3f48b4"/>
+	</machine>
+	<machine name="Zatch Bell! Mamodo Battles (USA)">
+		<category>Games</category>
+		<description>GameID: GYKEB2, CRC: C98837D7</description>
+		<rom name="Zatch Bell! Mamodo Battles (USA).rvz" size="339723316" crc="9938f668" md5="2537a06bf59b944a7c51a599e8eaf0eb" sha1="c83e177dcbadd96155485a197eb25e07c6ca377a"/>
+	</machine>
+	<machine name="Zatch Bell! Mamodo Fury (USA)">
+		<category>Games</category>
+		<description>GameID: GABEAF, CRC: 55DEAB54</description>
+		<rom name="Zatch Bell! Mamodo Fury (USA).rvz" size="396406944" crc="417c45bd" md5="8318d746f9c46ce5316c3f36ae3e8dff" sha1="f19464c383def9a5997cd7af97bf91b0ff3870fe"/>
+	</machine>
+	<machine name="Zoids - Battle Legends (USA)">
+		<category>Games</category>
+		<description>GameID: GZSE70, CRC: 0F6EC75E</description>
+		<rom name="Zoids - Battle Legends (USA).rvz" size="348594624" crc="2f6859e4" md5="03455e4846c20ffeacbc1d99cf2d6cf2" sha1="61456cb14e5c73f67b35762829eed728f4132a9c"/>
+	</machine>
+	<machine name="ZooCube (USA)">
+		<category>Games</category>
+		<description>GameID: GZCE51, CRC: DC26206C</description>
+		<rom name="ZooCube (USA).rvz" size="770726696" crc="979bfe84" md5="c55b04a2c1a0ca99fb1cef1870f199bc" sha1="4e49da91df46e32277524804bf6f97f0f9c9720a"/>
+	</machine>
+</datafile>

@@ -1,0 +1,320 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<name>Atari 7800 (BIN)</name>
+		<description>ENTrimmed (1G1R En)</description>
+		<category>Console</category>
+		<comment>Atari - Atari 7800 (BIN) (61) (-ny) [-AaBbcDdefkmMopPruv] (20250416-124715) (Retool)</comment>
+		<version>2025-06-01</version>
+		<author>Jamie S</author>
+		<homepage>https://github.com/JamieS01/ENTrimmed</homepage>
+		<url>https://github.com/JamieS01/ENTrimmed</url>
+		<retool>Created by Retool 2.3.9</retool>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<machine name="Ace of Aces (USA)">
+		<category>Games</category>
+		<description>Ace of Aces (USA)</description>
+		<rom name="Ace of Aces (USA).bin" size="131072" crc="05a2b94c" md5="0be996d25144966d5541c9eb4919b289" sha1="efd20bd321a81d67fb6430d9ba93d23fb90d8029" sha256="749cbebd7f950223efe7b24f43a4baa368f6068cc4078600918a4b3dbb7713b9"/>
+	</machine>
+	<machine name="Alien Brigade (USA)">
+		<category>Games</category>
+		<description>Alien Brigade (USA)</description>
+		<rom name="Alien Brigade (USA).bin" size="147456" crc="c8849d36" md5="877dcc97a775ed55081864b2dbf5f1e2" sha1="a8629fac962cc20b263a60bb2d2386d605713387" sha256="a112b824e3aed21ef10de93669215fe3d744af4a1c1fba5e88b34326ae537041"/>
+	</machine>
+	<machine name="Asteroids (USA)">
+		<category>Games</category>
+		<description>Asteroids (USA)</description>
+		<rom name="Asteroids (USA).bin" size="16384" crc="dfb93f40" md5="07342c78619ba6ffcc61c10e907e3b50" sha1="d96ec4e043fcdacab367d8a69d29904b3b2896f1" sha256="a1e293ed0e1af9ea6a7df257440a50e40a4ae9088d6bcf4800a5a6f51780183d"/>
+	</machine>
+	<machine name="Atari 7800 Development Card (USA)">
+		<category>Games</category>
+		<description>Atari 7800 Development Card (USA)</description>
+		<rom name="Atari 7800 Development Card (USA).bin" size="16384" crc="3fbe74ce" md5="0d9452d4db4d1e1cf843f4f10605eb7d" sha1="4df3657f57e3086bee26fb5c6ea946c509d08553" sha256="38f93572d59fb8871f3e2b04f75e3bc7d46b16029ce209a644b4638958a50e13"/>
+	</machine>
+	<machine name="Ballblazer (USA)">
+		<category>Games</category>
+		<description>Ballblazer (USA)</description>
+		<rom name="Ballblazer (USA).bin" size="32768" crc="a4c4808b" md5="8fc3a695eaea3984912d98ed4a543376" sha1="4eb5424360691a38b199d91a0e2c9095d0862dbe" sha256="e03e2e8612248aa4c86bee7fd3131a8c9678893e39982f78ab401da036c3276c"/>
+	</machine>
+	<machine name="Barnyard Blaster (USA)">
+		<category>Games</category>
+		<description>Barnyard Blaster (USA)</description>
+		<rom name="Barnyard Blaster (USA).bin" size="131072" crc="ed0a587d" md5="42682415906c21c6af80e4198403ffda" sha1="cbcde3d85c8778dea402394568677884cd781de3" sha256="a386fd8b5b8b73d39afed5760a624e967761a80beb16a8dd24c4a983cc7ac388"/>
+	</machine>
+	<machine name="Baseball (Europe)">
+		<category>Games</category>
+		<description>Baseball (Europe)</description>
+		<rom name="Baseball (Europe).bin" size="32768" crc="68d48fdc" md5="386bded4a944bae455fedf56206dd1dd" sha1="c44fe244206590abc26fbbd520a5726353899e35" sha256="471122ebb2410979cc21409cca1d8d106b666b816fd7e1d27e862ac08e698fe7"/>
+	</machine>
+	<machine name="Basketbrawl (USA)">
+		<category>Games</category>
+		<description>Basketbrawl (USA)</description>
+		<rom name="Basketbrawl (USA).bin" size="131072" crc="c8b9d7b5" md5="f5f6b69c5eb4b55fc163158d1a6b423e" sha1="39877a4c88498bf6656451e3d1acaf7e8638bdfd" sha256="050ad25f716eaa9df63ea3bd897656b2742d3db32a936a6ce720c5c026f9612e"/>
+	</machine>
+	<machine name="Centipede (USA)">
+		<category>Games</category>
+		<description>Centipede (USA)</description>
+		<rom name="Centipede (USA).bin" size="16384" crc="020efe25" md5="5a09946e57dbe30408a8f253a28d07db" sha1="c8377ad7fb6afec5c88c14a23a68e2ecebba4e5a" sha256="0b5d0b156b363d6142ecf4498bc19cc2109534dd901db2eb7f5def26ead66b83"/>
+	</machine>
+	<machine name="Choplifter! (USA)">
+		<category>Games</category>
+		<description>Choplifter! (USA)</description>
+		<rom name="Choplifter! (USA).bin" size="32768" crc="419bff61" md5="93e4387864b014c155d7c17877990d1e" sha1="6df15e73494d0a498dd044753a27544214210b14" sha256="7a9d6f8b1c7e7c238bbf3db09dce047f36d78fa4299ffad3feb0b1b606c647e3"/>
+	</machine>
+	<machine name="Commando (USA)">
+		<category>Games</category>
+		<description>Commando (USA)</description>
+		<rom name="Commando (USA).bin" size="131072" crc="cd1a98c5" md5="2e8e28f6ad8b9b9267d518d880c73ebb" sha1="f8ae7da650ad38675b81675b77096794a9cd52e8" sha256="7ece9985f538ae99b1a10ddd852b787c1c17c96b2ba4ed585005035de7affb43"/>
+	</machine>
+	<machine name="Crack'ed (USA)">
+		<category>Games</category>
+		<description>Crack'ed (USA)</description>
+		<rom name="Crack'ed (USA).bin" size="131072" crc="e645fd1f" md5="db691469128d9a4217ec7e315930b646" sha1="664d267d1245d5698cbf6ff0622ee0d629da3a11" sha256="ed77ce59e46119a2266d69b1fd273ac75018e45bc0c5fac74fff680b62eeeec6"/>
+	</machine>
+	<machine name="Crossbow (USA)">
+		<category>Games</category>
+		<description>Crossbow (USA)</description>
+		<rom name="Crossbow (USA).bin" size="147456" crc="d2ea5686" md5="a94e4560b6ad053a1c24e096f1262ebf" sha1="d5e47da88e232cd9ea059e133e7c0f13d921a04c" sha256="71bc3ef07f357c96687536df8db05515b2b36cc97b684a0b9267bf2a3b972020"/>
+	</machine>
+	<machine name="Dark Chambers (USA)">
+		<category>Games</category>
+		<description>Dark Chambers (USA)</description>
+		<rom name="Dark Chambers (USA).bin" size="131072" crc="366777f1" md5="179b76ff729d4849b8f66a502398acae" sha1="848077f15114fec31f8290be2583566f4486fe65" sha256="02eeb391cd00f500d40ba5afc902090ab2753b163ac90e72c52c3bb1b0985433"/>
+	</machine>
+	<machine name="Desert Falcon (USA)">
+		<category>Games</category>
+		<description>Desert Falcon (USA)</description>
+		<rom name="Desert Falcon (USA).bin" size="49152" crc="a1dc0899" md5="95ac811c7d27af0032ba090f28c107bd" sha1="725f893f9a98926c627ef37eacc3f241620c3ffc" sha256="68510ce22fdb13ddad0fc9dccc0935d6dfc1b20f8611d1d6e2632d820bfb81fa"/>
+	</machine>
+	<machine name="Diagnostic Test Cartrige (USA)">
+		<category>Games</category>
+		<description>Diagnostic Test Cartrige (USA)</description>
+		<rom name="Diagnostic Test Cartrige (USA).bin" size="32768" crc="a1eaa7c1" md5="91041aadd1700a7a4076f4005f2c362f" sha1="76ec76c423d88bdf739e673c051c5b9c174881c6" sha256="248faac52d828b3542b74ff478e87afc6748949ad0f294fe75e6be94966a7558"/>
+	</machine>
+	<machine name="Dig Dug (USA)">
+		<category>Games</category>
+		<description>Dig Dug (USA)</description>
+		<rom name="Dig Dug (USA).bin" size="16384" crc="50cb13f3" md5="731879ea82fc0ca245e39e036fe293e6" sha1="19cee8dc40fabd7022bedc27e4896c09e3cadfdd" sha256="a903b68e29182eeb372412ff93600a874cec40e3c5d9eaea6a4fc2322b0b0a13"/>
+	</machine>
+	<machine name="Donkey Kong (USA)">
+		<category>Games</category>
+		<description>Donkey Kong (USA)</description>
+		<rom name="Donkey Kong (USA).bin" size="49152" crc="065e063f" md5="19f1ee292a23636bd57d408b62de79c7" sha1="820c852caa7957179bf7d6faf2e6922dde5a1a8e" sha256="94d570fa4c16625ede9d8e68dbd6dc6db2d4eb4816543c1f4b44f146a55ef861"/>
+	</machine>
+	<machine name="Donkey Kong Junior (USA)">
+		<category>Games</category>
+		<description>Donkey Kong Junior (USA)</description>
+		<rom name="Donkey Kong Junior (USA).bin" size="49152" crc="1c5a1082" md5="5e332fbfc1e0fc74223d2e73271ce650" sha1="e9392259fff682fcc3476009771a3cfd7d5bdb6d" sha256="322338bb087585e646bb0ce9f24390594a5dc260ee66d5263b8f7bf67e9bfad9"/>
+	</machine>
+	<machine name="Double Dragon (USA)">
+		<category>Games</category>
+		<description>Double Dragon (USA)</description>
+		<rom name="Double Dragon (USA).bin" size="131072" crc="aa265865" md5="543484c00ba233736bcaba2da20eeea9" sha1="c3fb140836a4ed84cda7a999832703e8b72c0d21" sha256="12e5272697550c7b4d40db1937f157a3fa9c65a8fa0f4b40aba5a96e780f3fad"/>
+	</machine>
+	<machine name="F-18 Hornet (USA)">
+		<category>Games</category>
+		<description>F-18 Hornet (USA)</description>
+		<rom name="F-18 Hornet (USA).bin" size="65536" crc="63d1c7c1" md5="2251a6a0f3aec84cc0aff66fc9fa91e8" sha1="13a18a6b85db6222b01d37800e5e57db616a85a6" sha256="eb8586c979454aa04451bf7c41ffb8b2c5b1c1f7a4f35a38b6a2a4fb7cb8064a"/>
+	</machine>
+	<machine name="Fatal Run (USA)">
+		<category>Games</category>
+		<description>Fatal Run (USA)</description>
+		<rom name="Fatal Run (USA).bin" size="131072" crc="a44df354" md5="d25d5d19188e9f149977c49eb0367cd1" sha1="69aab1e6ef332c6844c693ac41965e4c33ff822a" sha256="aabbf94532d88428a7df26c27c5b4286f3848dc2f9fc39a13fb65b661622064b"/>
+	</machine>
+	<machine name="Fight Night (USA)">
+		<category>Games</category>
+		<description>Fight Night (USA)</description>
+		<rom name="Fight Night (USA).bin" size="131072" crc="720ebc74" md5="07dbbfe612a0a28e283c01545e59f25e" sha1="1e8a8704a77b15e70cbc72b0ae9bc25fb91d7c21" sha256="37ff94f060480bda1f66b540c29709bbefae1a44c51994b28520a4e8d7fd8100"/>
+	</machine>
+	<machine name="Food Fight (USA)">
+		<category>Games</category>
+		<description>Food Fight (USA)</description>
+		<rom name="Food Fight (USA).bin" size="32768" crc="e64a5cde" md5="cf76b00244105b8e03cdc37677ec1073" sha1="3f5f42d5aaf6ccd4979658a1387aac5933549357" sha256="8badf97d82167c04836d81253e190a49efdde428c135918f4783f404cca5d04c"/>
+	</machine>
+	<machine name="Galaga (USA)">
+		<category>Games</category>
+		<description>Galaga (USA)</description>
+		<rom name="Galaga (USA).bin" size="32768" crc="1a0a3eb3" md5="fb8d803b328b2e442548f7799cfa9a4a" sha1="33178d682564d70955e13d0633359e87b512253b" sha256="6e4df067afb253acb54c41a5e18899e57a46e0559b0c3c0383b93f98755e9bf7"/>
+	</machine>
+	<machine name="Hat Trick (USA)">
+		<category>Games</category>
+		<description>Hat Trick (USA)</description>
+		<rom name="Hat Trick (USA).bin" size="49152" crc="cf6f4a6c" md5="fd9e78e201b6baafddfd3e1fbfe6ba31" sha1="14c0cfd01df1c725f399c23810e4854a639fce52" sha256="74886dda305accf50fd8c34c0b4108960155207154a65b245451245413ee47e4"/>
+	</machine>
+	<machine name="Ikari Warriors (USA)">
+		<category>Games</category>
+		<description>Ikari Warriors (USA)</description>
+		<rom name="Ikari Warriors (USA).bin" size="131072" crc="8a6c1f15" md5="c3672482ca93f70eafd9134b936c3feb" sha1="e368c6c7ffca5ffac314dec1effea4e2c809519a" sha256="5403b614b8e8f4ee782a95562582423b29bacb09b637d71d9ca94cdd0605b739"/>
+	</machine>
+	<machine name="Impossible Mission (USA)">
+		<category>Games</category>
+		<description>Impossible Mission (USA)</description>
+		<rom name="Impossible Mission (USA).bin" size="131072" crc="3b1f2f47" md5="baebc9246c087e893dfa489632157180" sha1="5437c0efb63a349953ec047efe6ec24144ed6914" sha256="cdfac9f9ce4c505003a3f5d0b14b7ca8e13828068144c3d3986209e54f9f079a"/>
+	</machine>
+	<machine name="Jinks (USA)">
+		<category>Games</category>
+		<description>Jinks (USA)</description>
+		<rom name="Jinks (USA).bin" size="131072" crc="0818d8cd" md5="045fd12050b7f2b842d5970f2414e912" sha1="472bc12c437b015a9e317bac092529f3295033b8" sha256="0eb2daa24e1d1efe1e8b2c5b503be3e762808efb71d35795734c5a1895c4166c"/>
+	</machine>
+	<machine name="Joust (USA)">
+		<category>Games</category>
+		<description>Joust (USA)</description>
+		<rom name="Joust (USA).bin" size="32768" crc="2c430bce" md5="f18b3b897a25ab3885b43b4bd141b396" sha1="1ccd7c232bcfd5a65d26b9decfe4eceadcbe314c" sha256="681f8d5a270518ef6cd317b239708d730337800a43a58a38a3c9b8e6d9ed6b37"/>
+	</machine>
+	<machine name="Karateka (USA)">
+		<category>Games</category>
+		<description>Karateka (USA)</description>
+		<rom name="Karateka (USA).bin" size="49152" crc="fec21472" md5="c3a5a8692a423d43d9d28dd5b7d109d9" sha1="9fb97bbc7dcc610251cee1695c48b82a087f32d2" sha256="2fed434258b1a86f97f3609b9a1866b1bcc3ba20a3e494c701da1e3c3f0e3514"/>
+	</machine>
+	<machine name="Kung-Fu Master (USA)">
+		<category>Games</category>
+		<description>Kung-Fu Master (USA)</description>
+		<rom name="Kung-Fu Master (USA).bin" size="32768" crc="297899bb" md5="f57d0af323d4e173fb49ed447f0563d7" sha1="8824bffdf4f30a8191e581752a75259a663092ca" sha256="03b02d4e0d57fe133897a252a6b003f78f693bf72290539feb06d7a9aa0f2298"/>
+	</machine>
+	<machine name="Mario Bros. (USA)">
+		<category>Games</category>
+		<description>Mario Bros. (USA)</description>
+		<rom name="Mario Bros. (USA).bin" size="49152" crc="8021a13b" md5="431ca060201ee1f9eb49d44962874049" sha1="12e04b67094af622641c536379c69ecad2ee98ed" sha256="b7986a49fdc0b77b24e55bec613af63a6e19565ec30144b1f5f70adfef81cbcb"/>
+	</machine>
+	<machine name="Mat Mania Challenge (USA)">
+		<category>Games</category>
+		<description>Mat Mania Challenge (USA)</description>
+		<rom name="Mat Mania Challenge (USA).bin" size="131072" crc="aba91829" md5="37b5692e33a98115e574185fa8398c22" sha1="bb849b603cf1091e4f032936b209ff33fc3b714e" sha256="148d770167db7e93d2b8c10fdb6d94258d60ae494ecfc96bb7a989ab844ac953"/>
+	</machine>
+	<machine name="Mean 18 Ultimate Golf (USA)">
+		<category>Games</category>
+		<description>Mean 18 Ultimate Golf (USA)</description>
+		<rom name="Mean 18 Ultimate Golf (USA).bin" size="131072" crc="cf21d9ac" md5="f2f5e5841e4dda89a2faf8933dc33ea6" sha1="a3e50c0e56c9675ffb1b6439f40789bc64c606b2" sha256="645fa4dec063e18fa4ccc3de83fa1839b30d01151881e108a13cd6ca26d6d521"/>
+	</machine>
+	<machine name="Meltdown (USA)">
+		<category>Games</category>
+		<description>Meltdown (USA)</description>
+		<rom name="Meltdown (USA).bin" size="131072" crc="4a8f2171" md5="bedc30ec43587e0c98fc38c39c1ef9d0" sha1="e601c45aaa1cc25f01493867664c8b9fefeca70e" sha256="501af1f3c2a8ceee19d35113de0b68ce26374ad24a1b3a85ba88fff30dd25c7f"/>
+	</machine>
+	<machine name="Midnight Mutants (USA)">
+		<category>Games</category>
+		<description>Midnight Mutants (USA)</description>
+		<rom name="Midnight Mutants (USA).bin" size="131072" crc="187ec84e" md5="bc1e905db1008493a9632aa83ab4682b" sha1="db5ea4c1456f3b403f6b8978432ecbcdac89d432" sha256="3d17789bf2cfa187e3cbdec6a7c8fd65924efcccec90d0ce54917a9252878680"/>
+	</machine>
+	<machine name="Motor Psycho (USA)">
+		<category>Games</category>
+		<description>Motor Psycho (USA)</description>
+		<rom name="Motor Psycho (USA).bin" size="131072" crc="1e219482" md5="3bc8f554cf86f8132a623cc2201a564b" sha1="b9381f4d0413b6c48e27f26ed94c7a9eb1a49624" sha256="efa3a20ca6b60b47ba243b34f25cf1f054398d52c7d6f6bd41c73a6026298860"/>
+	</machine>
+	<machine name="Ms. Pac-Man (USA)">
+		<category>Games</category>
+		<description>Ms. Pac-Man (USA)</description>
+		<rom name="Ms. Pac-Man (USA).bin" size="16384" crc="e42fc700" md5="fc0ea52a9fac557251b65ee680d951e5" sha1="ff22e21fc953a288453c40eb6fc5378d42b871f6" sha256="8e3af27b254113e277499c167f6a48820f709ae0ad0684ea7b2b1a8c3dd3ab22"/>
+	</machine>
+	<machine name="Ninja Golf (USA)">
+		<category>Games</category>
+		<description>Ninja Golf (USA)</description>
+		<rom name="Ninja Golf (USA).bin" size="131072" crc="cb48e8dc" md5="220121f771fc4b98cef97dc040e8d378" sha1="96d0e59e703770eea8d8d9c2c4e5a87ce6f2de76" sha256="b5bb5a789a55ef60235edc43da72a8a88c4cb23e9fa99ac6acf9f62bbf810b3d"/>
+	</machine>
+	<machine name="One-on-One Basketball (USA)">
+		<category>Games</category>
+		<description>One-on-One Basketball (USA)</description>
+		<rom name="One-on-One Basketball (USA).bin" size="49152" crc="7d9370fb" md5="74569571a208f8b0b1ccfb22d7c914e1" sha1="5173f892a8d70aeca6c324c138c56208e0db2b98" sha256="3dc2b47017fc8025403969610b35eb5246b2fc3dbd024819964894491d12eddd"/>
+	</machine>
+	<machine name="Pete Rose Baseball (USA)">
+		<category>Games</category>
+		<description>Pete Rose Baseball (USA)</description>
+		<rom name="Pete Rose Baseball (USA).bin" size="32768" crc="f33d4dfa" md5="1a5207870dec6fae9111cb747e20d8e3" sha1="ffb4fbed8d8f28ea71668542b7ebd019955c5a11" sha256="42eb5a12f1638fd9ced1a614c7ff905173c3bc7f1c70a5476dcf962085180267"/>
+	</machine>
+	<machine name="Planet Smashers (USA)">
+		<category>Games</category>
+		<description>Planet Smashers (USA)</description>
+		<rom name="Planet Smashers (USA).bin" size="131072" crc="4e3b9e64" md5="33aea1e2b6634a1dec8c7006d9afda22" sha1="503b975fc1f8edc16110ac2c5b884c4e8b2b6efb" sha256="a53204680f68968a3087dc26e709ff59b7677bf53051db879234acf5ba841032"/>
+	</machine>
+	<machine name="Pole Position II (USA)">
+		<category>Games</category>
+		<description>Pole Position II (USA)</description>
+		<rom name="Pole Position II (USA).bin" size="32768" crc="a85fb962" md5="584582bb09ee8122e7fc09dc7d1ed813" sha1="ccfa6f3f83ddbed2a2fb32735fea316a718fbaaa" sha256="b852432108a86d003c2c7d393455b5a52eafc474209a6e7e5ed11f99366b8d5e"/>
+	</machine>
+	<machine name="Rampage (USA)">
+		<category>Games</category>
+		<description>Rampage (USA)</description>
+		<rom name="Rampage (USA).bin" size="131072" crc="39a316aa" md5="ac03806cef2558fc795a7d5d8dba7bc0" sha1="13745b5eaaab7e2c992f3312285e112cdeb424f6" sha256="5cdd510c97021f7c74bb635398278185efd265c14cd0bb29510159c4704bb049"/>
+	</machine>
+	<machine name="RealSports Baseball (USA)">
+		<category>Games</category>
+		<description>RealSports Baseball (USA)</description>
+		<rom name="RealSports Baseball (USA).bin" size="65536" crc="b1508030" md5="383ed9bd1efb9b6cb3388a777678c928" sha1="9a9f60251d049630099f56d2d3efb013828b8a2c" sha256="8f164bffcaf44aff68c366d1e9a3d5a6244daf1081a71f84d7aa119cccaa0915"/>
+	</machine>
+	<machine name="Robotron - 2084 (USA)">
+		<category>Games</category>
+		<description>Robotron - 2084 (USA)</description>
+		<rom name="Robotron - 2084 (USA).bin" size="32768" crc="cb22305d" md5="66ecaafe1b82ae68ffc96267aaf7a4d7" sha1="ccc9753cdcbd2a2f8cb7966b8227801ba0bfd41d" sha256="ad2cf29e88df0a3b78e2bed98a8eef68787c3838362f754ea95c32b1b65baa37"/>
+	</machine>
+	<machine name="Scrapyard Dog (USA)">
+		<category>Games</category>
+		<description>Scrapyard Dog (USA)</description>
+		<rom name="Scrapyard Dog (USA).bin" size="131072" crc="5cc8c34f" md5="980c35ae9625773a450aa7ef51751c04" sha1="f2249321d0cc296b9f9e516bbc5ecc9aab56ca22" sha256="7fcd51b4c54feb8eebae9f2c2e0c63f1ebaf86bd04f9238825d1e4d4e99d0468"/>
+	</machine>
+	<machine name="Sentinel (Europe)">
+		<category>Games</category>
+		<description>Sentinel (Europe)</description>
+		<rom name="Sentinel (Europe).bin" size="131072" crc="47340df9" md5="5469b4de0608f23a5c4f98f331c9e75f" sha1="6d85a73a56d2f02ff439736eace86691aa613444" sha256="807ee2cc97963f6132e47beef76ca553b62b2c0c2cea69d2365ee0e6f36ee4cc"/>
+	</machine>
+	<machine name="Summer Games (USA)">
+		<category>Games</category>
+		<description>Summer Games (USA)</description>
+		<rom name="Summer Games (USA).bin" size="131072" crc="65c6df3f" md5="cbb0746192540a13b4c7775c7ce2021f" sha1="31d46b32a2aa8d5bd6028cff1f41037426b22409" sha256="6cdfc738e1504a64edc3e18698b8de03808d8bc03e6fd15d0bc13461d82de2d5"/>
+	</machine>
+	<machine name="Super Huey UH-IX (USA)">
+		<category>Games</category>
+		<description>Super Huey UH-IX (USA)</description>
+		<rom name="Super Huey UH-IX (USA).bin" size="49152" crc="71846500" md5="cc18e3b37a507c4217eb6cb1de8c8538" sha1="29aea9e90c446942001fd08d3c4c929f4ce048d7" sha256="860e7c5ca1e1f004591231446fac3cd00f458854c86c561cfe78198acdabf71e"/>
+	</machine>
+	<machine name="Super Skateboardin' (USA)">
+		<category>Games</category>
+		<description>Super Skateboardin' (USA)</description>
+		<rom name="Super Skateboardin' (USA).bin" size="32768" crc="13b68650" md5="59b5793bece1c80f77b55d60fb39cb94" sha1="666d9383c112b66026898e6002b803801e269c51" sha256="f7b0af4bdfe1f6945cea90bb97b4e09da5fe27ccaa8f3bbef2c6a45f8493d562"/>
+	</machine>
+	<machine name="Tank Command (USA)">
+		<category>Games</category>
+		<description>Tank Command (USA)</description>
+		<rom name="Tank Command (USA).bin" size="65536" crc="db91b181" md5="5c4f752371a523f15e9980fea73b874d" sha1="1d2975d754806416a25a821db6a9fe389bf5d946" sha256="16ce205dcd5f23bf93b3c33f119e1f8f1d4568b2125e229c7bd001b74d1d5961"/>
+	</machine>
+	<machine name="Title Match Pro Wrestling (USA)">
+		<category>Games</category>
+		<description>Title Match Pro Wrestling (USA)</description>
+		<rom name="Title Match Pro Wrestling (USA).bin" size="32768" crc="bc23c57b" md5="1af475ff6429a160752b592f0f92b287" sha1="80d11bcbb953ccd8bf3c3e64162711e7edb95090" sha256="ef7e6c7cfb7233ec8fd33344a7cddfbd433f4126849925f33bcd78c5934dd959"/>
+	</machine>
+	<machine name="Tomcat - The F-14 Fighter Simulator (USA)">
+		<category>Games</category>
+		<description>Tomcat - The F-14 Fighter Simulator (USA)</description>
+		<rom name="Tomcat - The F-14 Fighter Simulator (USA).bin" size="32768" crc="513cb9ee" md5="c3903ab01a51222a52197dbfe6538ecf" sha1="80c615fb60d0004c1accde25e42759572e030928" sha256="d31e9db9615ab6f1666c8a80300a4e3ecc23f03a6848f4eab4816861fc8c1bc0"/>
+	</machine>
+	<machine name="Touchdown Football (USA)">
+		<category>Games</category>
+		<description>Touchdown Football (USA)</description>
+		<rom name="Touchdown Football (USA).bin" size="131072" crc="aae12695" md5="208ef955fa90a29815eb097bce89bace" sha1="364bf0fef8a67f7e66761c76a3a6a0dd186f04aa" sha256="9a2d9bda7c19386a4a1111090174ec0fc39fbacfd2529874e83dacd65de7cf9f"/>
+	</machine>
+	<machine name="Tower Toppler (USA)">
+		<category>Games</category>
+		<description>Tower Toppler (USA)</description>
+		<rom name="Tower Toppler (USA).bin" size="65536" crc="4407ba04" md5="8d64763db3100aadc552db5e6868506a" sha1="53976013986e0ad3694ab9c021420b8172465de7" sha256="6b3bb8a673f68bfd6c93fcc44080fe2f8baba1480120614da3c01c369904516e"/>
+	</machine>
+	<machine name="Water Ski (USA)">
+		<category>Games</category>
+		<description>Water Ski (USA)</description>
+		<rom name="Water Ski (USA).bin" size="65536" crc="930b30df" md5="427cb05d0a1abb068998e2760d77f4fb" sha1="621c67c2228843405445222743ba3d7c1f04a3c4" sha256="5eac15149def210eb45d03a5bf6573c8c59112a65976cf57e0eeb47657b76421"/>
+	</machine>
+	<machine name="Winter Games (USA)">
+		<category>Games</category>
+		<description>Winter Games (USA)</description>
+		<rom name="Winter Games (USA).bin" size="131072" crc="8981b531" md5="3799d72f78dda2ee87b0ef8bf7b91186" sha1="b3725d6f0834c68ac62ce13eb9eb0d01d1124e5e" sha256="7a339f7aebeb57f44e17da576a7d0a54cb28738b493c828ce4dea009f053c8d7"/>
+	</machine>
+	<machine name="Xenophobe (USA)">
+		<category>Games</category>
+		<description>Xenophobe (USA)</description>
+		<rom name="Xenophobe (USA).bin" size="131072" crc="5fd9a141" md5="05fb699db9eef564e2fe45c568746dbc" sha1="867adbfd7539ff81e68726ed6f5ff7326409539f" sha256="3239db5465f42d4e05220a50fd7a489687c441539dcd287b57ea7208f9753f28"/>
+	</machine>
+	<machine name="Xevious (USA)">
+		<category>Games</category>
+		<description>Xevious (USA)</description>
+		<rom name="Xevious (USA).bin" size="32768" crc="75fc124f" md5="d7dc17379aa25e5ae3c14b9e780c6f6d" sha1="1d4f0335b152239553534fcbbacdca273802e3bd" sha256="ca08da2e3019fab7e74ce46d4969297d9dd2f3f4d9eb476add138d7e5f698391"/>
+	</machine>
+</datafile>

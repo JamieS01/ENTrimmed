@@ -1,0 +1,745 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<name>NEC - PC Engine - TurboGrafx-16</name>
+		<description>ENTrimmed (1G1R En)</description>
+		<category>Console</category>
+		<comment>NEC - PC Engine - TurboGrafx-16 (146) (-ny) [-AaBbcDdefkmMopPruv] (20250429-114106) (Retool)</comment>
+		<version>2025-06-01</version>
+		<author>Jamie S</author>
+		<homepage>https://github.com/JamieS01/ENTrimmed</homepage>
+		<url>https://github.com/JamieS01/ENTrimmed</url>
+		<retool>Created by Retool 2.3.9</retool>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<machine name="Aero Blasters (USA)">
+		<category>Games</category>
+		<description>Aero Blasters (USA)</description>
+		<rom name="Aero Blasters (USA).pce" size="524288" crc="b03e0b32" md5="b2b62baab5fefafc5db6538720b503c3" sha1="23b7da6a6067563af5fdf303d83adeae818cdcdf" sha256="d2fe59cf24053bbbb1b5da2521a958e38a981cce9baba0af825ea5189d8408dc"/>
+	</machine>
+	<machine name="After Burner II (Japan) (En)">
+		<category>Games</category>
+		<description>After Burner II (Japan) (En)</description>
+		<rom name="After Burner II (Japan) (En).pce" size="524288" crc="ca72a828" md5="ac0cdee014e725e428fde5774751ff8d" sha1="50b9d22fe5179aee5cb95022472714ef8483841f" sha256="53416fb12207212b5206d359b951a41566725c9bd8b9151e08c0e74bc0e36c2f"/>
+	</machine>
+	<machine name="Air Zonk (USA)">
+		<category>Games</category>
+		<description>Air Zonk (USA)</description>
+		<rom name="Air Zonk (USA).pce" size="524288" crc="933d5bcc" md5="406bec60ffca9ac151a793969b0c10c6" sha1="1ee94b6016ffdf996409955287e8799019a68658" sha256="a571109b0d6de9c8949403b0a90f79dff6e309268d84f6da8cb42754137c06ac"/>
+	</machine>
+	<machine name="Alien Crush (USA)">
+		<category>Games</category>
+		<description>Alien Crush (USA)</description>
+		<rom name="Alien Crush (USA).pce" size="262144" crc="ea488494" md5="0088d1d20861490677edb147d2de60bd" sha1="1bfa4b5139612b0c33e3282c23e56c1dfc08ed52" sha256="1af27c808be34e0c2fe435c169f5169417d6362dee0e928413581a1f6126557f"/>
+	</machine>
+	<machine name="Andre Panza Kick Boxing (USA)">
+		<category>Games</category>
+		<description>Andre Panza Kick Boxing (USA)</description>
+		<rom name="Andre Panza Kick Boxing (USA).pce" size="524288" crc="a980e0e9" md5="f9fdabcefa6e69aba547b1a5113a133f" sha1="b21023fcf1b16b8ef9890e8087bab71a43253700" sha256="90e04d9fcd0a57ad07ba995352f0061e396e8a51c470e1f164739fb4b86139ca"/>
+	</machine>
+	<machine name="Armed F (Japan) (En)">
+		<category>Games</category>
+		<description>Armed F (Japan) (En)</description>
+		<rom name="Armed F (Japan) (En).pce" size="262144" crc="20ef87fd" md5="c9efecc5c9854bfe79db25cd01614802" sha1="a326c9cece6f14b82629c4c79b34df819b022dce" sha256="12a6060b9ab618345f9527122ef1b7b4136476f97224f4006376e0beb5eececd"/>
+	</machine>
+	<machine name="Atomic Robo-Kid Special (Japan) (En)">
+		<category>Games</category>
+		<description>Atomic Robo-Kid Special (Japan) (En)</description>
+		<rom name="Atomic Robo-Kid Special (Japan) (En).pce" size="524288" crc="dd175efd" md5="548ca5eb135f526f3a2837f5259d795f" sha1="1ea46287855ef25e4614a3f37a7037baa5a49545" sha256="538ee65174b39b792620a613b7c39cc5dc55dae2fda1af73ee79228035161a38"/>
+	</machine>
+	<machine name="Ballistix (USA)">
+		<category>Games</category>
+		<description>Ballistix (USA)</description>
+		<rom name="Ballistix (USA).pce" size="262144" crc="420fa189" md5="9610910760ed0c034961866ceb7d4e23" sha1="8f65c5b459b477adc97ab7809ca8e85329f25769" sha256="18d520f082517a34b420676fe94803cb38244e41e0d6c57f2f087087d4a3018d"/>
+	</machine>
+	<machine name="Batman (Japan) (En)">
+		<category>Games</category>
+		<description>Batman (Japan) (En)</description>
+		<rom name="Batman (Japan) (En).pce" size="393216" crc="106bb7b2" md5="6c35cbaf97b7285a9373b9ae9f553411" sha1="87e93e23c0c3ef960e9a226fc10a5fc9625d43a7" sha256="5bb7b6cf9c3fdc97eaaf6fa923ad524f2b751bbc1a11bfc06e85fc5f3171d06a"/>
+	</machine>
+	<machine name="Battle Lode Runner (Japan) (En)">
+		<category>Games</category>
+		<description>Battle Lode Runner (Japan) (En)</description>
+		<rom name="Battle Lode Runner (Japan) (En).pce" size="262144" crc="59e44f45" md5="52ac9b2e9f552558b8658cabae4639a3" sha1="0907d3a3503bd7dc2cae0d1b88c1f3f5be56fa22" sha256="523722e400c607428f5131f3c7d38f81721fed46d3e6acc24370e4a9a6ac610f"/>
+	</machine>
+	<machine name="Battle Royale (USA)">
+		<category>Games</category>
+		<description>Battle Royale (USA)</description>
+		<rom name="Battle Royale (USA).pce" size="524288" crc="e70b01af" md5="beb2b4486ed8a66f0df10e260bdc5224" sha1="07b39d5315aa07bf880b89b10dc3c01ed7ced5ab" sha256="dc624288e426dc7663b5112494c37cc401fe00c97476a5eec6741767395057fe"/>
+	</machine>
+	<machine name="Blazing Lazers (USA)">
+		<category>Games</category>
+		<description>Blazing Lazers (USA)</description>
+		<rom name="Blazing Lazers (USA).pce" size="393216" crc="b4a1b0f6" md5="3c2f85fc7898de73a7c789033d22b8f5" sha1="13712aaee596ad96ab743d5e82ed96895089afeb" sha256="a862c29dbed67b10f847401da4858ff4877f4f58093c4beaa230e7065a0b5005"/>
+	</machine>
+	<machine name="Bloody Wolf (USA)">
+		<category>Games</category>
+		<description>Bloody Wolf (USA)</description>
+		<rom name="Bloody Wolf (USA).pce" size="524288" crc="37baf6bc" md5="f19869d1823a28e8472452baf697cf56" sha1="45f8762414fb6b581b6159908cc35b2607ecf237" sha256="1382d4a68acb30362346946fd790b7c270d0afdf99b84deb46e24ef56152d8fd"/>
+	</machine>
+	<machine name="Bomberman '93 (USA)">
+		<category>Games</category>
+		<description>Bomberman '93 (USA)</description>
+		<rom name="Bomberman '93 (USA).pce" size="524288" crc="56171c1c" md5="795321485b7d58701cd5b661d6ad636a" sha1="709b47de6e0ebc18fb80c951d5cfaa6ce82d6ce0" sha256="678a097de779f3b24fc535e1de55448b754be6abe203a060e8f43c5c78899c8e"/>
+	</machine>
+	<machine name="Bomberman (USA)">
+		<category>Games</category>
+		<description>Bomberman (USA)</description>
+		<rom name="Bomberman (USA).pce" size="262144" crc="5f6f3c2a" md5="22945308eb41396f39c00444be9f251f" sha1="dc63680e579764bbacb7f07514f4f49ab888d3b1" sha256="b9f98ce3d8b8baf1c6d02c2c0af72f8c0c554e533f13deb8f389853fe33bbf9e"/>
+	</machine>
+	<machine name="Bonk 3 - Bonk's Big Adventure (USA)">
+		<category>Games</category>
+		<description>Bonk 3 - Bonk's Big Adventure (USA)</description>
+		<rom name="Bonk 3 - Bonk's Big Adventure (USA).pce" size="1048576" crc="5a3f76d8" md5="f4922bc12ac5c46c29d18d21e34f910f" sha1="b966df0281f7fab4536afc166278e1bec0d926c4" sha256="de40e6780d07832cbc7f4eed43267ee2241fd30f7a1bcf92346b58687fdad741"/>
+	</machine>
+	<machine name="Bonk's Adventure (USA)">
+		<category>Games</category>
+		<description>Bonk's Adventure (USA)</description>
+		<rom name="Bonk's Adventure (USA).pce" size="393216" crc="599ead9b" md5="3aa21326050c489ea867de05dd6cb7e5" sha1="403c4fbdb617cea5b8cd0c8d06ae988f6aef93bd" sha256="457a14f5de9f22f23bab3d1b0e811d21c77e3617c164087271f952e6b2f8d110"/>
+	</machine>
+	<machine name="Bonk's Revenge (USA)">
+		<category>Games</category>
+		<description>Bonk's Revenge (USA)</description>
+		<rom name="Bonk's Revenge (USA).pce" size="524288" crc="f36ffee1" md5="34e8b8c01d7721a33c7d131f77c8c082" sha1="a9908331d835ce3f6ae301e2a6232fe59861c454" sha256="9b3ed03329b7a77733ea143014687b744a44f3f0d97b5228621e217e27da78c7"/>
+	</machine>
+	<machine name="Boxyboy (USA)">
+		<category>Games</category>
+		<description>Boxyboy (USA)</description>
+		<rom name="Boxyboy (USA).pce" size="131072" crc="605be213" md5="c316ad2e57400feaf16fcaff67935b00" sha1="7e165324d735a20156fd90ac97d0bf1c115e0a02" sha256="2810bf5022e23859086ba4d8ca5c9800715b41ed65b59aac233d26693fd5dd7e"/>
+	</machine>
+	<machine name="Bravoman (USA)">
+		<category>Games</category>
+		<description>Bravoman (USA)</description>
+		<rom name="Bravoman (USA).pce" size="524288" crc="cca08b02" md5="f60f3d46b7fab6060c3be9aad2103558" sha1="6fb31af03a5370c5c9bc280e0f8f8169d114150b" sha256="049253b3faf564d34a61ae4a2b275518af43e7de8071bf44b6e502e846dded31"/>
+	</machine>
+	<machine name="Break In (Japan) (En)">
+		<category>Games</category>
+		<description>Break In (Japan) (En)</description>
+		<rom name="Break In (Japan) (En).pce" size="262144" crc="c9d7426a" md5="ccf0795c95150fc3246926312fecf842" sha1="2a409cbe09529c6995954b3985168882bad80aa4" sha256="8e735c2522c7873a0164002559e9394415c11439104182a27448847526e5262a"/>
+	</machine>
+	<machine name="Cadash (USA)">
+		<category>Games</category>
+		<description>Cadash (USA)</description>
+		<rom name="Cadash (USA).pce" size="524288" crc="bb0b3aef" md5="617a4254c05e88145110718951039e61" sha1="31c9692ba8c7eab995a6d3ab1e2079b69b47847f" sha256="04d9978d41ec53e3bc346aa6ec53ec9a473851ee8ed1d7196a3ef9859a8b69ab"/>
+	</machine>
+	<machine name="Champion Wrestler (Japan) (En)">
+		<category>Games</category>
+		<description>Champion Wrestler (Japan) (En)</description>
+		<rom name="Champion Wrestler (Japan) (En).pce" size="393216" crc="9edc0aea" md5="337b0aa40e3c133b6242aa0b71a4fd20" sha1="c865834d69b765bfb9f7730d98dfc167c360e964" sha256="dca83533c5479d74c138a8cddff6f4a6b0c12dd116a7273c07e1baa4c34ee474"/>
+	</machine>
+	<machine name="Champions Forever Boxing (USA)">
+		<category>Games</category>
+		<description>Champions Forever Boxing (USA)</description>
+		<rom name="Champions Forever Boxing (USA).pce" size="524288" crc="15ee889a" md5="fcd3e7f105514b61ff25dc3477f8b138" sha1="db7005b4679276bc65d04a45da131db7b47bae75" sha256="373de7a245a252c2f3d55dbed68d480b9098fcac6cc69be2d2c88f5b4c7a0a3e"/>
+	</machine>
+	<machine name="Chase H.Q. (USA)">
+		<category>Games</category>
+		<description>Chase H.Q. (USA)</description>
+		<rom name="Chase H.Q. (USA).pce" size="393216" crc="9298254c" md5="b6098cef5a4729009d446603c650e323" sha1="d29a7440573324b5560185e6e012cb54a77e88f2" sha256="b224e8d4feb15c77e1478cdd4f0d0c65750f7f11af8811c217e8b839e5ed7cf9"/>
+	</machine>
+	<machine name="Chew-Man-Fu (USA)">
+		<category>Games</category>
+		<description>Chew-Man-Fu (USA)</description>
+		<rom name="Chew-Man-Fu (USA).pce" size="262144" crc="8cd13e9a" md5="ff32565f935af07372e1dfd0ac7fbe78" sha1="5c742fe5d5af5628ba0e598cb88abd892dc87682" sha256="4766db13b679c72d70912e68da83dd02e21b0028529df95a50d3557e995d4ddd"/>
+	</machine>
+	<machine name="China Warrior (USA)">
+		<category>Games</category>
+		<description>China Warrior (USA)</description>
+		<rom name="China Warrior (USA).pce" size="262144" crc="a2ee361d" md5="60bb0116b706fc30a76840ed0b5da458" sha1="1933869f66f30da4bc07b9ff6b6c2897b32088f2" sha256="3b9f459c864b1274861dd0cd9dd77928769553f69a8403cc5f4d984631ffbc36"/>
+	</machine>
+	<machine name="Circus Lido (Japan) (En)">
+		<category>Games</category>
+		<description>Circus Lido (Japan) (En)</description>
+		<rom name="Circus Lido (Japan) (En).pce" size="262144" crc="c3212c24" md5="bb10ab1d4e671e4c4adf7674acd7115f" sha1="b7a4157ad47d1f89ede201b56d5cd57650bcf18e" sha256="7fd0759fc9489950ec1a9029f958ec668915972fa9788597104f427b653867fb"/>
+	</machine>
+	<machine name="Cratermaze (USA)">
+		<category>Games</category>
+		<description>Cratermaze (USA)</description>
+		<rom name="Cratermaze (USA).pce" size="262144" crc="9033e83a" md5="653c1be1f0f5e032bc3ec6b4e2823b98" sha1="2fa767e37f3d2a272861f969bdc7a3435f207fbf" sha256="ab228a16877b457a6c35934f6f95abf10cbb1ef52dd469f2bae4b52368ef7edf"/>
+	</machine>
+	<machine name="Cross Wiber - Cyber Combat Police (Japan) (En)">
+		<category>Games</category>
+		<description>Cross Wiber - Cyber Combat Police (Japan) (En)</description>
+		<rom name="Cross Wiber - Cyber Combat Police (Japan) (En).pce" size="524288" crc="2df97bd0" md5="abf5d536a648dd2dd2281580eea8c2d5" sha1="9eed16c7df8e00faf9758cd5987fb06dbdf99cef" sha256="6da52da5dc3d6d62449e2e8eba66a8c946f78e06fd120f3baa8a18f2b47ba1e2"/>
+	</machine>
+	<machine name="Cyber Dodge (Japan) (En)">
+		<category>Games</category>
+		<description>Cyber Dodge (Japan) (En)</description>
+		<rom name="Cyber Dodge (Japan) (En).pce" size="524288" crc="b5326b16" md5="cbc880d19c5a996d58d8a8d9c468d31b" sha1="fd6e6ed4f8124a6db42dcddd34d08beacbb6dd52" sha256="1fd07d528b1db4869b44dbdd8ceb50fdab748e28be8bbe48273a7a1a395cb25c"/>
+	</machine>
+	<machine name="Cyber-Core (USA)">
+		<category>Games</category>
+		<description>Cyber-Core (USA)</description>
+		<rom name="Cyber-Core (USA).pce" size="393216" crc="4cfb6e3e" md5="c16b1aee2d7023b410dd5e513c4aec0b" sha1="d0765259b06b12dfda66d8b861954ebc62022440" sha256="97af9839a457f5359bc2bc1d8945f6fd5deda55373d17e40a5e1255fcd812b84"/>
+	</machine>
+	<machine name="Daisenpuu (Japan) (En)">
+		<category>Games</category>
+		<description>Daisenpuu (Japan) (En)</description>
+		<rom name="Daisenpuu (Japan) (En).pce" size="524288" crc="9107bcc8" md5="677302bdec15a9c56ef6b7aade125fad" sha1="81f8c8f01530bb3d22e2dd463202d0e26e7faf24" sha256="dc430f55e43624bafdd6ea6b5fe3bd97cb3cf208613bcf5ef40cd27da098d0c5"/>
+	</machine>
+	<machine name="Darius Alpha (Japan) (En) (SG Enhanced)">
+		<category>Games</category>
+		<description>Darius Alpha (Japan) (En) (SG Enhanced)</description>
+		<rom name="Darius Alpha (Japan) (En) (SG Enhanced).pce" size="393216" crc="b0ba689f" md5="c87135a6af3344c9316fe06fccbcfd97" sha1="f59c538fa632f687c356af70659fb07b37933f78" sha256="d1548a17e4a4fc8552cf9d8fd5626e98936ff92033d94df5b6d8b80d2f42ab8f"/>
+	</machine>
+	<machine name="Darius Plus (Japan) (En) (SG Enhanced)">
+		<category>Games</category>
+		<description>Darius Plus (Japan) (En) (SG Enhanced)</description>
+		<rom name="Darius Plus (Japan) (En) (SG Enhanced).pce" size="786432" crc="bebfe042" md5="3274eee61dae966e15822558940e5d4d" sha1="a362c06e4466b2b3dc7a682f892988189117ef62" sha256="db6c847145f7fdfb98a21ac86f2a515a4bac884972297244e144b9f58ee4e240"/>
+	</machine>
+	<machine name="Darkwing Duck (USA)">
+		<category>Games</category>
+		<description>Darkwing Duck (USA)</description>
+		<rom name="Darkwing Duck (USA).pce" size="524288" crc="4ac97606" md5="d2a603fad8df15b3c617b7e8b24e8606" sha1="8c0cf2b058daef3ff5438808bfd48b9393c23b58" sha256="67400494a7940b1a8c2c6c3d9ea371e3a3cbd7523b2435af4e967a45caa7afa4"/>
+	</machine>
+	<machine name="Davis Cup Tennis (USA)">
+		<category>Games</category>
+		<description>Davis Cup Tennis (USA)</description>
+		<rom name="Davis Cup Tennis (USA).pce" size="524288" crc="9edab596" md5="b45d198d7895d10e41f308427dab6b3f" sha1="7e3ad77375d9c62e060cd6f6e57493196a4a739d" sha256="eb9cc11ba7de7da8b3c1204fb42b16244203b7577d687801a7ef1d18ebba4ba9"/>
+	</machine>
+	<machine name="Dead Moon (USA)">
+		<category>Games</category>
+		<description>Dead Moon (USA)</description>
+		<rom name="Dead Moon (USA).pce" size="524288" crc="f5d98b0b" md5="47e3d20a759659e30cef20aaaa5731b0" sha1="b289533a795ef874cc9bac158e3035101f892475" sha256="71a23db8100624451e020eb7fdb9275194783ce745603016e91247cbc1e0a709"/>
+	</machine>
+	<machine name="Deep Blue (USA)">
+		<category>Games</category>
+		<description>Deep Blue (USA)</description>
+		<rom name="Deep Blue (USA).pce" size="262144" crc="16b40b44" md5="ae3165e430f12fd57de382ab34e16dee" sha1="91b8dd861d848033bb95b0c8c5e878ee827fef41" sha256="1bf44c8ccbebdbd2f80ce3a318cc0e2140c934e122b3460e6a530623349e0489"/>
+	</machine>
+	<machine name="Devil's Crush (USA)">
+		<category>Games</category>
+		<description>Devil's Crush (USA)</description>
+		<rom name="Devil's Crush (USA).pce" size="393216" crc="157b4492" md5="92fbe89d4c87bf283dbfbeac69a64e6e" sha1="1c54fb80e5acf82d7346dd7f2e8db8c74c58f4ba" sha256="9ad122903ec34cb8e62ba1aae1cfddbfcb06657d0fba55d6d0b1d280f88e30f9"/>
+	</machine>
+	<machine name="Double Dungeons (USA)">
+		<category>Games</category>
+		<description>Double Dungeons (USA)</description>
+		<rom name="Double Dungeons (USA).pce" size="262144" crc="4a1a8c60" md5="5ba010cd617c6f2b0f6e926fd4ef8a42" sha1="4e81f6cfa47ed941922492889be432041ff99e25" sha256="39fde08a056ccc10d9fdf3cd4ef79561ba21c35bc71e8a7ffe24a402df4d464f"/>
+	</machine>
+	<machine name="Dragon Saber (Japan) (En)">
+		<category>Games</category>
+		<description>Dragon Saber (Japan) (En)</description>
+		<rom name="Dragon Saber (Japan) (En).pce" size="524288" crc="3219849c" md5="a8dbe74d6cb012951478202e3b5ea08a" sha1="6d94cd3e27dbe1694229f7f006dc821be4764aa2" sha256="96f66ce375d9eef9bc3abfcec96bbf7a4cac8de81891dcebe783e78cb7759200"/>
+	</machine>
+	<machine name="Dragon Spirit (USA)">
+		<category>Games</category>
+		<description>Dragon Spirit (USA)</description>
+		<rom name="Dragon Spirit (USA).pce" size="262144" crc="086f148c" md5="1fe13078c7aba4ef0777d5a470d56986" sha1="3bdd082360335232715633b469da71ab2597279d" sha256="f502fd6aa604c8ac42a1808f656355994a1424dcca3ebef9d4d899565f7da99b"/>
+	</machine>
+	<machine name="Dragon's Curse (USA)">
+		<category>Games</category>
+		<description>Dragon's Curse (USA)</description>
+		<rom name="Dragon's Curse (USA).pce" size="262144" crc="7d2c4b09" md5="55153240fe1d0076c4f759b82f2d7e3e" sha1="39b382725e38d6303ae2b19f1cabbd96ca661b07" sha256="549741dedb9a78a1d093f32449f0e51a6fcc2c40e99baddd1b626f6fac46ea17"/>
+	</machine>
+	<machine name="Drop Off (USA)">
+		<category>Games</category>
+		<description>Drop Off (USA)</description>
+		<rom name="Drop Off (USA).pce" size="262144" crc="fea27b32" md5="7df6342574ed3e0241029a11f1f5c4da" sha1="54bb6ea11aca4ca6a16ba439828ba1f6fada3623" sha256="82ac6b4ca829b15ffec8f7a1739b828adf42c3cf60f37dd1d113a824a7070498"/>
+	</machine>
+	<machine name="Dungeon Explorer (USA)">
+		<category>Games</category>
+		<description>Dungeon Explorer (USA)</description>
+		<rom name="Dungeon Explorer (USA).pce" size="393216" crc="4ff01515" md5="a07c43bea439c8c904bc4908737af5c5" sha1="d6d18128d55d886a9b6a8c8ea65af76e783001f9" sha256="b6cceb5226c5be1e5339c95cdceef6ea4d31ecef428f24012953d8a38f44ecb8"/>
+	</machine>
+	<machine name="Dungeons &amp; Dragons - Order of the Griffon (USA)">
+		<category>Games</category>
+		<description>Dungeons &amp; Dragons - Order of the Griffon (USA)</description>
+		<rom name="Dungeons &amp; Dragons - Order of the Griffon (USA).pce" size="524288" crc="fae0fc60" md5="30fa2b6c1083e1b382fcaa2cac782e08" sha1="bbfdcaaed7ed9c96364e3ca36807b9ac3bac8622" sha256="d0f353088b3edf793038d7ec2a9e693b504689827c693b553b6341b58ae03491"/>
+	</machine>
+	<machine name="F1 Triple Battle (Japan) (En)">
+		<category>Games</category>
+		<description>F1 Triple Battle (Japan) (En)</description>
+		<rom name="F1 Triple Battle (Japan) (En).pce" size="393216" crc="13bf0409" md5="e6cfec9aa8d327b80c01ce40348101ab" sha1="0a219b433529b3214f42734c2a144d238cb3c99c" sha256="81ee45aad5e385e6ccd03a6f2ce09f03af2e7aa625185a256a20df537d166a70"/>
+	</machine>
+	<machine name="Falcon (USA)">
+		<category>Games</category>
+		<description>Falcon (USA)</description>
+		<rom name="Falcon (USA).pce" size="524288" crc="0bc0a12b" md5="23ece73eac29304b0300cebcf52841a4" sha1="f02871ef343a59723f1eaf7aee36c626f15e12b2" sha256="528c79f4bd86665f64ba1fd4e59bd92a3e13efbfa2a434e72f8f5d763c266a5b"/>
+	</machine>
+	<machine name="Fantasy Zone (USA)">
+		<category>Games</category>
+		<description>Fantasy Zone (USA)</description>
+		<rom name="Fantasy Zone (USA).pce" size="262144" crc="e8c3573d" md5="0c5fc299491c50c2d2f532308597a159" sha1="7c419163d860691dfea9720639921190e20e3c97" sha256="2aedb10b9c99c69557c17a9658a8e072474172193f9f83ee1fd45374f29f06a3"/>
+	</machine>
+	<machine name="Final Blaster (Japan) (En)">
+		<category>Games</category>
+		<description>Final Blaster (Japan) (En)</description>
+		<rom name="Final Blaster (Japan) (En).pce" size="393216" crc="c90971ba" md5="b0fe98f3f2a7ce5407353bb5d3207db8" sha1="4a013fde3938ceaacf38fcc4f56828d1292142d0" sha256="e974d8467e56bf64908dcb27d148579f67af520bb29bfe4183e6c56a8cdd8d8c"/>
+	</machine>
+	<machine name="Final Lap Twin (USA)">
+		<category>Games</category>
+		<description>Final Lap Twin (USA)</description>
+		<rom name="Final Lap Twin (USA).pce" size="393216" crc="26408ea3" md5="70ea7c2d63fcc6a9719a85bba9cebc04" sha1="7ec6e816c4d89943d06dc88108ee415ed1f57be9" sha256="58d3ec034136b136ad390db9d5d82ae08beb3c2ca25dc1bd4e96caafadaaf7eb"/>
+	</machine>
+	<machine name="Final Soldier (Japan) (En)">
+		<category>Games</category>
+		<description>Final Soldier (Japan) (En)</description>
+		<rom name="Final Soldier (Japan) (En).pce" size="524288" crc="af2dd2af" md5="fe5b3f899f0ee5994508f259bbb74cfe" sha1="ce89c6ea5d9eb36a642742ecad9c35c16b761c49" sha256="9af9e2ee8cadb39461394a811cd05424159c069389e48882a61d6ee3f6faf78c"/>
+	</machine>
+	<machine name="Formation Soccer - Human Cup '90 (Japan) (En)">
+		<category>Games</category>
+		<description>Formation Soccer - Human Cup '90 (Japan) (En)</description>
+		<rom name="Formation Soccer - Human Cup '90 (Japan) (En).pce" size="262144" crc="85a1e7b6" md5="229eadd97abff922f2e3911f91f6a871" sha1="d53db608475ca26ff81837dc43b40726bd0440a5" sha256="fee7834722945464ca3865a1bc0b11b1f34ef9d8f15f5533c8bbbc827b42443c"/>
+	</machine>
+	<machine name="Galaga '90 (USA)">
+		<category>Games</category>
+		<description>Galaga '90 (USA)</description>
+		<rom name="Galaga '90 (USA).pce" size="262144" crc="2909dec6" md5="94814db23e163dbfc7d7505170e145c2" sha1="ff73a144eb2da537d0e1a3c8c56ef197fd6ce1ce" sha256="3082d86586ed868e19c948b27b9271a694fc0fb30206bcc88e5c14e369dc961b"/>
+	</machine>
+	<machine name="Ghost Manor (USA)">
+		<category>Games</category>
+		<description>Ghost Manor (USA)</description>
+		<rom name="Ghost Manor (USA).pce" size="524288" crc="2db4c1fd" md5="2f2d4d92c14ba5770edd5f449507aac8" sha1="7092a265599194a280eca9314b496079cc49dcbd" sha256="391ac4ca02931b25531bdc69502dcf0defe5499e302991cb41e3f14c36f9c44f"/>
+	</machine>
+	<machine name="Gomola Speed (Japan) (En)">
+		<category>Games</category>
+		<description>Gomola Speed (Japan) (En)</description>
+		<rom name="Gomola Speed (Japan) (En).pce" size="393216" crc="4bd38f17" md5="58418c0db028885a2f49abf4993f2b0e" sha1="fe4b08fb0cd9d0a53726c2709db3e31fbeae1213" sha256="2653ea19c4c09d674866e46240ba8653599f948c93743c85092b0382f14b2013"/>
+	</machine>
+	<machine name="Gradius (Japan) (En)">
+		<category>Games</category>
+		<description>Gradius (Japan) (En)</description>
+		<rom name="Gradius (Japan) (En).pce" size="262144" crc="0517da65" md5="16fe78b1630a790bee6755e3c850a366" sha1="338f62b6d57f30b1850c32f5ae0d8c26c761974b" sha256="0e6f41a37b0b856649490ff927a1e4e052c7c47c5d4298f4d0502181155007f8"/>
+	</machine>
+	<machine name="Gunboat (USA)">
+		<category>Games</category>
+		<description>Gunboat (USA)</description>
+		<rom name="Gunboat (USA).pce" size="524288" crc="f370b58e" md5="58daff928a279867cd0629185d2c0733" sha1="0df6ede67061f5bca487fa01a8ea71640ef673a5" sha256="439cd2c04f614ea6abb44e0210a512a1f4f0c0f8bd303272195ca4048a38230a"/>
+	</machine>
+	<machine name="Hatris (Japan) (En)">
+		<category>Games</category>
+		<description>Hatris (Japan) (En)</description>
+		<rom name="Hatris (Japan) (En).pce" size="131072" crc="44e7df53" md5="03d5882776b8dad0ddceff42a173d493" sha1="1e2475ae58f1e612591aca44d742cc6558d75e15" sha256="6c4e30de9064c41aed242f961a821d92ac493327b7e70a17883c3ec598bb7679"/>
+	</machine>
+	<machine name="Heavy Unit (Japan) (En)">
+		<category>Games</category>
+		<description>Heavy Unit (Japan) (En)</description>
+		<rom name="Heavy Unit (Japan) (En).pce" size="393216" crc="eb923de5" md5="fc73cb01460d932319dd3eeff3032951" sha1="d55b3f1bf4f26e37be745e8bfade4384912eb647" sha256="4d7ddeee972187b20dbf38aa76f8e4ccf07dbef17ac85c9fcd68cd36f2ab4b76"/>
+	</machine>
+	<machine name="Hit the Ice - VHL - The Official Video Hockey League (USA)">
+		<category>Games</category>
+		<description>Hit the Ice - VHL - The Official Video Hockey League (USA)</description>
+		<rom name="Hit the Ice - VHL - The Official Video Hockey League (USA).pce" size="393216" crc="8b29c3aa" md5="d2f94b64b528c320d5ee148fe77f05f5" sha1="19f201ffeb790c4d5685e5241cf5b37c25e15480" sha256="efe0ec9b264d87feedf1c878fd639d7fa168a86e5fedfbd4282d22e9c82b85c8"/>
+	</machine>
+	<machine name="Hyper Dyne - SideArms (Japan) (En)">
+		<category>Games</category>
+		<description>Hyper Dyne - SideArms (Japan) (En)</description>
+		<rom name="Hyper Dyne - SideArms (Japan) (En).pce" size="262144" crc="e5e7b8b7" md5="c1e1d8e68b3f4b04990093a73d1ad77e" sha1="b732b3485bd8841d3571221170b04b7f699e9109" sha256="168d5f860b50256d7a302b6ba6ca1da6fac589458df1033486014ab130e0b7f6"/>
+	</machine>
+	<machine name="ImageFight (Japan) (En)">
+		<category>Games</category>
+		<description>ImageFight (Japan) (En)</description>
+		<rom name="ImageFight (Japan) (En).pce" size="524288" crc="a80c565f" md5="baf6760fcd3b43540d55afc71f929697" sha1="4f2256e49cc71613a6b35d224be706ee95df17b9" sha256="c1d837e4f53255058fc90765574717920e0b3376310c7a42d7d334e50394e7f6"/>
+	</machine>
+	<machine name="Impossamole (USA)">
+		<category>Games</category>
+		<description>Impossamole (USA)</description>
+		<rom name="Impossamole (USA).pce" size="524288" crc="e2470f5f" md5="d212a1bbb8d329d05910dc407ca60173" sha1="bda974dfebe28c125f081363da3bbe96777404d7" sha256="b0fd171c6077e744f38147ac2966ae67b86440cda68c83d80f897bd9cce69292"/>
+	</machine>
+	<machine name="J.J. &amp; Jeff (USA)">
+		<category>Games</category>
+		<description>J.J. &amp; Jeff (USA)</description>
+		<rom name="J.J. &amp; Jeff (USA).pce" size="262144" crc="e01c5127" md5="b614f91296aaed8afabd4f03f4ee40d1" sha1="18ae2d9031f49e54145d83ff90df4189c36adef1" sha256="42dd8623b9a08bca0b424d963b5b5e618b59d1e454f3888a1c278c70b6ab3fc1"/>
+	</machine>
+	<machine name="Jack Nicklaus' Turbo Golf (USA)">
+		<category>Games</category>
+		<description>Jack Nicklaus' Turbo Golf (USA)</description>
+		<rom name="Jack Nicklaus' Turbo Golf (USA).pce" size="262144" crc="83384572" md5="cf2610a2be004edfa2faa487b81386e3" sha1="49d240ec70e4f7cc98a14e4e4e5a0857bc1ee737" sha256="746955e845067a481c9ab1fd0c66ec48a927cc0ece3d5268993b8d15e9f553e1"/>
+	</machine>
+	<machine name="Jackie Chan's Action Kung Fu (USA)">
+		<category>Games</category>
+		<description>Jackie Chan's Action Kung Fu (USA)</description>
+		<rom name="Jackie Chan's Action Kung Fu (USA).pce" size="524288" crc="9d2f6193" md5="5a8c0f70f333ff03c8eb836eeb5f2ff9" sha1="33ee18e3cd6ba59ffca70fa7a1322d6e44a08682" sha256="8e339f40a7e0fdc717b2f0be5be6e2019f4206e74f48ebaa4b7da557dee6b40b"/>
+	</machine>
+	<machine name="Keith Courage in Alpha Zones (USA)">
+		<category>Games</category>
+		<description>Keith Courage in Alpha Zones (USA)</description>
+		<rom name="Keith Courage in Alpha Zones (USA).pce" size="262144" crc="474d7a72" md5="e5309b10903ccc3032c2f919e8db7384" sha1="09f37cf6ddbbf202994d88ac62225ca027e791ac" sha256="a9285ae1e51f7c6462abd2ec78a946aa0f86ee7d57e2b36f6a3c8ee1279d085b"/>
+	</machine>
+	<machine name="Kiki Kaikai (Japan) (En)">
+		<category>Games</category>
+		<description>Kiki Kaikai (Japan) (En)</description>
+		<rom name="Kiki Kaikai (Japan) (En).pce" size="393216" crc="c0cb5add" md5="b345329df7acc1938c291440dd1ed5ad" sha1="8dc4fce4beca91f51f123acf8f1cc659ed58d312" sha256="8ebfa389ee9affaa731dc4f548b457d598eee81ed87df32da2ae43c332647f35"/>
+	</machine>
+	<machine name="King of Casino (USA)">
+		<category>Games</category>
+		<description>King of Casino (USA)</description>
+		<rom name="King of Casino (USA).pce" size="262144" crc="2f2e2240" md5="8f4e92645be8de92e18527b31b4ee67e" sha1="b3bca08f73e6e1949b1f969a3d3e8a71b705673a" sha256="3c38cf362f1d671b3607b3dca7cb85a67c8649bfd3005a03272583d8225d7d1e"/>
+	</machine>
+	<machine name="Klax (USA)">
+		<category>Games</category>
+		<description>Klax (USA)</description>
+		<rom name="Klax (USA).pce" size="262144" crc="0f1b59b4" md5="8becf757a68f72a01428d4359165e463" sha1="4f032fdf7d836d021315bcd9b9903fdad4907f31" sha256="90f3c80aef7b45b5a7e025bf422b5fb22bd33327b731581f838575c9df0ea5ae"/>
+	</machine>
+	<machine name="Kyuukyoku Tiger (Japan) (En)">
+		<category>Games</category>
+		<description>Kyuukyoku Tiger (Japan) (En)</description>
+		<rom name="Kyuukyoku Tiger (Japan) (En).pce" size="262144" crc="09509315" md5="467c1ee6a921a3bbb4a94fc078f7353d" sha1="e062b7e1fe9fe04f9c29df38165e3a4eb867fe2d" sha256="4839db8e6cd3c1fccc8f97528f63e29c1ecb1bec31dae36d624bf7f28a1b27bc"/>
+	</machine>
+	<machine name="Legend of Hero Tonma (USA)">
+		<category>Games</category>
+		<description>Legend of Hero Tonma (USA)</description>
+		<rom name="Legend of Hero Tonma (USA).pce" size="524288" crc="3c131486" md5="cfaa094419809446cabfe739995e22ee" sha1="a87586ae18bd36f1c32e08b8b7a55afc6532fb3e" sha256="0bf74f9e89676f4bfaefdcbca7d651641146ee83ad71499ebb0c503aaceb7237"/>
+	</machine>
+	<machine name="Legendary Axe II (USA)">
+		<category>Games</category>
+		<description>Legendary Axe II (USA)</description>
+		<rom name="Legendary Axe II (USA).pce" size="262144" crc="220ebf91" md5="fbcbb34f678f6f70795bde96d295bc2f" sha1="3d537fbd2a7181639d297b829ce3f7d7556e831b" sha256="cbde8b2b16cd52c6043f58cb47d6625480fd7ab22b34abd61fb63b91e5004cf1"/>
+	</machine>
+	<machine name="Legendary Axe, The (USA)">
+		<category>Games</category>
+		<description>Legendary Axe, The (USA)</description>
+		<rom name="Legendary Axe, The (USA).pce" size="262144" crc="2d211007" md5="f69b506237ce7d05e7f839d2cc96ab5a" sha1="fc9829a802e400a088652b331e8522472f7ab2a0" sha256="a4c928eb305a6fdfadd245371dda8d3dc420b405f9398929ea3713e4555c4f35"/>
+	</machine>
+	<machine name="Magical Chase (USA)">
+		<category>Games</category>
+		<description>Magical Chase (USA)</description>
+		<rom name="Magical Chase (USA).pce" size="524288" crc="95cd2979" md5="74d9f1bd96ba2690ed4cb989ebaeb948" sha1="50c940cc9b52167cb99dd760c25079a19fc0aa2b" sha256="c5a39c9d9b2d753244816eafd68f504a855908eebab1b1c8fea2bbf7a4a813c7"/>
+	</machine>
+	<machine name="Metal Stoker (Japan) (En)">
+		<category>Games</category>
+		<description>Metal Stoker (Japan) (En)</description>
+		<rom name="Metal Stoker (Japan) (En).pce" size="524288" crc="25a02bee" md5="fdad7cca269ed1a0676df12fa07eae01" sha1="06ae3e73fe8a83aac0159995e6db1c087799a9c5" sha256="41c857f15eb479109996c24a403bb624afdf4b51d93564ad7f131b082839c280"/>
+	</machine>
+	<machine name="Military Madness (USA)">
+		<category>Games</category>
+		<description>Military Madness (USA)</description>
+		<rom name="Military Madness (USA).pce" size="393216" crc="93f316f7" md5="03d0442df107c97bb04c32de7cb7f5bc" sha1="01cf6be3fc11af874d25fc64bfb74f2f044f1bce" sha256="bbddcf77eaeee374f69d850b6cde686f03f94c823ba9193abab491bf56265a53"/>
+	</machine>
+	<machine name="Moto Roader (USA)">
+		<category>Games</category>
+		<description>Moto Roader (USA)</description>
+		<rom name="Moto Roader (USA).pce" size="262144" crc="e2b0d544" md5="1b10baf9f65c8339a507e382bda5ed44" sha1="bd92a8e6a1e860305a0943878a3b4a56ddde5478" sha256="4fca3b7899afe2c0ce47914c236ae26d27c26555eff01d46fc2b99ed703e7e92"/>
+	</machine>
+	<machine name="Moto Roader II (Japan) (En)">
+		<category>Games</category>
+		<description>Moto Roader II (Japan) (En)</description>
+		<rom name="Moto Roader II (Japan) (En).pce" size="393216" crc="0b7f6e5f" md5="61bf2f34550c6f0db25c9f5221ede032" sha1="101f6e3c90b314496b73ee9feab9a98f8d9b7821" sha256="db6bd728b98f6c2ec32043a315f4d9abad524f523eca7b6a2809b6b49aa8c693"/>
+	</machine>
+	<machine name="Neutopia (USA)">
+		<category>Games</category>
+		<description>Neutopia (USA)</description>
+		<rom name="Neutopia (USA).pce" size="393216" crc="a9a94e1b" md5="eb0789088fc70be42b2f994c1b66be21" sha1="95d5fdbd6c9d6da2f288312309c2badd92f89cf4" sha256="f64585688d0d8b1173c67c4719e16f16f40defa7b1009c3c35063fc5f634b8b7"/>
+	</machine>
+	<machine name="Neutopia II (USA)">
+		<category>Games</category>
+		<description>Neutopia II (USA)</description>
+		<rom name="Neutopia II (USA).pce" size="786432" crc="c4ed4307" md5="36678d3ec3b9eb534d9807be79587c8c" sha1="d916c84955438b6fdfaea5b7696472ce479d4ff1" sha256="a7d5b5d1bf9d28af057c921dd80d21a998a5bcd9664694c738d3fbc69dd0295a"/>
+	</machine>
+	<machine name="New Adventure Island (USA)">
+		<category>Games</category>
+		<description>New Adventure Island (USA)</description>
+		<rom name="New Adventure Island (USA).pce" size="524288" crc="756a1802" md5="254434d0b15618dcff7c88d5ebdde248" sha1="bea7a4e5445d3a4f8610524471b83216e57f48e2" sha256="cb3d99ea5b65f979b28d8a3c6753e9f63aa0aa44f3391e0347e0f5e0d440f85e"/>
+	</machine>
+	<machine name="NewZealand Story, The (Japan) (En)">
+		<category>Games</category>
+		<description>NewZealand Story, The (Japan) (En)</description>
+		<rom name="NewZealand Story, The (Japan) (En).pce" size="393216" crc="8e4d75a8" md5="553dd0a65c0d060290f66c820ca94b1c" sha1="cda9acea9cae4899af35b6c49b9ed449c240af16" sha256="ab3b28423a2f0f3bd15b6f39f389d81313ccb8fa7f369af84a0ccf69f6222ed3"/>
+	</machine>
+	<machine name="Night Creatures (USA)">
+		<category>Games</category>
+		<description>Night Creatures (USA)</description>
+		<rom name="Night Creatures (USA).pce" size="524288" crc="c159761b" md5="e658e63f886560e9c388e2a9ee2eb349" sha1="16c4b43f92f5bc6c99fe84f71daff76cf1c0d0a6" sha256="77f63df136c60517bef370e352bb30b0ec0a0385cdae629ef9a74e2958e922fa"/>
+	</machine>
+	<machine name="Ninja Ryuuken Den (Japan) (En,Ja,Zh)">
+		<category>Games</category>
+		<description>Ninja Ryuuken Den (Japan) (En,Ja,Zh)</description>
+		<rom name="Ninja Ryuuken Den (Japan) (En,Ja,Zh).pce" size="524288" crc="67573bac" md5="80498e6a60d2cd9aa925f45cbefbff83" sha1="7f6a088424f849fc80f883d19533c031305d9616" sha256="3514f2e33257d6d4249aa0f0bee39c0fc7f395e1c8a37a6125b1e33601ace8e2"/>
+	</machine>
+	<machine name="Ninja Spirit (USA)">
+		<category>Games</category>
+		<description>Ninja Spirit (USA)</description>
+		<rom name="Ninja Spirit (USA).pce" size="524288" crc="de8af1c1" md5="adecf9e9d9be8a300818ad2cc09d49fe" sha1="515eb414fc404d798206faad33fbcc5985fbbccb" sha256="d949cb57ad44937f0070e70306de1b9b48eb027ebbb9ed649111b3d329b54595"/>
+	</machine>
+	<machine name="Ordyne (USA)">
+		<category>Games</category>
+		<description>Ordyne (USA)</description>
+		<rom name="Ordyne (USA).pce" size="524288" crc="e7bf2a74" md5="d803eb8f622521e515ff1dd715e725c0" sha1="06880cfeaf9a495cefa49e8c4fc2e94887d1543b" sha256="97878e97d6c498da895671d49e34e2e3b0653b94a56aba639a25eb196e8ace4e"/>
+	</machine>
+	<machine name="OutRun (Japan) (En)">
+		<category>Games</category>
+		<description>OutRun (Japan) (En)</description>
+		<rom name="OutRun (Japan) (En).pce" size="524288" crc="e203f223" md5="6dbeaf201713b8a2ffd0f2104fde1dfc" sha1="4db6d354171a6e5f81d17d11e1aca7278a1fa95e" sha256="f9aea093f9a2de9fe1de1f2cde35f7615a7856c43958131aebe026b54d226ed1"/>
+	</machine>
+	<machine name="Override (Japan) (En)">
+		<category>Games</category>
+		<description>Override (Japan) (En)</description>
+		<rom name="Override (Japan) (En).pce" size="262144" crc="b74ec562" md5="5c401f3e2ac7ceb85e85bb82cb46be24" sha1="9da08c896e02b67257521b948c2fa5bc55724c0d" sha256="482320bde6d5843e85512e2cc1711f4f7831f0f8954c30f3301c9dd019e70e3c"/>
+	</machine>
+	<machine name="P-47 - The Freedom Fighter (Japan) (En)">
+		<category>Games</category>
+		<description>P-47 - The Freedom Fighter (Japan) (En)</description>
+		<rom name="P-47 - The Freedom Fighter (Japan) (En).pce" size="262144" crc="7632db90" md5="bfed2ef7677886467236dc92e09d63c3" sha1="54face25e1bdd6c1b842b957bcce272797ba7f1c" sha256="1c89c74bedf025b122c7a0b26351605b65f0c5de863addd67a09fa2a02b2d541"/>
+	</machine>
+	<machine name="Pac-Land (USA)">
+		<category>Games</category>
+		<description>Pac-Land (USA)</description>
+		<rom name="Pac-Land (USA).pce" size="262144" crc="d6e30ccd" md5="5cc45bfe5da979c51417e77bfe221a2b" sha1="ff74f1812196ec5c64df4b9a78a4697d3b53ef1a" sha256="814b8269e340af5e468cb91a79a5abc6b581322924556c5255be86f5a4392774"/>
+	</machine>
+	<machine name="Parasol Stars - The Story of Bubble Bobble III (USA)">
+		<category>Games</category>
+		<description>Parasol Stars - The Story of Bubble Bobble III (USA)</description>
+		<rom name="Parasol Stars - The Story of Bubble Bobble III (USA).pce" size="393216" crc="e6458212" md5="dce241d9642866f75810f6ac3e3c6a4d" sha1="c87524b4bd6e628e6f0551e8e50fded206ebe137" sha256="144b7a2b652af5c9376abd0e6baea752bf12e832373191af596b689095409751"/>
+	</machine>
+	<machine name="Parodius Da! - Shinwa kara Owarai e (Japan) (En)">
+		<category>Games</category>
+		<description>Parodius Da! - Shinwa kara Owarai e (Japan) (En)</description>
+		<rom name="Parodius Da! - Shinwa kara Owarai e (Japan) (En).pce" size="1048576" crc="647718f9" md5="39f5f51e066e2d7874efcff7d6f394ef" sha1="5110dcc06efd1daaeb98305378d818519da88d28" sha256="d0655b12a5985752c16b69eefaeebe146bb113467419ee15375f0bbce1074c23"/>
+	</machine>
+	<machine name="Populous (Japan) (En)">
+		<category>Games</category>
+		<description>Populous (Japan) (En)</description>
+		<rom name="Populous (Japan) (En).pce" size="524288" crc="083c956a" md5="9d599a43d2c69738f3562f58aeff8828" sha1="4912ccc31bdd45ef9483ea345bbe4c4ff2d70779" sha256="16a796634a2b3da417a775cb64ffa3322ad7baf901c288934d28df967f7977f6"/>
+	</machine>
+	<machine name="Power Drift (Japan) (En)">
+		<category>Games</category>
+		<description>Power Drift (Japan) (En)</description>
+		<rom name="Power Drift (Japan) (En).pce" size="524288" crc="25e0f6e9" md5="c7f4c99ccb9f56ef954f3ccf332ce0db" sha1="1ffe1111a570b0cca256a356965fd6cdf7bcf2e9" sha256="61879f829d79235538bdf38d26dd3f2c838f7087e8a4b3600eaf9959bd609290"/>
+	</machine>
+	<machine name="Power Golf (USA)">
+		<category>Games</category>
+		<description>Power Golf (USA)</description>
+		<rom name="Power Golf (USA).pce" size="393216" crc="ed1d3843" md5="8a524c7491bd6614e9c92bb7117a57f3" sha1="a9a05cacbcae9031fc95b54ace08864a97affd6e" sha256="7548bcec72b21492d1e027fe259300efc486a31960dea38b1420a11d88c63aef"/>
+	</machine>
+	<machine name="Psycho Chaser (Japan) (En)">
+		<category>Games</category>
+		<description>Psycho Chaser (Japan) (En)</description>
+		<rom name="Psycho Chaser (Japan) (En).pce" size="262144" crc="03883ee8" md5="c21fe0981bf333dbf7b58382f5d309bb" sha1="753fc6f1aa16770c87cc12967a43e951a7b1ec83" sha256="942e686d1b668c72e41a15904e817b692bf4ef514164aa58dcc496a00fdde899"/>
+	</machine>
+	<machine name="Psychosis (USA)">
+		<category>Games</category>
+		<description>Psychosis (USA)</description>
+		<rom name="Psychosis (USA).pce" size="262144" crc="6cc10824" md5="c23ef1ca95a5aa6789c4172ac66d6b5d" sha1="1cfcfc95bb01b24755e1fc9c3dfea393cb3cc3a9" sha256="5b9d47aac4ed3c9a898ade3db0151e9007c8d94c2aa9048e03fbe8f1323acf9b"/>
+	</machine>
+	<machine name="Puzznic (Japan) (En)">
+		<category>Games</category>
+		<description>Puzznic (Japan) (En)</description>
+		<rom name="Puzznic (Japan) (En).pce" size="262144" crc="965c95b3" md5="a8cdcc33207037a02868f366de6582ea" sha1="3906d644f5901e6d2e732cbd0a6dd0d38a29486b" sha256="712b5ef904fda93652d301cd04847d92bd10fdd00156db32ed7352a6336e5ada"/>
+	</machine>
+	<machine name="R-Type (USA)">
+		<category>Games</category>
+		<description>R-Type (USA)</description>
+		<rom name="R-Type (USA).pce" size="524288" crc="91ce5156" md5="0e0040142b5227f2b85be27364d5ea01" sha1="7e3d4dc9e8d880ac8d813fa69af0c6804b75cd9a" sha256="87a443f6b8170d8fe71d470500059b4da36f8552064684f144bb6e4329bc6f4f"/>
+	</machine>
+	<machine name="Raiden (USA)">
+		<category>Games</category>
+		<description>Raiden (USA)</description>
+		<rom name="Raiden (USA).pce" size="786432" crc="bc59c31e" md5="5d08e419351cf3ee85e6536070cbb94f" sha1="910e7346976b7a6e83ddb7e68b49d33ced9dbc2c" sha256="0dd97f99a0ce4ff8533eb6513fc9f95bc86004286e1b47be2b9c8bc649288987"/>
+	</machine>
+	<machine name="Rastan Saga II (Japan) (En)">
+		<category>Games</category>
+		<description>Rastan Saga II (Japan) (En)</description>
+		<rom name="Rastan Saga II (Japan) (En).pce" size="393216" crc="00c38e69" md5="e998693ab9d694eebe66e5942fd5137e" sha1="cf06ba4d1bd31ebd69f0415ae52848f752ec8f6b" sha256="c60e68a5ddc1396c8740f14ed0334288d915208d7a2c9b08e4bb1f01377d1076"/>
+	</machine>
+	<machine name="Salamander (Japan) (En)">
+		<category>Games</category>
+		<description>Salamander (Japan) (En)</description>
+		<rom name="Salamander (Japan) (En).pce" size="262144" crc="faecce20" md5="3c60a87ef4f90b20e149330e26253f4d" sha1="a24e3a4ff36ec9fffd5ea1f4c6b526f61f842584" sha256="24e78ca55d4ac13c9c401ee72ba2315cd08b3eb07e785fdd75935d5594ab00d0"/>
+	</machine>
+	<machine name="Samurai-Ghost (USA)">
+		<category>Games</category>
+		<description>Samurai-Ghost (USA)</description>
+		<rom name="Samurai-Ghost (USA).pce" size="524288" crc="77a924b7" md5="6e32e0516ea74eb94a4f0bc8bd9dc47c" sha1="f6f26d8e4caafa7378f2756dd46569de4042dbbb" sha256="e4cfdac3e237c8ee940bfa7c18e3bfd01644c8dfc86462687ba9c9910c899348"/>
+	</machine>
+	<machine name="Shockman (USA)">
+		<category>Games</category>
+		<description>Shockman (USA)</description>
+		<rom name="Shockman (USA).pce" size="524288" crc="2774462c" md5="57c888f4af792dc4588a2f9dbebea31a" sha1="f3e0f9546afe257748496a652f138dbc318bed05" sha256="0e05643c12561ee00ea064986b58c07b4bfcfc1a1ef57a90e0aa4a9075ad4a8a"/>
+	</machine>
+	<machine name="SideArms (USA)">
+		<category>Games</category>
+		<description>SideArms (USA)</description>
+		<rom name="SideArms (USA).pce" size="262144" crc="d1993c9f" md5="a97b9af7e814deb4e4358a466e7cd3c2" sha1="773a372ef5ee599ebd6f048fddb86739e255583e" sha256="06b8ac408d5f7942165bb06b5ce0795a6283022d034ca70dc256e17ed1af87cd"/>
+	</machine>
+	<machine name="Silent Debuggers (USA)">
+		<category>Games</category>
+		<description>Silent Debuggers (USA)</description>
+		<rom name="Silent Debuggers (USA).pce" size="524288" crc="fa7e5d66" md5="46719950684f5148c20730c6fd7df4a0" sha1="c010ba9ff55a2558bba94ac39aa0160c76daff0c" sha256="2cd020073cfd1728904a3c599ce8b9763312da8afa53d991508b3c90fe5de1d1"/>
+	</machine>
+	<machine name="Sinistron (USA)">
+		<category>Games</category>
+		<description>Sinistron (USA)</description>
+		<rom name="Sinistron (USA).pce" size="393216" crc="4f6e2dbd" md5="1c5eb68a65115abaccd9479503fd3a2b" sha1="65defeeecfe60564a214b6572f94243fcfea78e0" sha256="c702a6b28a733f32eda3786cba7305b7e00ad482f4f10d889b0450516d2bc68c"/>
+	</machine>
+	<machine name="Skweek (Japan) (En)">
+		<category>Games</category>
+		<description>Skweek (Japan) (En)</description>
+		<rom name="Skweek (Japan) (En).pce" size="262144" crc="4d539c9f" md5="f411b4693c959657415346655dd062bc" sha1="3436b48a9c748269f6ae65e40c9115a27321d440" sha256="f12a3fe1ea05afa8c6298a7aa5c8dcc205b1309049479c637288f7687e91e137"/>
+	</machine>
+	<machine name="Soldier Blade (USA)">
+		<category>Games</category>
+		<description>Soldier Blade (USA)</description>
+		<rom name="Soldier Blade (USA).pce" size="524288" crc="4bb68b13" md5="59d23b7af39ea827eceb1d7e2cc363c0" sha1="3b4cc242f68a1d61c83a1a0dbdee23d2ae8f1427" sha256="e9901fd864a8fc911316451331ffd2767e1299db93e58c6a00a9a8d661f8741d"/>
+	</machine>
+	<machine name="Somer Assault (USA)">
+		<category>Games</category>
+		<description>Somer Assault (USA)</description>
+		<rom name="Somer Assault (USA).pce" size="524288" crc="8fcaf2e9" md5="0060840cb54b2db4db8a2927d48c6c54" sha1="bb6b5a59106bd60fbe7b1d7def7f73253440b49a" sha256="d5d1d370529aea78c1797f01a20bdc61f2786663409bb6d2d27357cd01998d29"/>
+	</machine>
+	<machine name="Sonic Spike - World Championship Beach Volleyball (USA)">
+		<category>Games</category>
+		<description>Sonic Spike - World Championship Beach Volleyball (USA)</description>
+		<rom name="Sonic Spike - World Championship Beach Volleyball (USA).pce" size="262144" crc="f74e5eb3" md5="e9a17f9e425cb6cf3e14c83eddd7dc06" sha1="5a74eead0593190979028ef99a19519bab00b3ab" sha256="5e86106cf38989d275e05fac2c1bce37339ad51e5ad37792d00972892266bc57"/>
+	</machine>
+	<machine name="Space Harrier (USA)">
+		<category>Games</category>
+		<description>Space Harrier (USA)</description>
+		<rom name="Space Harrier (USA).pce" size="524288" crc="43b05eb8" md5="b87aba8faae39f238a8b2176daec96f4" sha1="948e6a5c30dcf945ab8332009ae4fa3ab231255a" sha256="de033172636f5cc214a4d365c7d643cb3ed720c7ca05e035142ac6f60704cb6a"/>
+	</machine>
+	<machine name="Spin Pair (Japan) (En)">
+		<category>Games</category>
+		<description>Spin Pair (Japan) (En)</description>
+		<rom name="Spin Pair (Japan) (En).pce" size="262144" crc="1c6ff459" md5="97a2bfd91ce98f2c941a1a6581701ac4" sha1="a903a3e3a55b1fd9064efa668bcea53055c12682" sha256="4cebcc93059b877357712fefea348465a88630a0b07f624192fee91da1573686"/>
+	</machine>
+	<machine name="Splatterhouse (USA)">
+		<category>Games</category>
+		<description>Splatterhouse (USA)</description>
+		<rom name="Splatterhouse (USA).pce" size="524288" crc="d00ca74f" md5="f6690ec0f440ced641718d6bc52e3fbd" sha1="e2167b5d67a065ec97763d3ee843ac2b2328c082" sha256="a9424ca8a5b6b9e559575841779ab1ef57121837e085c7544d7fb6a026da2c7a"/>
+	</machine>
+	<machine name="Super Metal Crusher (Japan) (En)">
+		<category>Games</category>
+		<description>Super Metal Crusher (Japan) (En)</description>
+		<rom name="Super Metal Crusher (Japan) (En).pce" size="262144" crc="56488b36" md5="2958e95bb08aec03825f08bb955abdc6" sha1="6050eb365dcc42b90e8ddacf44685d72744ab4f0" sha256="876103fbea922c1cffd9269b362c4a00b8638d2a464c742a07daf8f3e25012d6"/>
+	</machine>
+	<machine name="Super Star Soldier (USA)">
+		<category>Games</category>
+		<description>Super Star Soldier (USA)</description>
+		<rom name="Super Star Soldier (USA).pce" size="524288" crc="db29486f" md5="bc7d4b0852d04fe49f6e3705b899c5e5" sha1="e0c487782e155b1cf50f5fb4c8d6a24be0301a6e" sha256="51c774a187925c5031b8b47b001098776f699f6a7835998a4f686688def23d19"/>
+	</machine>
+	<machine name="Super Volleyball (USA)">
+		<category>Games</category>
+		<description>Super Volleyball (USA)</description>
+		<rom name="Super Volleyball (USA).pce" size="262144" crc="245040b3" md5="2b31c6c01d779eec5bb19863e3c5af9b" sha1="de71722255d0136b47f63e93bedb2ed8b3d0d4f0" sha256="9e083426ffa62a9f7577a6540a48b7f07de3f8f17e701c2b9a87fc6e3c8ad05f"/>
+	</machine>
+	<machine name="TV Sports Basketball (USA)">
+		<category>Games</category>
+		<description>TV Sports Basketball (USA)</description>
+		<rom name="TV Sports Basketball (USA).pce" size="524288" crc="ea54d653" md5="36da17b2e751ec8660bb12f9cb2eb6b2" sha1="6c0fdeafa9dc1c4b7f935866e5bc620dd3151f3c" sha256="0b622f12a9d2218ef84461f316c9ffacb020e5a552ec93dc47b9b07b1aefe7e0"/>
+	</machine>
+	<machine name="TV Sports Football (USA)">
+		<category>Games</category>
+		<description>TV Sports Football (USA)</description>
+		<rom name="TV Sports Football (USA).pce" size="393216" crc="5e25b557" md5="94dc4d0d2a35a151b01f8a0433b12b12" sha1="b73f44ad60e0f4b13c6b80f5509cb51245cc8106" sha256="c8a438359f1a65c0f0a079b2c89274760b34a78e32244f11b677eca43c5f22e4"/>
+	</machine>
+	<machine name="TV Sports Hockey (USA)">
+		<category>Games</category>
+		<description>TV Sports Hockey (USA)</description>
+		<rom name="TV Sports Hockey (USA).pce" size="393216" crc="97fe5bcf" md5="85b530cc0513f23f1bcced8be7f7e503" sha1="f5cde3af4fac59e402a9c96c4adbbc9e55ce5936" sha256="866b93e455a2ebe5afff9386b517e02d1feb03e72c276ad8e7e3423e48c9a061"/>
+	</machine>
+	<machine name="Takin' It to the Hoop (USA)">
+		<category>Games</category>
+		<description>Takin' It to the Hoop (USA)</description>
+		<rom name="Takin' It to the Hoop (USA).pce" size="262144" crc="e9d51797" md5="ffba5f3b04a2faf9a991e8fa3a5d4008" sha1="1f36230efde7025730c1a0dbf3aa47b887440ecd" sha256="1c45ef3e86f54102458ca77a1455b46793c23f2cbf5e3e370b4460119d3e758d"/>
+	</machine>
+	<machine name="TaleSpin (USA)">
+		<category>Games</category>
+		<description>TaleSpin (USA)</description>
+		<rom name="TaleSpin (USA).pce" size="524288" crc="bae9cecc" md5="729f10adbf2b8b90d62ce79a7e48c8d1" sha1="987d16a0f329fc6831fc9b6dea1234684925aab4" sha256="f611542440d6a3302d73170a52829f248fe34dfb4a794a7f29498a623294d44c"/>
+	</machine>
+	<machine name="Tatsujin (Japan) (En)">
+		<category>Games</category>
+		<description>Tatsujin (Japan) (En)</description>
+		<rom name="Tatsujin (Japan) (En).pce" size="524288" crc="a6088275" md5="0674f72871d7a779d262b519d244e33a" sha1="dda768075fbf8c0624e2c1f217b1092513b1c942" sha256="5ee2ef834cc2cec4ee770156d9cad90c67c1cb1d77dd243f02700deabdf8a034"/>
+	</machine>
+	<machine name="Tenseiryuu - Saint Dragon (Japan) (En)">
+		<category>Games</category>
+		<description>Tenseiryuu - Saint Dragon (Japan) (En)</description>
+		<rom name="Tenseiryuu - Saint Dragon (Japan) (En).pce" size="393216" crc="2e278ccb" md5="92857243d4e985f1a58bec9cb2e16d58" sha1="a9637a5efeb555426a44ae1cc86ed25a9520759d" sha256="f879450b245891688177e53b845c07884e104bd647809ba5410370757c42f6f5"/>
+	</machine>
+	<machine name="Terra Cresta II - Mandoler no Gyakushuu (Japan) (En)">
+		<category>Games</category>
+		<description>Terra Cresta II - Mandoler no Gyakushuu (Japan) (En)</description>
+		<rom name="Terra Cresta II - Mandoler no Gyakushuu (Japan) (En).pce" size="524288" crc="1b2d0077" md5="64716e1013c5230e25f0249d8e641d5b" sha1="c58d3ea8df6cb518349d431d6b3d6fd2c14898ec" sha256="aff5f6531cd9e82f066941ee3c9f7daf79b0a4413b90322d203de6fbe7f57ca9"/>
+	</machine>
+	<machine name="Thunder Blade (Japan) (En)">
+		<category>Games</category>
+		<description>Thunder Blade (Japan) (En)</description>
+		<rom name="Thunder Blade (Japan) (En).pce" size="524288" crc="ddc3e809" md5="b4bf32b4d986fa5f53115c3f361a8679" sha1="553f8026dd68e85cd17855adbf920b3971acfdc4" sha256="f7c761aa5068badc6a52a473cad76993a699f04efcc6ec38e5c0d932d79f9366"/>
+	</machine>
+	<machine name="Tiger Road (USA)">
+		<category>Games</category>
+		<description>Tiger Road (USA)</description>
+		<rom name="Tiger Road (USA).pce" size="393216" crc="985d492d" md5="189aec122ac913609c955c7c62aaa2e2" sha1="2535994f2be5d7b80cf5725505a4b8e30daef236" sha256="1e3548093a4e1a67e29ae472579e54d7f057db3fd4dd0f4adb76ae27f9a77553"/>
+	</machine>
+	<machine name="Time Cruise (USA)">
+		<category>Games</category>
+		<description>Time Cruise (USA)</description>
+		<rom name="Time Cruise (USA).pce" size="524288" crc="02c39660" md5="28efe8b957a43facba53afe2aec38a69" sha1="55557a972375e58e5fcc5ee113d0ca40b332bbb2" sha256="8ab675036971d15538f0c63ea17d2542dcb437c6467ff3098ac083201d1d8764"/>
+	</machine>
+	<machine name="Timeball (USA)">
+		<category>Games</category>
+		<description>Timeball (USA)</description>
+		<rom name="Timeball (USA).pce" size="131072" crc="5d395019" md5="5ea85e345f3970ec6edf45da758121a0" sha1="bd11ef42d932a1cf89fe7dc81a2f4b7a3ee06e4e" sha256="849c520a22e6b166f34ccf7a5a56d2b1f3e9c43aa860d7df90cec7558078d3a9"/>
+	</machine>
+	<machine name="Titan (Japan) (En)">
+		<category>Games</category>
+		<description>Titan (Japan) (En)</description>
+		<rom name="Titan (Japan) (En).pce" size="262144" crc="d20f382f" md5="a9f182b617533d24200b4e39b2b311ad" sha1="7d12a65453c8d3d539104904a9a1eb9e429f9ab4" sha256="7d83395c8ccc97f82d1befead829439532de7306ad0fd0ee02f1629f72a1677f"/>
+	</machine>
+	<machine name="Toy Shop Boys (Japan) (En)">
+		<category>Games</category>
+		<description>Toy Shop Boys (Japan) (En)</description>
+		<rom name="Toy Shop Boys (Japan) (En).pce" size="262144" crc="97c5ee9a" md5="982f85207499ecd6530fcd6e18e2061c" sha1="d552223399ff54c3664a5a06fc620ffb717cea57" sha256="c6cb14a104fa4861169664986260d8d3992a141452be3d84fc1b0ad4db874132"/>
+	</machine>
+	<machine name="Tricky Kick (USA)">
+		<category>Games</category>
+		<description>Tricky Kick (USA)</description>
+		<rom name="Tricky Kick (USA).pce" size="262144" crc="48e6fd34" md5="8621c1eed634bddc9d232bb303a2c260" sha1="3fb1ba72af0e7ae33e35ae30ce0b7319adece208" sha256="6ec4f794011f0dabda5bb0a365671b43e734c158e69460581d0a4e909ac24d4a"/>
+	</machine>
+	<machine name="Turrican (USA)">
+		<category>Games</category>
+		<description>Turrican (USA)</description>
+		<rom name="Turrican (USA).pce" size="262144" crc="eb045edf" md5="52d40c4e0a8435308c22c69a54e4baae" sha1="a5830c0d5cd94e3c6f33e1799bb123857400b1bc" sha256="62bc16e81374bd98f627ae18cdbaf1bc68037e42e209d88b25b230c406501a16"/>
+	</machine>
+	<machine name="Veigues - Tactical Gladiator (USA)">
+		<category>Games</category>
+		<description>Veigues - Tactical Gladiator (USA)</description>
+		<rom name="Veigues - Tactical Gladiator (USA).pce" size="393216" crc="99d14fb7" md5="757754c27f380ce3f574bb861d641247" sha1="88a858feeba77031e7d2fb85e563aafcbd9b0b39" sha256="6a4da2c82128221431cc47020ad423e25c50a24fd03ccdd7cbbd5a775f40ba37"/>
+	</machine>
+	<machine name="Victory Run (USA)">
+		<category>Games</category>
+		<description>Victory Run (USA)</description>
+		<rom name="Victory Run (USA).pce" size="262144" crc="85cbd045" md5="bc4361c967514ef29293778ad748a6b7" sha1="bab16031a16490415cedd5ba47cbe4cadc3d8727" sha256="769aafaee88972586a77c2b4359ad837844a429a7e7b86ae36d25fcaf0266b20"/>
+	</machine>
+	<machine name="Vigilante (USA)">
+		<category>Games</category>
+		<description>Vigilante (USA)</description>
+		<rom name="Vigilante (USA).pce" size="393216" crc="79d49a0d" md5="589f7ceb0bd851f6442e53858a0dc51c" sha1="f77d83af4f1e733faf813b5e78ecc2cbb19d3b25" sha256="a6d0c3a9a9f0b212ff862f2a1cca21e5ffda124c037c3afbcde042bd39d49c55"/>
+	</machine>
+	<machine name="Volfied (Japan) (En)">
+		<category>Games</category>
+		<description>Volfied (Japan) (En)</description>
+		<rom name="Volfied (Japan) (En).pce" size="393216" crc="ad226f30" md5="998cfe18bf12b235462d21eb6d80c25f" sha1="0ecee557815b93fc37f2f5675c2c01c77ef8569e" sha256="bddf46819ad75331ac907c64a83e352e0d1e8b2e642ae680a8ef7cfaacb4880a"/>
+	</machine>
+	<machine name="W-Ring - The Double Rings (Japan) (En)">
+		<category>Games</category>
+		<description>W-Ring - The Double Rings (Japan) (En)</description>
+		<rom name="W-Ring - The Double Rings (Japan) (En).pce" size="393216" crc="be990010" md5="7c5f8476e6b5ec9e56f4b67a00f022e7" sha1="95d0a95ce9f08da3f096cfdc654ba5dfeb794add" sha256="3fa8da5f2d54bcd7aff9bf420692778e2c3870300822e796ecb8433479b8d627"/>
+	</machine>
+	<machine name="World Class Baseball (USA)">
+		<category>Games</category>
+		<description>World Class Baseball (USA)</description>
+		<rom name="World Class Baseball (USA).pce" size="262144" crc="4186d0c0" md5="b125af2edd2f27e04e693b4b5112fed7" sha1="fab372a908533fd444b6c829f881f2de103d93b6" sha256="6ef204d689fbb41da7c047d9b79c2ee115a55cf0344d3d64c787fc79f14d01e1"/>
+	</machine>
+	<machine name="World Court Tennis (USA)">
+		<category>Games</category>
+		<description>World Court Tennis (USA)</description>
+		<rom name="World Court Tennis (USA).pce" size="262144" crc="a4457df0" md5="994d61834e2ee91313b75618ce213971" sha1="d302676c409a59628935298b95c7ba43359b29bb" sha256="60c69ee6806aa614459549633bdc728e105f8592e535fcc796c24cd6d76a6bd1"/>
+	</machine>
+	<machine name="World Sports Competition (USA)">
+		<category>Games</category>
+		<description>World Sports Competition (USA)</description>
+		<rom name="World Sports Competition (USA).pce" size="524288" crc="4b93f0ac" md5="e413c2a7769831419c4efc9782dc4f97" sha1="1f301c468197c382c98692712db2fdee0a29525f" sha256="2decf3cadfd6679f0f884b05a406b9d098bf59cead5cb3378bccc063e0d49460"/>
+	</machine>
+	<machine name="Yo' Bro (USA)">
+		<category>Games</category>
+		<description>Yo' Bro (USA)</description>
+		<rom name="Yo' Bro (USA).pce" size="524288" crc="3ca7db48" md5="8aaad7004680ebede55b2c39af87bb3b" sha1="efff8d352af6c1d08899bac77fc3ddc994e0a3ba" sha256="b10965284827d2b2849ff4cb962a8a4ebe33097be58fd88c2c4973d886ba98a3"/>
+	</machine>
+	<machine name="Zipang (Japan) (En)">
+		<category>Games</category>
+		<description>Zipang (Japan) (En)</description>
+		<rom name="Zipang (Japan) (En).pce" size="262144" crc="67aab7a1" md5="749a1613022e9efe29dec953c3ecce9f" sha1="7b6214df81a978ab8d73e437510f5230e83403bd" sha256="bffec3c8c0e32438f45910fb80887070928f085a907be3ca51189d6c32489a50"/>
+	</machine>
+</datafile>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<name>Nintendo - Family Computer Disk System (FDS)</name>
+		<description>ENTrimmed (1G1R En)</description>
+		<category>Console</category>
+		<comment>Nintendo - Family Computer Disk System (FDS) (5) (-ny) [-AaBbcDdefkmMopPruv] (20241226-084326) (Retool)</comment>
+		<version>2025-06-01</version>
+		<author>Jamie S</author>
+		<homepage>https://github.com/JamieS01/ENTrimmed</homepage>
+		<url>https://github.com/JamieS01/ENTrimmed</url>
+		<retool>Created by Retool 2.3.9</retool>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<machine name="Clu Clu Land (Japan) (En) (Disk Writer)">
+		<category>Games</category>
+		<description>Clu Clu Land (Japan) (En) (Disk Writer)</description>
+		<rom name="Clu Clu Land (Japan) (En) (Disk Writer).fds" size="65500" crc="85e771b9" md5="a1802300b60961f7670f60acebc88842" sha1="dc1b3e6c0db8d1ad94c619c310f47a28b7adf884"/>
+	</machine>
+	<machine name="Pro Wres (Japan) (En)">
+		<category>Games</category>
+		<description>Pro Wres (Japan) (En)</description>
+		<rom name="Pro Wres (Japan) (En).fds" size="65500" crc="d6ce8ac6" md5="4123185940971b3b5f3bbd00cbe1fdf7" sha1="1ce6b58ec4ee95856012478687b6038279772b42"/>
+	</machine>
+	<machine name="Super Mario Bros. 2 (Japan) (En) (DV 2)">
+		<category>Games</category>
+		<description>Super Mario Bros. 2 (Japan) (En) (DV 2)</description>
+		<rom name="Super Mario Bros. 2 (Japan) (En) (DV 2).fds" size="65500" crc="5c419ee8" md5="f62909ad7125ed94ef0fc1d44164a518" sha1="08927227b6ff67f42e759505d176cd924931bd14"/>
+	</machine>
+	<machine name="Super Mario Bros. 2 (Japan) (En) (Game &amp; Watch - Super Mario Bros.)">
+		<category>Games</category>
+		<description>Super Mario Bros. 2 (Japan) (En) (Game &amp; Watch - Super Mario Bros.)</description>
+		<rom name="Super Mario Bros. 2 (Japan) (En) (Game &amp; Watch - Super Mario Bros.).fds" size="65500" crc="42b63ca5" md5="2a322bd3832945cf8d5f71644a9e2135" sha1="cb9fb99b7731ed05b81d4b6bae06e0fbf8d21fa8"/>
+	</machine>
+	<machine name="Vs. Excitebike (Japan) (En)">
+		<category>Games</category>
+		<description>Vs. Excitebike (Japan) (En)</description>
+		<rom name="Vs. Excitebike (Japan) (En).fds" size="131000" crc="febe1841" md5="8681dd0370e520d52274ebd5dd7eac24" sha1="010f6dc860b0bae80e55c199b3206e95ec14e31f"/>
+	</machine>
+</datafile>
