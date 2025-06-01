@@ -22,7 +22,7 @@ Here are the systems I intend to include in the initial release of the dats. The
 
 - 3DO Interactive Multiplayer: ReDump ~~& [T-En]~~
 - Atari 7800: No-Intro (BIN)
-- Atari Jaguar: No-Intro (J64) & No-Intro (ROM) 
+- Atari Jaguar: No-Intro (J64) ~~& No-Intro (ROM)~~
 - Atari Jaguar CD: ReDump
 - Atari Lynx: No-Intro (LYX)
 - Microsoft Xbox: ReDump ~~& [T-En]~~
