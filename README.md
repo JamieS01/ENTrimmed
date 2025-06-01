@@ -18,40 +18,40 @@
 
 ## Planned Systems
 
-Here are the systems I intend to include in the initial release of the dats. 
+Here are the systems I intend to include in the initial release of the dats. The initial release will not include entries from the T-En dats, as filtering these into a 1G1R set is a rather subjective process that requires careful consideration.
 
-- 3DO Interactive Multiplayer: ReDump & [T-En]
+- 3DO Interactive Multiplayer: ReDump ~~& [T-En]~~
 - Atari 7800: No-Intro (BIN)
 - Atari Jaguar: No-Intro (J64) & No-Intro (ROM) 
 - Atari Jaguar CD: ReDump
 - Atari Lynx: No-Intro (LYX)
-- Microsoft Xbox: ReDump & [T-En]
-- NEC PC-FX: ReDump & [T-En]
-- NEC TurboGrafx-16: No-Intro & [T-En]
-- NEC TurboGrafx-CD: ReDump & [T-En]
-- Nintendo 64: No-Intro (BigEndian) & [T-En]
+- Microsoft Xbox: ReDump ~~& [T-En]~~
+- NEC PC-FX: ReDump ~~& [T-En]~~
+- NEC TurboGrafx-16: No-Intro ~~& [T-En]~~
+- NEC TurboGrafx-CD: ReDump ~~& [T-En]~~
+- Nintendo 64: No-Intro (BigEndian) ~~& [T-En]~~
 - ~~Nintendo 64DD: No-Intro & [T-En]~~
-- Nintendo DS: Np-Intro (Decrypted) & [T-En]
-- Nintendo Entertainment System: No-Intro (Headered) & [T-En]
+- Nintendo DS: Np-Intro (Decrypted) ~~& [T-En]~~
+- Nintendo Entertainment System: No-Intro (Headered) ~~& [T-En]~~
 - Nintendo Famicom Disk System: No-Intro (FDS)
-- Nintendo Game Boy: No-Intro & [T-En] 
-- Nintendo Game Boy Advance: No-Intro & [T-En] 
-- Nintendo Game Boy Color: No-Intro & [T-En] 
-- Nintendo GameCube: RedumpCustom NKit RVZ & [T-En]
+- Nintendo Game Boy: No-Intro ~~& [T-En]~~
+- Nintendo Game Boy Advance: No-Intro ~~& [T-En]~~ 
+- Nintendo Game Boy Color: No-Intro ~~& [T-En]~~ 
+- Nintendo GameCube: RedumpCustom NKit RVZ ~~& [T-En]~~
 - PC Engine SuperGrafx: No-Intro
-- Sega Dreamcast: ReDump & [T-En]
-- Sega Game Gear: No-Intro & [T-En]
-- Sega Genesis: No-Intro & [T-En]
-- Sega Master System: No-Intro & [T-En]
-- Sega Saturn: ReDump & [T-En]
-- Sega SG-1000: No-Intro & [T-En]
-- SNK Neo Geo CD: ReDump & [T-En]
+- Sega Dreamcast: ReDump ~~& [T-En]~~
+- Sega Game Gear: No-Intro ~~& [T-En]~~
+- Sega Genesis: No-Intro ~~& [T-En]~~
+- Sega Master System: No-Intro ~~& [T-En]~~
+- Sega Saturn: ReDump ~~& [T-En]~~
+- Sega SG-1000: No-Intro ~~& [T-En]~~
+- SNK Neo Geo CD: ReDump ~~& [T-En]~~
 - SNK Neo Geo Pocket: No-Intro
-- SNK Neo Geo Pocket Color: No-Intro & [T-En]
-- Sony Playstation: ReDump & [T-En]
-- Sony Playstation 2: ReDump & [T-En]
-- Sony PSP: ReDump & [T-En]
-- Super Nintendo Entertainment System: No-Intro & [T-En] 
+- SNK Neo Geo Pocket Color: No-Intro ~~& [T-En]~~
+- Sony Playstation: ReDump ~~& [T-En]~~
+- Sony Playstation 2: ReDump ~~& [T-En]~~
+- Sony PSP: ReDump ~~& [T-En]~~
+- Super Nintendo Entertainment System: No-Intro ~~& [T-En]~~ 
 
 ---
 
@@ -81,13 +81,7 @@ ENTrimmed uses open-source, community-trusted tools for building and verifying s
 
 ENTrimmed DATs follow a consistent naming convention:
 
-[System] (1G1R, English, Retail + T-en) [ENTrimmed vX.X].dat
-
-Each set includes:
-- 1G1R trimmed entries
-- English region preference
-- T-En patched games where applicable
-- Exclusions: hacks, betas, demos, homebrew, aftermarket
+[System] (1G1R, English) [ENTrimmed].dat
 
 ---
 
